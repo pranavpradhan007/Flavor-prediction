@@ -1,0 +1,9487 @@
+compound_id,external_id,annotations
+78,CHEBI:6584,"anthocyanidin cation
+"
+78,C08652,"Anthocyanidins and anthocyanins
+"
+78,CPD-11945,"a small molecule
+"
+87,LMPK12120534,"Chalcones and dihydrochalcones
+"
+97,CHEBI:76132,"polyphenol
+gallate ester
+catechin
+"
+97,LMPK12020089,"Flavans, Flavanols and Leucoanthocyanidins
+"
+176,CHEBI:18010,"trihydroxyflavone
+dimethoxyflavone
+"
+176,C01265,"flavonols
+"
+176,LMPK12112731,"Flavones and Flavonols
+"
+176,345-TRIHYDROXY-37-DIMETHOXYFLAVONE,"a flavonol derivative
+"
+218,LMPK12113021,"Flavones and Flavonols
+"
+275,CHEBI:75489,"cinnamate ester
+cyclitol carboxylic acid
+"
+316,CHEBI:41941,"catechols
+dihydroxyphenylacetic acid
+"
+358,CHEBI:49584,"phenols
+"
+358,CPD-10596,"an aromatic compound
+"
+362,CHEBI:16469,"17beta-hydroxy steroid
+estradiol
+"
+362,C00951,"C18 steroids (estrogens) and derivatives
+Estrane and derivatives
+Estrogens
+"
+362,LMST02010001,"C18 steroids (estrogens) and derivatives
+"
+364,LMPK12113018,"Flavones and Flavonols
+"
+371,CHEBI:17113,"butane-1,2,3,4-tetrol
+"
+412,LMFA07010627,"Wax monoesters
+"
+416,LMFA07010625,"Wax monoesters
+"
+431,LMPK12050003,"Isoflavonoids
+"
+432,CHEBI:17818,"tyramines
+"
+433,CHEBI:15760,"monoamine molecular messenger
+primary amino compound
+tyramines
+"
+433,C00483,"Biogenic amines
+Tyramine derivatives
+"
+435,CHEBI:17458,"tyramines
+"
+435,C02442,"Tyramine derivatives
+"
+436,CHEBI:17183,"benzophenanthridine alkaloid
+"
+436,C06162,"Isoquinoline alkaloids
+"
+436,SANGUINARINE,"a small molecule
+"
+437,CHEBI:34970,"carbamate ester
+organic heterotricyclic compound
+guanidines
+alkaloid
+"
+437,C13757,"Alkaloids
+Carbamate derivatives
+"
+442,CHEBI:27479,"hydroxyisoflavone
+"
+442,C02495,"Isoflavonoids
+isoflavones
+"
+442,LMPK12050083,"Isoflavonoids
+"
+442,2-HYDROXYDAIDZEIN,"a small molecule
+"
+446,CHEBI:17895,"L-alpha-amino acid
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid
+tyrosine
+"
+446,C00082,"Common amino acids
+"
+447,CHEBI:28241,"benzylisoquinoline alkaloid
+dimethoxybenzene
+isoquinolines
+"
+447,C06533,"Isoquinoline alkaloids
+"
+452,CHEBI:28821,"benzodioxoles
+piperidine alkaloid
+carboxamide
+N-acylpiperidine
+"
+452,C03882,"Piperidine alkaloids
+"
+453,CHEBI:28177,"dimethylxanthine
+"
+453,C07130,"Purine alkaloids
+"
+453,CPD-12479,"a small molecule
+"
+455,CHEBI:28946,"dimethylxanthine
+"
+455,C07480,"Purine alkaloids
+"
+455,3-7-DIMETHYLXANTHINE,"a small molecule
+"
+461,CHEBI:16927,"L-lysine derivative
+"
+463,CHEBI:35280,"amino-acid betaine
+n-methyl-l-amino acid
+"
+463,C10172,"Pyrrolidine alkaloids
+"
+465,CHEBI:16414,"L-alpha-amino acid
+pyruvate family amino acid
+valine
+"
+465,C00183,"Common amino acids
+"
+470,CPD0-2189,"a small molecule
+"
+474,CHEBI:18019,"L-alpha-amino acid
+lysine
+aspartate family amino acid
+"
+474,C00047,"Common amino acids
+"
+476,CHEBI:17752,"acetyl-L-lysine
+N(6)-acyl-L-lysine
+"
+484,CHEBI:15428,"alpha-amino acid
+serine family amino acid
+"
+484,C00037,"Common amino acids
+Amino acids
+"
+505,CHEBI:609827,"L-alpha-amino acid
+"
+508,CHEBI:17929,"methyl-L-arginine
+"
+509,CHEBI:25682,"methyl-L-arginine
+"
+510,CHEBI:28229,"methyl-L-arginine
+"
+511,CHEBI:15727,"dipeptide
+"
+517,CHEBI:63961,"tripeptide
+"
+520,NALPHANALPHANALPHA-TRIMETHYL-L-H,"a small molecule
+"
+522,CHEBI:15699,"homoserine
+"
+522,C00263,"Other amino acids
+"
+546,CHEBI:30913,"pipecolic acid
+"
+546,C00408,"Piperidine alkaloids
+"
+556,CHEBI:16977,"L-alpha-amino acid
+pyruvate family amino acid
+alanine
+"
+556,C00041,"Common amino acids
+"
+565,CHEBI:18145,"alpha-tocopherol
+"
+565,C02477,"Vitamin E
+Fat-soluble vitamins
+"
+565,LMPR02020000,"Vitamin E
+"
+567,CHEBI:15765,"dopa
+"
+567,C00355,"Other amino acids
+Biogenic amines
+"
+569,CHEBI:2877,"dipeptide
+"
+570,CHEBI:17203,"L-alpha-amino acid
+glutamine family amino acid
+proline
+"
+570,C00148,"Common amino acids
+"
+572,CHEBI:16347,"carnitine
+"
+574,CHEBI:16709,"monohydroxypyridine
+hydroxymethylpyridine
+methylpyridines
+vitamin B6
+"
+574,C00314,"Water-soluble vitamins
+"
+574,PYRIDOXINE,"a vitamin B6
+"
+578,CHEBI:15709,"8-hydroxyfurocoumarin
+"
+578,C00841,"Furanocoumarins
+"
+578,CPD-13041,"an 8-hydroxyfurocoumarin
+"
+582,LMPK12110091,"Flavones and Flavonols
+"
+584,C10065,"xanthenes
+"
+586,LMPK12090021,"Coumestan flavonoids
+"
+591,CHEBI:4932,"dihydroxyflavone
+trimethoxyflavone
+"
+591,C10040,"Flavones and Flavonols
+flavones
+"
+591,LMPK12111228,"Flavones and Flavonols
+"
+604,CHEBI:6052,"monomethoxyflavone
+tetrahydroxyflavone
+7-hydroxyflavonol
+"
+604,C10084,"Flavones and Flavonols
+flavonols
+"
+604,LMPK12110002,"Flavones and Flavonols
+"
+618,LMPK12110897,"Flavones and Flavonols
+"
+625,LMPK12111569,"Flavones and Flavonols
+"
+633,CHEBI:28499,"tetrahydroxyflavone
+flavonols
+"
+633,C05903,"Flavones and Flavonols
+flavonols
+"
+633,LMPK12110003,"Flavones and Flavonols
+"
+640,LMPK12110918,"Flavones and Flavonols
+"
+641,LMPK12110917,"Flavones and Flavonols
+"
+642,LMPK12110895,"Flavones and Flavonols
+"
+647,LMPK12111017,"Flavones and Flavonols
+"
+651,CHEBI:69094,"dihydroxyflavone
+dimethoxyflavone
+"
+651,C17765,"Isoflavonoids
+"
+651,LMPK12050069,"Isoflavonoids
+"
+652,LMPK12113241,"Flavones and Flavonols
+"
+655,CPD-3061,"a flavanone
+"
+657,CHEBI:5262,"trihydroxyflavone
+7-hydroxyflavonol
+"
+657,C10044,"Flavones and Flavonols
+"
+657,LMPK12111653,"Flavones and Flavonols
+"
+658,C11577,"flavonols
+"
+658,LMPK12111654,"Flavones and Flavonols
+"
+662,CHEBI:30778,"trihydroxybenzoic acid
+"
+662,C01424,"Gallotannins
+"
+674,LMPK12050074,"Isoflavonoids
+"
+675,LMPK12050004,"Isoflavonoids
+"
+678,CHEBI:17846,"naringenin
+"
+678,C00509,"Flavanones
+"
+678,LMPK12140001,"Flavanones
+"
+683,C10112,"flavones
+"
+683,LMPK12111468,"Flavones and Flavonols
+"
+688,CHEBI:28412,"3'-hydroxyflavanones
+tetrahydroxyflavanone
+"
+688,C05631,"Flavanones
+"
+688,LMPK12140002,"Flavanones
+"
+690,LMPK12111478,"Flavones and Flavonols
+"
+691,LMPK12111486,"Flavones and Flavonols
+"
+698,C14536,"Isoflavonoids
+isoflavones
+"
+698,LMPK12050104,"Isoflavonoids
+"
+699,CHEBI:77444,"alkene
+"
+699,LMFA11000332,"Hydrocarbons
+"
+700,CHEBI:32368,"medium-chain fatty acid
+straight-chain saturated fatty acid
+"
+700,C17715,"Straight chain fatty acids
+"
+700,LMFA01010011,"Straight chain fatty acids
+"
+704,LMGL03010003,"Triacylglycerols
+"
+710,CHEBI:15354,"cholines
+"
+710,C00114,"Pesticides
+"
+710,CHOLINE,"a small molecule
+"
+725,CPD-8223,"a halide
+"
+726,CHEBI:27789,"chloroethanes
+"
+726,12-DICHLOROETHANE,"a small molecule
+"
+736,CHEBI:37127,"alpha,beta-unsaturated monocarboxylic acid
+monounsaturated fatty acid
+methyl-branched fatty acid
+short-chain fatty acid
+"
+736,LMFA01020097,"Branched fatty acids
+"
+737,CHEBI:36596,"carbonate ester
+"
+738,CHEBI:38358,"alpha,beta-unsaturated monocarboxylic acid
+sorbic acid
+"
+738,LMFA01030100,"Unsaturated fatty acids
+"
+741,CHEBI:36592,"pyrrolidine-2-ones
+"
+745,CHEBI:63866,"primary aliphatic amine
+"
+751,CHEBI:9661,"triglyceride
+"
+751,LMGL03012615,"Triacylglycerols
+"
+752,CHEBI:16602,"chloroethenes
+"
+752,TRICHLOROETHENE,"a small molecule
+"
+753,CHEBI:16236,"primary alcohol
+alkyl alcohol
+ethanols
+"
+753,ETOH,"a primary alcohol
+a short-chain alcohol
+"
+755,CHEBI:53016,"sulfonamide
+isoxazoles
+"
+756,CHEBI:17754,"triol
+alditol
+"
+756,C00116,"Glycerols
+"
+756,GLYCEROL,"a sugar alcohol
+"
+760,CHEBI:35255,"one-carbon compound
+chloromethanes
+"
+760,CPD-843,"a small molecule
+"
+761,CHEBI:29005,"cycloalkane
+"
+761,CPD-8923,"a carbohydrate
+"
+762,CHEBI:6824,"polycyclic cage
+"
+763,CHEBI:64276,"dialdehyde
+"
+763,CPD-9052,"a small molecule
+"
+764,CHEBI:28262,"sulfoxide
+"
+764,DMSO,"a small molecule
+"
+769,CHEBI:16000,"primary alcohol
+primary amine
+ethanolamines
+"
+769,C00189,"Biogenic amines
+"
+769,ETHANOL-AMINE,"a small molecule
+"
+770,CPD-4746,"a sesquiterpenoid
+"
+774,CHEBI:9592,"2-methylbut-2-enoic acid
+"
+774,LMFA01020030,"Branched fatty acids
+"
+775,CHEBI:36431,"2-methylbut-2-enoic acid
+"
+775,LMFA01020029,"Branched fatty acids
+"
+778,CHEBI:18091,"dithiolanes
+sulfur-containing carboxylic acid
+dithiolanecarboxylic acid
+"
+787,CHEBI:17196,"L-alpha-amino acid
+aspartate family amino acid
+asparagine
+"
+787,C00152,"Common amino acids
+"
+789,CPD-13290,"a disaccharide
+a 1->3-&beta;-D-xylan oligosaccharide
+"
+790,CHEBI:507499,"pentahydroxyflavone
+"
+790,C10192,"Flavones and Flavonols
+flavones
+"
+790,LMPK12110847,"Flavones and Flavonols
+"
+801,APIGENIN,"a chalcone
+"
+805,CHEBI:36635,"methylbenzoic acid
+"
+806,CHEBI:27434,"tolualdehyde
+"
+808,CHEBI:28617,"tolualdehyde
+"
+808,CPD-8773,"an aryl aldehyde
+"
+813,CHEBI:47696,"bromophenol
+"
+814,CHEBI:19333,"organochlorine compound
+monomethoxybenzene
+"
+814,TRICHLOROANISOLE,"a small molecule
+"
+815,CHEBI:64344,"methyl ketone
+aromatic ketone
+benzenetriol
+"
+831,CHEBI:35164,"dihydroxyacetophenone
+"
+831,CPD-242,"a small molecule
+"
+833,CHEBI:18414,"dihydroxyacetophenone
+"
+838,CHEBI:18346,"phenols
+benzaldehydes
+"
+838,VANILLIN,"a small molecule
+"
+841,CHEBI:48408,"aromatic ether
+phenols
+benzaldehydes
+"
+844,CHEBI:17189,"dihydroxybenzoic acid
+"
+846,CHEBI:30816,"monohydroxybenzoic acid
+methoxybenzoic acid
+"
+847,CHEBI:36062,"catechols
+dihydroxybenzoic acid
+"
+848,CHEBI:39912,"resorcinols
+dihydroxybenzoic acid
+"
+849,CHEBI:32980,"hydroxy monocarboxylic acid
+"
+857,CHEBI:42438,"phenols
+"
+857,CPD-1072,"an aromatic compound
+"
+861,CHEBI:4630,"monomethoxyflavone
+trihydroxyflavone
+3'-hydroxyflavonoid
+"
+861,C10038,"Flavones and Flavonols
+flavones
+"
+861,LMPK12110824,"Flavones and Flavonols
+"
+862,LMPK12110090,"Flavones and Flavonols
+"
+876,CHEBI:78441,"long-chain fatty aldehyde
+"
+876,LMFA06000108,"Fatty aldehydes
+"
+876,CPD-7884,"a fatty aldehyde
+"
+877,CHEBI:10432,"naphthol
+"
+877,CPD-8131,"a small molecule
+"
+882,CHEBI:16914,"monohydroxybenzoic acid
+"
+884,CHEBI:78439,"long-chain fatty aldehyde
+"
+884,LMFA06000107,"Fatty aldehydes
+"
+884,CPD-7883,"a fatty aldehyde
+"
+885,CHEBI:17594,"hydroquinones
+benzenediol
+"
+885,HYDROQUINONE,"an electron-transfer-related quinol
+a benzenediol
+"
+886,CHEBI:69441,"organic molecular entity
+"
+887,CHEBI:33226,"cinnamyl alcohol
+"
+888,CHEBI:33227,"cinnamyl alcohol
+"
+891,LMFA11000349,"Hydrocarbons
+"
+893,CHEBI:15882,"phenols
+"
+893,PHENOL,"a phenol
+"
+894,CHEBI:15365,"salicylates
+acetate ester
+benzoic acids
+"
+895,CHEBI:18357,"noradrenaline
+"
+895,C00547,"Adrenalines
+Biogenic amines
+"
+896,CHEBI:30754,"aminobenzoic acid
+"
+897,CHEBI:73244,"benzoate ester
+"
+900,CHEBI:42725,"imidazoquinoline
+"
+904,CPD-6562,"an indole derivative
+a glucoside
+"
+905,C08720,"Aurone flavonoids
+aurones
+"
+906,CHEBI:45979,"1,3-thiazole
+benzimidazoles
+"
+906,C07131,"Thiazole fungicides
+"
+906,THIABENDAZOLE,"a small molecule
+"
+907,CHEBI:43732,"1,3-thiazole
+mancude organic heteromonocyclic parent
+monocyclic heteroarene
+"
+912,CHEBI:30856,"thiophenes
+mancude organic heteromonocyclic parent
+monocyclic heteroarene
+"
+917,CHEBI:16765,"indole alkaloid
+aminoalkylindole
+tryptamines
+aralkylamino compound
+"
+917,C00398,"Indole alkaloids
+"
+921,CHEBI:30817,"urocanic acid
+"
+932,CHEBI:70801,"imidazolyl carboxylic acid
+"
+933,CHEBI:16411,"monocarboxylic acid
+indole-3-acetic acids
+"
+933,C00954,"Indole alkaloids
+Auxins
+"
+934,INDOLE-3-CARBOXALDEHYDE,"an indole-phytolexin
+"
+935,CHEBI:24809,"indol-3-yl carboxylic acid
+"
+936,CHEBI:72782,"carboxylic ester
+indoles
+"
+936,CPD-10546,"a plant hormone
+"
+937,CHEBI:16031,"indoles
+acetamides
+"
+937,CPD-237,"a small molecule
+"
+939,CHEBI:24814,"indolyl alcohol
+"
+939,CPDQT-428,"an indole-phytolexin
+"
+940,CHEBI:65009,"aminoalkylindole
+aralkylamino compound
+"
+941,CHEBI:43580,"indol-3-yl carboxylic acid
+"
+946,CHEBI:77092,"carbamate ester
+organic sulfide
+benzimidazoles
+"
+951,CHEBI:30845,"furoic acid
+"
+953,CHEBI:28869,"naphthoquinone
+"
+953,C05377,"Vitamin K
+Fat-soluble vitamins
+"
+953,CPD-3766,"a vitamin K
+"
+954,CHEBI:16482,"naphthalenes
+ortho-fused bicyclic arene
+"
+954,C00829,"Fumigants
+"
+954,NAPHTHALENE,"an aromatic compound
+"
+955,CHEBI:3682,"dihydroxyanthraquinone
+"
+955,C10312,"Anthraquinone type
+"
+956,CHEBI:47426,"sulfonamide
+furans
+chlorobenzoic acid
+"
+957,CHEBI:5195,"C-nitro compound
+furans
+oxazolidines
+"
+958,CHEBI:75633,"polyphenol
+proanthocyanidin
+biflavonoid
+hydroxyflavan
+"
+958,LMPK12030001,"Proanthocyanidins
+"
+961,CHEBI:16667,"hydroxynitrile
+"
+961,CPD-1074,"a small molecule
+"
+963,CHEBI:5679,"coumarins
+"
+963,C09268,"coumarins
+"
+998,CHEBI:65948,"cyclic ketone
+organic heterotetracyclic compound
+polyphenol
+cyclic ether
+"
+1014,CHEBI:15940,"pyridinemonocarboxylic acid
+pyridine alkaloid
+"
+1014,C00253,"Water-soluble vitamins
+Pyridine alkaloids
+"
+1018,CHEBI:4907,"1,1-bis(phosphonic acid)
+"
+1022,LMFA07010471,"Wax monoesters
+"
+1037,CHEBI:30753,"aminobenzoic acid
+"
+1044,CHEBI:30797,"malic acid
+"
+1053,CHEBI:27943,"harmala alkaloid
+"
+1053,CPD-9938,"an alkaloid
+"
+1054,CPDQT-426,"an indole-phytolexin
+"
+1066,CHEBI:46936,"phenols
+capsaicinoid
+"
+1066,CPD-9183,"an alkaloid
+"
+1067,LMPR01070133,"C40 isoprenoids (tetraterpenes)
+"
+1072,5-BETA-CHOLESTANE-3-ALPHA7-TETRAOL,"a sterol
+"
+1086,CHEBI:35720,"organofluorine compound
+N-arylpiperazine
+cyclopropanes
+N-alkylpiperazine
+quinolone
+quinolinemonocarboxylic acid
+"
+1087,CHEBI:71464,"N-(long-chain-acyl)ethanolamine
+endocannabinoid
+"
+1087,LMFA08040013,"N-acyl ethanolamines (endocannabinoids)
+"
+1088,LMFA01030018,"Unsaturated fatty acids
+"
+1089,CPD0-2015,"an <i>N</i>-acyl-L-amino acid
+"
+1091,CHEBI:30260,"triamino-1,3,5-triazine
+"
+1091,C14147,"Pesticides
+"
+1091,CPD-7403,"an aromatic compound
+"
+1093,CHEBI:76604,"aromatic amine
+imidazoquinoxaline
+"
+1094,CHEBI:27510,"hydroxycoumarin
+"
+1094,C09315,"coumarins
+"
+1094,CPD-8186,"a coumarin
+"
+1108,CPD-13494,"a phenylpropanoid
+"
+1109,CHEBI:47693,"tagatose
+D-tagatose
+"
+1110,CHEBI:15672,"tartaric acid
+"
+1113,CHEBI:15671,"tartaric acid
+"
+1114,CHEBI:16551,"trehalose
+"
+1114,C01083,"Disaccharides
+"
+1115,TREHALOSE,"a disaccharide
+"
+1126,CHEBI:10295,"L-sorbopyranose
+"
+1131,CHEBI:17992,"glycosyl glycoside
+"
+1131,C00089,"Disaccharides
+"
+1136,CHEBI:53455,"D-xylose
+"
+1136,C00181,"Aldoses
+"
+1140,VICIANOSE,"a small molecule
+"
+1143,CHEBI:33020,"glycosylglucose
+"
+1145,CHEBI:36219,"lactose
+"
+1151,MALTOSE,"a disaccharide
+"
+1159,CHEBI:17973,"D-galactopyranose 1-phosphate
+alpha-D-hexose 1-phosphate
+"
+1161,CHEBI:47962,"D-galacturonic acid
+"
+1161,CHEBI:62084,"N-acylneuraminic acid
+"
+1171,CHEBI:18266,"methyl myo-inositols
+"
+1172,CHEBI:18266,"methyl myo-inositols
+"
+1176,CHEBI:62346,"L-rhamnose
+"
+1176,C00507,"Deoxy sugars
+"
+1178,6G-KESTOTETRAOSE,"a fructan
+"
+1185,CPD-3781,"a cyclodextrin
+"
+1186,CPD-3783,"a cyclodextrin
+"
+1191,CHEBI:61953,"maltohexaose hexasaccharide
+"
+1192,CHEBI:61952,"maltopentaose pentasaccharide
+"
+1193,CHEBI:47937,"alpha-D-glucosyl-(1->4)-D-mannopyranose
+"
+1202,CHEBI:4208,"D-aldohexose
+D-mannose
+mannopyranose
+"
+1202,C00159,"Aldoses
+"
+1203,CHEBI:6731,"trisaccharide
+"
+1204,CHEBI:28053,"glycosylglucose
+"
+1204,C05402,"Disaccharides
+"
+1205,CHEBI:30852,"hexaric acid
+"
+1205,LMFA01170107,"Dicarboxylic acids
+"
+1209,CHEBI:45744,"N-acetylneuraminic acid
+"
+1267,LMFA07010184,"Wax monoesters
+"
+1298,CHEBI:33277,"tocotrienol
+vitamin E
+"
+1298,C14155,"Vitamin E
+"
+1298,LMPR02020057,"Vitamin E
+"
+1310,LMPR02030001,"Vitamin K
+"
+1315,C08821,"Stigmasterols and C24-ethyl derivatives
+stigmastane
+"
+1315,LMST01040145,"Stigmasterols and C24-ethyl derivatives
+"
+1320,CHEBI:15578,"sapogenin
+"
+1320,C03963,"Spirostanols and derivatives
+spirostan
+Spirostan and derivatives
+"
+1320,LMST01080007,"Spirostanols and derivatives
+"
+1324,CHEBI:28484,"branched-chain saturated fatty acid
+short-chain fatty acid
+methylbutyric acid
+"
+1324,C08262,"Branched fatty acids
+"
+1324,LMFA01020181,"Branched fatty acids
+"
+1352,C16819,"spirostan
+"
+1352,LMST01080019,"Spirostanols and derivatives
+"
+1355,CHEBI:41879,"11beta-hydroxy steroid
+17alpha-hydroxy steroid
+glucocorticoid
+20-oxo steroid
+fluorinated steroid
+3-oxo-Delta(1),Delta(4)-steroid
+21-hydroxy steroid
+"
+1355,C15643,"Pregnane and derivatives [Fig]
+"
+1365,CHEBI:17566,"indoles
+nitrile
+"
+1365,INDOLEYL-CPD,"a small molecule
+"
+1366,LMFA07010411,"Wax monoesters
+"
+1403,CHEBI:27823,"indole-3-acetic acids
+"
+1404,CHEBI:33070,"indol-3-yl carboxylic acid
+"
+1451,CHEBI:44897,"monocarboxylic acid
+carboxyalkyl phosphate
+"
+1463,C00341,"Acyclic monoterpenoids
+Linear monoterpenes
+"
+1465,CHEBI:64280,"monoterpene
+"
+1465,C09873,"Acyclic monoterpenoids
+Linear monoterpenes
+"
+1465,LMPR0102010021,"Acyclic monoterpenoids
+"
+1472,CHEBI:28927,"dihydroxyflavanone
+monomethoxyflavanone
+flavonoid phytoalexin
+"
+1472,C09833,"Flavanones
+"
+1472,LMPK12140571,"Flavanones
+"
+1474,CHEBI:28393,"2-amino-2-deoxy-D-glucopyranose
+"
+1477,CHEBI:17859,"alpha,omega-dicarboxylic acid
+"
+1477,C00489,"Dicarboxylic acids
+"
+1478,CHEBI:16891,"2-oxo monocarboxylic acid
+aldehydic acid
+"
+1479,CHEBI:30744,"C4-dicarboxylic acid
+oxo dicarboxylic acid
+"
+1479,LMFA01170120,"Dicarboxylic acids
+"
+1490,CHEBI:27747,"L-lysine derivative
+homoarginine
+"
+1493,CHEBI:18127,"alkane-alpha,omega-diamine
+"
+1493,CADAVERINE,"an aliphatic &alpha;,&omega;-diamine
+"
+1494,CHEBI:17148,"alkane-alpha,omega-diamine
+"
+1494,C00134,"Biogenic amines
+"
+1494,PUTRESCINE,"an aliphatic &alpha;,&omega;-diamine
+"
+1497,CHEBI:17489,"adenyl ribonucleotide
+3',5'-cyclic purine nucleotide
+"
+1497,C00575,"3',5'-Cyclic nuclcleotides
+"
+1498,CHEBI:16856,"thiol
+cysteine derivative
+tripeptide
+"
+1498,C00051,"Coenzymes
+"
+1931,CHEBI:15741,"C4-dicarboxylic acid
+alpha,omega-dicarboxylic acid
+"
+1931,LMFA01170043,"Dicarboxylic acids
+"
+1512,CHEBI:18135,"catechols
+benzenediol
+"
+1512,CATECHOL,"a catechol
+"
+1546,LMPK12113017,"Flavones and Flavonols
+"
+1604,CHEBI:18107,"xanthosines
+"
+1604,C01762,"Purine alkaloids
+"
+1946,CHEBI:15603,"L-alpha-amino acid
+pyruvate family amino acid
+leucine
+"
+1946,C00123,"Common amino acids
+"
+1969,LMPK12113344,"Flavones and Flavonols
+"
+1970,LMPK12113343,"Flavones and Flavonols
+"
+1976,CHEBI:17482,"cystathionine
+"
+1977,CHEBI:17712,"xanthine
+"
+1977,C00385,"Purine alkaloids
+"
+1977,XANTHINE,"a small molecule
+"
+1978,CHEBI:48991,"oxopurine
+"
+1978,C16353,"Purine alkaloids
+"
+1978,7-METHYLXANTHINE,"a small molecule
+"
+1979,CHEBI:28680,"monosaccharide derivative
+beta-D-arabinoside
+pyrimidine nucleoside
+"
+1980,CHEBI:33198,"gluconic acid
+"
+1980,C00257,"Uronic acids
+"
+1982,CHEBI:16899,"mannitol
+"
+1984,CHEBI:17621,"flavin mononucleotide
+"
+1993,C10643,"Acridone alkaloids
+"
+2000,C09549,"Isoquinoline alkaloids
+"
+2013,C10676,"Quinoline alkaloids
+"
+2030,C17592,"Isoquinoline alkaloids
+"
+2083,C09423,"Isoquinoline alkaloids
+"
+2087,CHEBI:15854,"cinchona alkaloid
+"
+2089,CHEBI:16718,"reticuline
+"
+2089,C02105,"Isoquinoline alkaloids
+"
+2100,CHEBI:27732,"alkaloid
+purine alkaloid
+trimethylxanthine
+"
+2100,C07481,"Purine alkaloids
+"
+2100,1-3-7-TRIMETHYLXANTHINE,"a small molecule
+"
+2107,CHEBI:32528,"glycosylfructose
+"
+2149,CHEBI:28121,"harmala alkaloid
+"
+2149,C06538,"Indole alkaloids
+"
+2149,CPD-9940,"an alkaloid
+"
+2170,C09231,"Indole alkaloids
+"
+2196,C10642,"Quinazoline alkaloids
+"
+2197,C10128,"Pyridine alkaloids
+"
+2198,CHEBI:2814,"enoate ester
+tetrahydropyridine
+pyridine alkaloid
+"
+2198,C10129,"Pyridine alkaloids
+"
+2237,CHEBI:18123,"iminium betaine
+alkaloid
+"
+2237,C01004,"Pyridine alkaloids
+"
+2237,METHYLNICOTINATE,"a small molecule
+"
+2246,CHEBI:15728,"guanidines
+"
+2250,CHEBI:16828,"L-alpha-amino acid
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid
+tryptophan
+"
+2250,C00078,"Common amino acids
+"
+2253,CHEBI:16958,"beta-amino acid
+"
+2253,C00099,"Other amino acids
+Biogenic amines
+"
+2257,CHEBI:16467,"L-alpha-amino acid
+glutamine family amino acid
+arginine
+"
+2257,C00062,"Common amino acids
+"
+2261,CHEBI:48300,"threitol
+"
+2262,CHEBI:16633,"L-alpha-amino acid
+selenocysteine
+"
+2262,C05688,"Other amino acids
+"
+2281,CHEBI:28939,"N-acetyl-L-amino acid
+acetylcysteine
+"
+2316,LMPK12110420,"Flavones and Flavonols
+"
+2338,LMFA07010467,"Wax monoesters
+"
+2343,CPD-10178,"a secondary metabolite
+"
+2348,CHEBI:78576,"tertiary alcohol
+aromatic ether
+aromatic ketone
+aflatoxin
+"
+2348,C16756,"Aflatoxins and related substances
+Aflatoxins
+"
+2352,CHEBI:17293,"phenoxazine
+"
+2352,ISOPHENOXAZINE,"a small molecule
+"
+2353,CHEBI:28971,"penicillin
+beta-lactam antibiotic
+"
+2353,C06574,"penams
+"
+2396,CHEBI:34292,"benzothiazoles
+aryl thiol
+"
+2396,CPD-8766,"a thiazole
+"
+2412,CHEBI:9400,"pentamethoxyflavone
+"
+2412,C10190,"Flavones and Flavonols
+flavones
+"
+2412,LMPK12111443,"Flavones and Flavonols
+"
+2418,LMPK12113093,"Flavones and Flavonols
+"
+2419,LMPK12113094,"Flavones and Flavonols
+"
+2427,CHEBI:50371,"rosmarinic acid
+"
+2431,ALPHA-TOCOPHEROL,"Vitamin E
+"
+2432,CHEBI:47772,"tocopherol
+"
+2432,C14151,"Vitamin E
+"
+2432,LMPR02020061,"Vitamin E
+"
+2434,CHEBI:33270,"tocotrienol
+vitamin E
+"
+2434,C14153,"Vitamin E
+"
+2434,LMPR02020054,"Vitamin E
+"
+2446,LMPK12090026,"Coumestan flavonoids
+"
+2451,CHEBI:45713,"resveratrol
+"
+2451,C03582,"Diphenyl ethers, biphenyls, dibenzyls and stilbenes
+Stilbenes
+"
+2451,LMPK13090005,"Diphenyl ethers, biphenyls, dibenzyls and stilbenes
+"
+2468,C13526,"Polyketides
+Anthracenes and phenanthrenes
+Anthrone type
+"
+2468,LMPK13040017,"Anthracenes and phenanthrenes
+"
+2481,STERIGMATOCYSTIN,"a small molecule
+"
+2506,C16416,"chalcones
+"
+2507,LMPK12113249,"Flavones and Flavonols
+"
+2514,CHEBI:8359,"7-hydroxyisoflavones
+methoxyisoflavone
+"
+2514,C10520,"Isoflavonoids
+isoflavones
+"
+2514,LMPK12050265,"Isoflavonoids
+"
+2518,LMPK12110919,"Flavones and Flavonols
+"
+2536,CHEBI:28527,"rutinoside
+disaccharide derivative
+tetrahydroxyflavone
+quercetin O-glucoside
+"
+2536,C05625,"flavonols
+"
+2542,CHEBI:18293,"organic heterotricyclic compound
+psoralens
+5-methoxyfurocoumarin
+"
+2542,C01557,"Furanocoumarins
+"
+2542,5-METHOXYFURANOCOUMARIN,"a coumarin
+"
+2558,CHEBI:17395,"caffeic acid
+"
+2559,CHEBI:16433,"caffeic acid
+"
+2559,C01197,"Caffeate derivatives
+"
+2570,CHEBI:69355,"dihydroxyflavone
+tetramethoxyflavone
+"
+2570,LMPK12113010,"Flavones and Flavonols
+"
+2571,CHEBI:15600,"catechin
+"
+2571,C06562,"Flavans, Flavanols and Leucoanthocyanidins
+Flavan 3-ols
+Condensed tannins (Proanthocyanidins)
+"
+2571,LMPK12020001,"Flavans, Flavanols and Leucoanthocyanidins
+"
+2576,CHEBI:90,"polyphenol
+catechin
+"
+2576,C09727,"Flavans, Flavanols and Leucoanthocyanidins
+Flavan 3-ols
+Condensed tannins (Proanthocyanidins)
+"
+2576,LMPK12020003,"Flavans, Flavanols and Leucoanthocyanidins
+"
+2579,CHEBI:16514,"monomethoxyflavone
+trihydroxyflavone
+"
+2579,C04293,"flavones
+"
+2579,LMPK12110799,"Flavones and Flavonols
+"
+2582,CHEBI:16112,"cinnamate ester
+tannin
+"
+2582,C00852,"Caffeate derivatives
+"
+2584,CHEBI:3687,"hydroxyanthraquinones
+"
+2584,C10315,"Anthracenes and phenanthrenes
+Anthraquinone type
+"
+2584,LMPK13040006,"Anthracenes and phenanthrenes
+"
+2584,CPD-8216,"a hydroxyanthraquinone
+"
+2590,CHEBI:32357,"3-coumaric acid
+"
+2593,CHEBI:32374,"4-coumaric acid
+"
+2593,C00811,"Paracoumaryl alcohol derivatives
+"
+2596,LMPK12050060,"Isoflavonoids
+"
+2608,CHEBI:28197,"7-hydroxyisoflavones
+"
+2608,C10208,"Isoflavonoids
+isoflavones
+"
+2608,LMPK12050038,"Isoflavonoids
+"
+2608,DAIDZEIN,"an isoflavone
+a 4'-hydroxyisoflavone
+"
+2613,CHEBI:38701,"anthocyanidin chloride
+"
+2617,LMPK12111444,"Flavones and Flavonols
+"
+2621,C10063,"xanthenes
+"
+2628,CHEBI:65751,"carboxylic ester
+cyclitol carboxylic acid
+"
+2648,CHEBI:4946,"phenols
+xanthones
+"
+2648,C10061,"xanthenes
+"
+2677,CHEBI:28230,"3'-hydroxyflavanones
+trihydroxyflavanone
+monomethoxyflavanone
+"
+2677,C01709,"Flavanones
+"
+2677,LMPK12140003,"Flavanones
+"
+2700,CHEBI:27794,"ferulic acids
+"
+2707,CHEBI:69557,"1-benzofurans
+benzodioxoles
+primary alcohol
+"
+2708,CHEBI:15794,"naphthoquinone
+"
+2708,C03840,"alpha-Naphthoquinones
+"
+2708,HYDROXYNAPHTHOQUINONE,"a quinone
+"
+2711,CHEBI:67486,"monosaccharide derivative
+beta-D-galactoside
+tetrahydroxyflavone
+quercetin O-glycoside
+"
+2711,C10073,"Flavones and Flavonols
+flavonols
+"
+2712,C11918,"Monocyclic gamma-pyrones
+"
+2714,CHEBI:31799,"aromatic ether
+beta-D-glucoside
+anthocyanin cation
+"
+2714,C12140,"Anthocyanidins
+Anthocyanidins and anthocyanins
+"
+2722,LMPK12100028,"Neoflavonoids
+"
+2728,CHEBI:50545,"isoeugenol
+"
+2736,CHEBI:75092,"pentahydroxyflavone
+7-hydroxyflavonol
+"
+2736,C10105,"Flavones and Flavonols
+flavonols
+"
+2736,LMPK12112517,"Flavones and Flavonols
+"
+2742,CHEBI:39248,"long-chain fatty acid
+straight-chain saturated fatty acid
+"
+2742,LMFA01010021,"Straight chain fatty acids
+"
+2744,CHEBI:75164,"monomethoxyflavone
+pentahydroxyflavone
+flavonols
+"
+2744,C10118,"Flavones and Flavonols
+flavonols
+"
+2744,LMPK12112986,"Flavones and Flavonols
+"
+2746,CHEBI:7947,"monomethoxyflavone
+tetrahydroxyflavone
+"
+2746,C10119,"Flavones and Flavonols
+flavones
+"
+2746,LMPK12111231,"Flavones and Flavonols
+"
+2753,CHEBI:75033,"anthocyanidin chloride
+"
+2755,CHEBI:75035,"anthocyanidin chloride
+"
+2774,C09311,"coumarins
+"
+2775,CHEBI:490095,"hydroxycoumarin
+"
+2775,C09263,"coumarins
+"
+2775,CPD-8097,"a coumarin
+"
+2778,CHEBI:31028,"catechin
+"
+2778,C12128,"Flavan 3-ols
+"
+2778,LMPK12020036,"Flavans, Flavanols and Leucoanthocyanidins
+"
+2785,CHEBI:2607,"aromatic primary alcohol
+dihydroxyanthraquinone
+"
+2785,C10294,"Anthracenes and phenanthrenes
+Anthraquinone type
+"
+2785,LMPK13040002,"Anthracenes and phenanthrenes
+"
+2787,CHEBI:64983,"phenols
+benzochromenone
+"
+2788,CHEBI:2631,"ring assembly
+biflavonoid
+hydroxyflavone
+"
+2788,C10018,"Biflavonoids and polyflavonoids
+"
+2788,LMPK12040009,"Biflavonoids and polyflavonoids
+"
+2798,CHEBI:18388,"trihydroxyflavone
+"
+2798,C01477,"Flavones and Flavonols
+flavones
+"
+2798,LMPK12110005,"Flavones and Flavonols
+"
+2800,LMPK12111071,"Flavones and Flavonols
+"
+2806,CHEBI:15401,"tetrahydroxyflavanone
+dihydroflavonols
+"
+2806,C00974,"Dihyroflavonols
+"
+2807,LMPK12110892,"Flavones and Flavonols
+"
+2889,CHEBI:77391,"triglyceride
+"
+2889,LMGL03012616,"Triacylglycerols
+"
+2890,CHEBI:28875,"long-chain fatty acid
+straight-chain saturated fatty acid
+"
+2890,C06424,"Straight chain fatty acids
+Saturated fatty acids
+"
+2890,LMFA01010014,"Straight chain fatty acids
+"
+2891,CHEBI:77417,"long-chain primary fatty alcohol
+fatty alcohol 14:0
+"
+2891,LMFA05000041,"Fatty alcohols
+"
+2891,CPD-7875,"a long-chain alcohol
+a primary alcohol
+a fatty alcohol
+"
+2892,LMFA12000177,"Oxygenated hydrocarbons
+"
+2893,CHEBI:31003,"very long-chain fatty acid
+straight-chain saturated fatty acid
+"
+2893,LMFA01010030,"Straight chain fatty acids
+"
+2894,CHEBI:42394,"very long-chain fatty acid
+straight-chain saturated fatty acid
+"
+2894,LMFA01010023,"Straight chain fatty acids
+"
+2899,LMFA11000331,"Hydrocarbons
+"
+2906,CHEBI:77389,"triglyceride
+"
+2906,LMGL03012618,"Triacylglycerols
+"
+2907,CHEBI:75844,"triglyceride
+"
+2907,LMGL03010371,"Triacylglycerols
+"
+2911,CHEBI:53753,"triglyceride
+"
+2911,LMGL03010250,"Triacylglycerols
+"
+2912,CHEBI:77393,"triglyceride
+"
+2912,LMGL03010001,"Triacylglycerols
+"
+2912,CPD66-35,"a triacylglycerol
+"
+2913,CHEBI:45956,"triglyceride
+"
+2913,LMGL03010002,"Triacylglycerols
+"
+2917,CHEBI:46202,"fatty aldehyde
+"
+2917,LMFA06000064,"Fatty aldehydes
+"
+2928,CHEBI:28822,"long-chain fatty acid
+straight-chain saturated fatty acid
+"
+2928,C06425,"Straight chain fatty acids
+Saturated fatty acids
+"
+2928,LMFA01010020,"Straight chain fatty acids
+"
+2935,CHEBI:44247,"tetracosenoic acid
+"
+2935,C08323,"Unsaturated fatty acids
+Monounsaturated fatty acids
+"
+2935,LMFA01030092,"Unsaturated fatty acids
+"
+2937,LMFA05000136,"Fatty alcohols
+"
+2939,LMFA05000134,"Fatty alcohols
+"
+2942,CHEBI:28842,"long-chain fatty acid
+saturated fatty acid
+straight-chain saturated fatty acid
+"
+2942,C01530,"Straight chain fatty acids
+Saturated fatty acids
+"
+2942,LMFA01010018,"Straight chain fatty acids
+"
+2945,LMFA01030144,"Unsaturated fatty acids
+"
+2948,LMFA01030153,"Unsaturated fatty acids
+"
+2952,CHEBI:27997,"octadec-9-enoic acid
+"
+2952,C01712,"Unsaturated fatty acids
+Monounsaturated fatty acids
+"
+2952,LMFA01030073,"Unsaturated fatty acids
+"
+2953,CHEBI:50464,"vaccenic acid
+"
+2953,LMFA01030076,"Unsaturated fatty acids
+"
+2969,LMFA02000246,"Other Octadecanoids
+"
+2970,LMFA02000255,"Other Octadecanoids
+"
+2971,LMFA01060100,"Oxo fatty acids
+"
+2984,CHEBI:60956,"long-chain fatty acid
+straight-chain fatty acid
+divinyl ether fatty acid
+"
+2984,LMFA10000001,"Fatty ethers
+"
+2986,LMFA01140007,"Carbocyclic fatty acids
+"
+2987,LMFA07010455,"Wax monoesters
+"
+2988,LMFA06000053,"Fatty aldehydes
+"
+2991,LMFA01030198,"Unsaturated fatty acids
+"
+2993,CHEBI:32381,"decenoic acid
+"
+2993,LMFA01030033,"Unsaturated fatty acids
+"
+2999,CHEBI:2120,"5-alkylresorcinol
+"
+3001,CHEBI:52333,"1,2-diacyl-sn-glycerol
+dioleoylglycerol
+"
+3001,LMGL02010049,"Diacylglycerols
+"
+3005,LMFA01030400,"Unsaturated fatty acids
+"
+3006,CHEBI:32428,"docosenoic acid
+"
+3006,LMFA01030088,"Unsaturated fatty acids
+"
+3011,CHEBI:30805,"medium-chain fatty acid
+straight-chain saturated fatty acid
+"
+3011,C02679,"Straight chain fatty acids
+Saturated fatty acids
+"
+3011,LMFA01010012,"Straight chain fatty acids
+"
+3012,LMFA07010463,"Wax monoesters
+"
+3031,CHEBI:5658,"dialkyl ketone
+"
+3031,LMFA12000005,"Oxygenated hydrocarbons
+"
+3046,CHEBI:31009,"very long-chain fatty acid
+straight-chain saturated fatty acid
+"
+3046,LMFA01010026,"Straight chain fatty acids
+"
+3049,CHEBI:17600,"long-chain fatty aldehyde
+"
+3049,LMFA06000088,"Fatty aldehydes
+"
+3049,PALMITALDEHYDE,"a small molecule
+"
+3050,CHEBI:73722,"alpha,omega-dicarboxylic acid
+"
+3050,LMFA01170022,"Dicarboxylic acids
+"
+3052,CHEBI:16125,"long-chain primary fatty alcohol
+fatty alcohol 16:0
+"
+3052,C00823,"Fatty alcohols
+"
+3052,LMFA05000061,"Fatty alcohols
+"
+3052,CPD-348,"a small molecule
+"
+3061,CHEBI:34496,"9-HODE
+"
+3061,C14767,"Other Octadecanoids
+"
+3061,LMFA02000188,"Other Octadecanoids
+"
+3069,LMFA01020014,"Branched fatty acids
+"
+3075,CHEBI:43722,"long-chain fatty acid
+branched-chain saturated fatty acid
+"
+3075,LMFA01020007,"Branched fatty acids
+"
+3077,CPD-8508,"a monoacylglycerol
+"
+3078,CHEBI:75455,"2-monoglyceride
+"
+3078,LMGL01010025,"Monoacylglycerols
+"
+3078,CPD66-43,"a monoacylglycerol
+"
+3082,CHEBI:39420,"very long-chain fatty acid
+straight-chain saturated fatty acid
+"
+3082,LMFA01010025,"Straight chain fatty acids
+"
+3083,CHEBI:17302,"long-chain fatty aldehyde
+"
+3083,C01948,"Fatty aldehydes
+"
+3083,LMFA06000083,"Fatty aldehydes
+"
+3083,CPD-388,"a small molecule
+"
+3087,LMFA12000056,"Oxygenated hydrocarbons
+"
+3087,CPD-7898,"a ketone
+"
+3100,CHEBI:35020,"triglyceride
+"
+3100,C13870,"Triacylglycerols
+"
+3100,CPD-13014,"a triacylglycerol
+"
+3103,CHEBI:28364,"omega-3 fatty acid
+icosapentaenoic acid
+"
+3103,C06428,"Unsaturated fatty acids
+Polyunsaturated fatty acids
+Liner triterpenes
+"
+3103,LMFA01030759,"Unsaturated fatty acids
+"
+3112,LMGL03012338,"Triacylglycerols
+"
+3115,LMGL03010716,"Triacylglycerols
+"
+3135,CHEBI:77388,"triglyceride
+"
+3135,LMGL03012617,"Triacylglycerols
+"
+3138,LMFA01150002,"Heterocyclic fatty acids
+"
+3190,CPD-6021,"a disaccharide
+"
+3192,CHEBI:15891,"amino sulfonic acid
+"
+3202,CHEBI:15711,"indoles
+indoleacetic acid ester conjugate
+cyclitol ester
+"
+3209,CHEBI:16555,"thioacetic acid
+"
+3210,CHEBI:51280,"thioester
+"
+3214,CHEBI:45969,"tricarboxylic acid
+"
+3217,CHEBI:34800,"cyclic ketone
+enone
+"
+3226,CHEBI:15746,"polyazaalkane
+tetraamine
+"
+3229,LMFA06000251,"Fatty aldehydes
+"
+3229,CPD-9053,"an <i>n</i>-alkanal
+"
+3231,CHEBI:17418,"straight-chain saturated fatty acid
+short-chain fatty acid
+"
+3231,C00803,"Straight chain fatty acids
+Saturated fatty acids
+"
+3231,LMFA01010005,"Straight chain fatty acids
+"
+3232,CHEBI:36812,"aromatic ketone
+"
+3237,CHEBI:46788,"primary alcohol
+hydroxyether
+"
+3240,ETHYL-ACETOACETATE,"a small molecule
+"
+3241,CHEBI:27750,"acetate ester
+"
+3241,ETHYLACETATE,"a small molecule
+"
+3242,ETHYL-ACETOACETATE,"a small molecule
+"
+3243,CHEBI:15862,"primary aliphatic amine
+"
+3243,ETHANAMINE,"a small molecule
+"
+3244,CHEBI:17967,"carbamate ester
+"
+3244,URETHAN,"a small molecule
+"
+3250,CHEBI:30347,"alkane-alpha,omega-diamine
+"
+3250,CPD-3682,"an amine
+"
+3254,CHEBI:52342,"formate ester
+"
+3258,CHEBI:50849,"carbonate ester
+"
+3263,LMPK12120257,"Chalcones and dihydrochalcones
+"
+3272,CHEBI:48943,"propanals
+"
+3272,CPD-7000,"an <i>n</i>-alkanal
+"
+3275,CHEBI:46645,"primary alcohol
+alkyl alcohol
+"
+3275,LMFA05000100,"Fatty alcohols
+"
+3275,ISOBUTANOL,"a small molecule
+"
+3276,CHEBI:50569,"acetate ester
+"
+3278,CHEBI:16135,"branched-chain saturated fatty acid
+methyl-branched fatty acid
+short-chain fatty acid
+"
+3278,LMFA01020071,"Branched fatty acids
+"
+3279,LMFA07010503,"Wax monoesters
+"
+3283,CHEBI:41131,"2-butenoic acid
+"
+3283,LMFA01030195,"Unsaturated fatty acids
+"
+3286,CHEBI:16638,"methylbutanal
+"
+3286,CPD-7031,"a small molecule
+"
+3291,CHEBI:35460,"maleate ester
+"
+3292,CHEBI:18012,"butenedioic acid
+"
+3294,CHEBI:42111,"2-hydroxypropanoic acid
+"
+3295,CHEBI:422,"2-hydroxypropanoic acid
+"
+3296,CHEBI:6408,"pentathiepane
+"
+3298,CHEBI:17071,"glycolaldehydes
+"
+3298,GLYCOLALDEHYDE,"a small molecule
+"
+3299,CHEBI:17497,"primary alcohol
+2-hydroxy monocarboxylic acid
+"
+3307,CHEBI:29019,"medium-chain fatty acid
+straight-chain saturated fatty acid
+"
+3307,C01601,"Straight chain fatty acids
+"
+3307,LMFA01010009,"Straight chain fatty acids
+"
+3308,CHEBI:35986,"fatty alcohol
+"
+3308,LMFA05000092,"Fatty alcohols
+"
+3309,CHEBI:77927,"methyl ketone
+"
+3309,LMFA12000052,"Oxygenated hydrocarbons
+"
+3318,CHEBI:51749,"ynoate ester
+"
+3337,CHEBI:28837,"medium-chain fatty acid
+straight-chain saturated fatty acid
+"
+3337,C06423,"Straight chain fatty acids
+Saturated fatty acids
+"
+3337,LMFA01010008,"Straight chain fatty acids
+"
+3338,LMFA07010446,"Wax monoesters
+"
+3339,CHEBI:31007,"fluorocarbon
+"
+3340,CHEBI:17935,"fatty aldehyde
+"
+3340,C01545,"Fatty aldehydes
+"
+3340,LMFA06000028,"Fatty aldehydes
+"
+3340,CPD-371,"an <i>n</i>-alkanal
+"
+3341,CHEBI:9300,"alpha,omega-dicarboxylic acid
+"
+3341,C08278,"Dicarboxylic acids
+"
+3341,LMFA01170001,"Dicarboxylic acids
+"
+3345,LMFA12000054,"Oxygenated hydrocarbons
+"
+3346,LMFA12000055,"Oxygenated hydrocarbons
+"
+3358,CHEBI:16995,"alpha,omega-dicarboxylic acid
+"
+3360,CHEBI:30831,"2-oxo monocarboxylic acid
+short-chain fatty acid
+"
+3360,C00109,"Oxo fatty acids
+"
+3360,LMFA01060002,"Oxo fatty acids
+"
+3362,CHEBI:30915,"oxo dicarboxylic acid
+"
+3363,CHEBI:15753,"oxo dicarboxylic acid
+"
+3363,LMFA01170121,"Dicarboxylic acids
+"
+3365,CHEBI:67125,"methyl ketone
+pyrroline
+acylimine
+"
+3366,LMFA12000011,"Oxygenated hydrocarbons
+"
+3367,CHEBI:33033,"2-oxo monocarboxylic acid
+oxopentanoic acid
+"
+3367,C06255,"Oxo fatty acids
+"
+3367,LMFA01060004,"Oxo fatty acids
+"
+3368,CHEBI:52051,"acetate ester
+"
+3368,CPD-6501,"a small molecule
+"
+3379,CHEBI:15743,"butanals
+"
+3379,BUTANAL,"an <i>n</i>-alkanal
+"
+3380,CPD-12276,"a glycol
+"
+3381,CHEBI:43799,"primary aliphatic amine
+"
+3381,BUTYLAMINE,"a small molecule
+"
+3383,CPD-326,"a small molecule
+"
+3384,CHEBI:28398,"methyl ketone
+dialkyl ketone
+"
+3384,LMFA12000043,"Oxygenated hydrocarbons
+"
+3384,MEK,"a methyl-ethyl-ketone
+"
+3387,CHEBI:31328,"acetate ester
+"
+3387,CPD-13346,"an ester
+"
+3390,CHEBI:63921,"ether
+primary alcohol
+"
+3391,CHEBI:50534,"isothiocyanate
+"
+3393,CHEBI:42639,"butan-4-olide
+"
+3393,LMFA07040004,"Lactones
+"
+3394,CHEBI:27385,"one-carbon compound
+chloromethanes
+chlorocarbon
+"
+3394,CPD-842,"a small molecule
+"
+3395,CHEBI:27869,"monocarboxylic acid
+organochlorine compound
+"
+3395,C06755,"Pesticides
+"
+3395,LMFA01090068,"Halogenated fatty acids
+"
+3398,C18676,"Pesticides
+"
+3398,CPD0-1953,"a small molecule
+"
+3405,CHEBI:15964,"sulfamic acids
+"
+3407,CHEBI:36096,"monocarboxylic acid
+"
+3409,CHEBI:41674,"cyclohexanedione
+"
+3409,CPD0-1349,"a ketone
+"
+3419,CHEBI:17854,"cyclohexanones
+"
+3419,CYCLOHEXANONE,"a small molecule
+"
+3478,CHEBI:37277,"monocarboxylic acid
+"
+3479,CHEBI:15773,"primary aliphatic amine
+"
+3479,CPD-303,"a small molecule
+"
+3482,CHEBI:16486,"cyclopentanones
+"
+3482,CYCLOPENTANONE,"a small molecule
+"
+3485,CHEBI:77929,"methyl ketone
+"
+3485,LMFA12000044,"Oxygenated hydrocarbons
+"
+3488,CHEBI:7351,"acetamides
+"
+3490,CHEBI:30629,"triamine
+polyazaalkane
+"
+3492,CHEBI:4608,"organic disulfide
+"
+3497,CHEBI:35807,"nitrosamine
+"
+3507,LMPK12110047,"Flavones and Flavonols
+"
+3510,CHEBI:35928,"organic peroxide
+"
+3514,CHEBI:29108,"monoatomic dication
+divalent metal cation
+calcium cation
+"
+3514,CA+2,"a cation
+"
+3517,CHEBI:49544,"chromium cation
+monoatomic trication
+"
+3517,CR+3,"a cation
+"
+3519,CHEBI:18420,"monoatomic dication
+divalent metal cation
+magnesium cation
+"
+3519,MG+2,"a cation
+"
+3522,CHEBI:29103,"elemental potassium
+alkali metal cation
+monovalent inorganic cation
+monoatomic monocation
+"
+3522,K+,"a cation
+"
+3524,CHEBI:29101,"elemental sodium
+alkali metal cation
+monovalent inorganic cation
+monoatomic monocation
+"
+3524,NA+,"a cation
+"
+3555,CHEBI:16335,"adenosines
+"
+3555,C00212,"Ribonucleosides
+"
+3571,CHEBI:49470,"monoatomic aluminium
+monoatomic trication
+aluminium cation
+"
+3571,CPD-1484,"a cation
+"
+3572,CHEBI:17296,"primary arylamine
+anilines
+"
+3572,ANILINE,"an arylamine
+"
+3576,CHEBI:30168,"monoatomic boron
+monoatomic trication
+"
+3582,CHEBI:48828,"monoatomic dication
+divalent metal cation
+cobalt cation
+"
+3582,CO+2,"a cation
+"
+3583,CHEBI:29036,"monoatomic dication
+divalent metal cation
+copper cation
+"
+3583,CU+2,"a cation
+"
+3592,CHEBI:17437,"methyl sulfide
+"
+3592,CPD-7670,"an organosulfur compound
+"
+3599,CHEBI:4903,"terminal acetylenic compound
+17-hydroxy steroid
+3-hydroxy steroid
+"
+3599,C07534,"C18 steroids (estrogens) and derivatives
+"
+3599,LMST02010036,"C18 steroids (estrogens) and derivatives
+"
+3604,CHEBI:17515,"gamma-glutamylcysteine
+"
+3631,CHEBI:30550,"monoatomic tetracation
+"
+3633,CHEBI:16750,"guanosines
+"
+3633,C00387,"Ribonucleosides
+"
+3637,CHEBI:29035,"monoatomic dication
+divalent metal cation
+manganese cation
+"
+3637,MN+2,"a cation
+"
+3654,MO+2,"a cation
+"
+3655,CHEBI:15729,"ornithine
+"
+3655,C00077,"Other amino acids
+"
+3714,CHEBI:30584,"elemental silicon
+monoatomic tetracation
+"
+3730,CHEBI:29105,"monoatomic dication
+divalent metal cation
+zinc cation
+"
+3730,ZN+2,"a cation
+"
+3763,CHEBI:49867,"monoatomic trication
+elemental antimony
+"
+3764,CHEBI:35828,"monoatomic arsenic
+"
+3765,CHEBI:37136,"monoatomic dication
+barium cation
+divalent metal cation
+"
+3765,BA+2,"a cation
+"
+3767,CHEBI:48775,"monoatomic dication
+divalent metal cation
+cadmium cation
+"
+3767,CD+2,"a cation
+"
+3771,CHEBI:17051,"halide anion
+monoatomic fluorine
+"
+3771,F-,"an anion
+"
+3778,CHEBI:49807,"monoatomic dication
+divalent metal cation
+lead cation
+"
+3778,PB+2,"a cation
+"
+3781,CHEBI:16793,"monoatomic dication
+divalent metal cation
+mercury cation
+"
+3781,HG+2,"a cation
+"
+3784,CHEBI:49847,"rubidium molecular entity
+alkali metal cation
+monovalent inorganic cation
+monoatomic monocation
+"
+3784,RB+,"a cation
+"
+3787,CHEBI:35104,"monoatomic dication
+divalent metal cation
+strontium cation
+"
+3791,CHEBI:30517,"monoatomic tetracation
+tungsten cation
+"
+3793,CHEBI:49948,"vanadium cation
+monoatomic trication
+"
+3812,CHEBI:17632,"nitrogen oxoanion
+reactive nitrogen species
+inorganic anion
+"
+3812,NITRATE,"an anion
+"
+3909,CHEBI:16134,"mononuclear parent hydride
+azane
+"
+3909,AMMONIA,"a small molecule
+"
+3950,CHEBI:17368,"oxopurine
+nucleobase analogue
+purine nucleobase
+"
+3950,C00262,"Purine alkaloids
+"
+3950,HYPOXANTHINE,"a purine-related compound
+a purine base
+"
+3959,CHEBI:16830,"one-carbon compound
+primary aliphatic amine
+methylamines
+"
+3959,METHYLAMINE,"a small molecule
+"
+3969,CHEBI:17688,"nicotine
+"
+3969,C00745,"Pesticides
+Alkaloids
+Pyridine alkaloids
+"
+3992,CHEBI:16119,"alpha,beta-unsaturated monocarboxylic acid
+cyclohexenecarboxylic acid
+hydroxy monocarboxylic acid
+"
+4044,CHEBI:39246,"long-chain fatty acid
+straight-chain saturated fatty acid
+"
+4044,C16535,"Straight chain fatty acids
+"
+4044,LMFA01010019,"Straight chain fatty acids
+"
+4091,CHEBI:16684,"racemate
+"
+4091,C01479,"Alkaloids
+Tropane alkaloids
+Tropan alkaloids
+"
+4182,CHEBI:49713,"alkali metal cation
+monovalent inorganic cation
+monoatomic monocation
+"
+4182,LI+,"a cation
+"
+4189,CHEBI:49468,"monovalent inorganic cation
+monoatomic monocation
+silver cation
+elemental silver
+"
+4189,AG+,"a cation
+"
+4218,CHEBI:4828,"amino-acid betaine
+histidine derivative
+"
+4223,CHEBI:16235,"oxopurine
+2-aminopurines
+purine nucleobase
+"
+4223,C00242,"purines
+"
+4223,GUANINE,"a purine base
+a purine
+"
+4235,CHEBI:16796,"acetamides
+tryptamines
+"
+4235,C01598,"Indole alkaloids
+Melatonin
+"
+4235,N-ACETYL-5-METHOXY-TRYPTAMINE,"a small molecule
+"
+4246,CHEBI:26675,"silicon oxoacid
+"
+4271,CHEBI:17173,"ribulose
+"
+4278,CHEBI:15430,"protoporphyrins
+"
+4280,SEDOHEPTULOSE,"a D-heptose
+"
+4282,CHEBI:18427,"methyl myo-inositols
+"
+4288,CHEBI:28792,"docosenoic acid
+"
+4288,C08316,"Unsaturated fatty acids
+Monounsaturated fatty acids
+"
+4288,LMFA01030089,"Unsaturated fatty acids
+"
+4433,CHEBI:27551,"pyrimidines
+"
+4433,CPD0-2018,"a small molecule
+"
+4484,C08624,"Tirucallane/euphane triterpenoids
+Dammarenes
+"
+4484,LMPR0106090002,"Tirucallane/euphane triterpenoids
+"
+4550,CHEBI:17253,"benzoquinone
+"
+4550,CPD-385,"a small molecule
+"
+4615,CHEBI:28113,"3beta-sterol
+tetracyclic triterpenoid
+"
+4615,C05109,"Cholesterol and derivatives
+"
+4615,LMST01010087,"Cholesterol and derivatives
+"
+4677,CHEBI:32365,"long-chain fatty acid
+straight-chain saturated fatty acid
+"
+4677,LMFA01010017,"Straight chain fatty acids
+"
+4684,CPD-4568,"a 3-&beta;-hydroxysterol
+"
+4717,CPD-2742,"a small molecule
+"
+4725,CHEBI:17741,"formamides
+"
+4725,CPD-581,"a small molecule
+"
+4880,CHEBI:31236,"N-arylpiperazine
+N-alkylpiperazine
+quinolone
+"
+5118,CHEBI:30997,"anhydrohexose
+"
+5129,CHEBI:16269,"tertiary amine
+dimethylaniline
+"
+5129,NN-DIMETHYLANILINE,"a small molecule
+"
+5275,CHEBI:15725,"alkane-alpha,omega-diamine
+"
+5275,CPD-313,"a small molecule
+"
+5353,CHEBI:67263,"polyphenol
+beta-diketone
+diarylheptanoid
+"
+5375,CHEBI:17737,"cholestanoid
+3beta-sterol
+"
+5375,C01802,"Cholesterol and derivatives
+Cholestane and derivatives
+"
+5375,LMST01010016,"Cholesterol and derivatives
+"
+5404,CHEBI:16919,"guanidines
+glycine derivative
+"
+5417,CHEBI:42820,"one-carbon compound
+guanidines
+carboxamidine
+"
+5417,CPD-13517,"a small molecule
+"
+6181,CHEBI:25826,"monoterpene
+terpenoid fundamental parent
+"
+6181,LMFA11000655,"Hydrocarbons
+"
+6220,CHEBI:77468,"long-chain primary fatty alcohol
+"
+6220,LMFA05000194,"Fatty alcohols
+"
+6220,CPD-11595,"a small molecule
+"
+6400,CHEBI:16576,"dipeptide
+"
+6427,CHEBI:17568,"pyrimidone
+pyrimidine nucleobase
+"
+6427,C00106,"pyrimidines
+"
+6427,URACIL,"a pyrimidine-related compound
+a pyrimidine base
+"
+6454,CHEBI:16813,"hexitol
+"
+6558,CHEBI:17996,"halide anion
+monoatomic chlorine
+"
+6558,CL-,"an anion
+"
+6720,CHEBI:45895,"tertiary alcohol
+"
+6726,CHEBI:9349,"sulfone
+"
+6726,CPD-10437,"a sulfone
+"
+6775,CHEBI:3884,"gallate ester
+ellagitannin
+"
+6775,C10219,"Ellagitannins
+"
+6782,CHEBI:27974,"17beta-hydroxy steroid
+3-hydroxy steroid
+16alpha-hydroxy steroid
+"
+6782,C05141,"C18 steroids (estrogens) and derivatives
+Estrane and derivatives
+Estrogens
+"
+6782,LMST02010003,"C18 steroids (estrogens) and derivatives
+"
+6785,CHEBI:42491,"flavones
+"
+6785,C15608,"flavones
+"
+6785,LMPK12110097,"Flavones and Flavonols
+"
+6785,CPD-8485,"a flavone
+"
+7050,CHEBI:28064,"anthocyanin cation
+rutinoside
+disaccharide derivative
+"
+7050,C08620,"Anthocyanidins
+Anthocyanidins and anthocyanins
+"
+7104,CHEBI:49575,"organochlorine compound
+1,4-benzodiazepinone
+"
+7106,CHEBI:31000,"long-chain primary fatty alcohol
+fatty alcohol 22:0
+"
+7106,LMFA05000008,"Fatty alcohols
+"
+7106,CPD-7845,"a long-chain alcohol
+a primary alcohol
+a fatty alcohol
+"
+7107,CHEBI:75627,"long-chain primary fatty alcohol
+fatty alcohol 20:0
+"
+7107,LMFA05000221,"Fatty alcohols
+"
+7107,CPD-7869,"a long-chain alcohol
+a primary alcohol
+a fatty alcohol
+"
+7127,LMFA01010029,"Straight chain fatty acids
+"
+7129,CHEBI:31001,"very long-chain fatty acid
+straight-chain saturated fatty acid
+"
+7129,LMFA01010028,"Straight chain fatty acids
+"
+7193,CPD-8779,"a small molecule
+"
+7312,CHEBI:17258,"purine
+"
+7312,PURINE-RING,"a ring
+"
+7412,CHEBI:16704,"uridines
+"
+7412,C00299,"Ribonucleosides
+"
+7498,CHEBI:36217,"cellobiose
+"
+7499,CHEBI:41922,"polyphenol
+"
+7500,CHEBI:15429,"hydroxylamines
+"
+7500,HYDROXYLAMINE,"a small molecule
+"
+7509,CHEBI:16695,"pyrimidine ribonucleoside 5'-monophosphate
+uridine 5'-phosphate
+"
+7509,C00105,"Ribonucleotides
+"
+7510,CHEBI:17659,"pyrimidine ribonucleoside 5'-diphosphate
+uridine 5'-phosphate
+"
+7510,C00015,"Ribonucleotides
+"
+7539,CHEBI:36121,"chromenyliums
+"
+7837,CHEBI:16885,"trisaccharide
+"
+7915,CPD-12024,"a small molecule
+"
+7946,CHEBI:109895,"beta-carbolines
+mancude organic heterotricyclic parent
+"
+8033,CHEBI:506227,"N-acetylglucosamine
+"
+8033,C00140,"Amino sugars
+"
+8047,CHEBI:47845,"dithiane
+"
+8048,CHEBI:540,"dithiane
+"
+8049,LMFA06000001,"Fatty aldehydes
+"
+8049,CPD-7620,"an <i>n</i>-alkanal
+"
+8052,CHEBI:45571,"medium-chain fatty acid
+straight-chain saturated fatty acid
+"
+8052,C17714,"Straight chain fatty acids
+"
+8052,LMFA01010007,"Straight chain fatty acids
+"
+8054,LMFA05000122,"Fatty alcohols
+"
+8054,CPD-9057,"a small molecule
+"
+8056,CHEBI:5672,"methyl ketone
+dialkyl ketone
+"
+8056,C08380,"Oxygenated hydrocarbons
+"
+8056,LMFA12000004,"Oxygenated hydrocarbons
+"
+8059,CHEBI:50139,"dialkyl ketone
+"
+8059,LMFA12000047,"Oxygenated hydrocarbons
+"
+8060,LMFA12000118,"Oxygenated hydrocarbons
+"
+8065,LMFA12000103,"Oxygenated hydrocarbons
+"
+8069,LMFA06000109,"Fatty aldehydes
+"
+8069,HEXANAL,"an <i>n</i>-alkanal
+"
+8071,LMFA12000247,"Oxygenated hydrocarbons
+"
+8071,CPD-9081,"a small molecule
+"
+8073,LMFA05000117,"Fatty alcohols
+"
+8073,HEXANOL-CMPD,"a small molecule
+"
+8080,LMFA12000048,"Oxygenated hydrocarbons
+"
+8081,LMFA12000049,"Oxygenated hydrocarbons
+"
+8081,CPD-13223,"a ketone
+"
+8083,LMFA06000002,"Fatty aldehydes
+"
+8085,LMFA06000003,"Fatty aldehydes
+"
+8086,CHEBI:23292,"3-hexenal
+"
+8086,LMFA06000110,"Fatty aldehydes
+"
+8098,CHEBI:16554,"triamine
+polyazaalkane
+"
+8099,CPD0-2414,"a small molecule
+"
+8101,ETHYL-S-3-HYDROXYHEXANOATE,"a small molecule
+"
+8105,CHEBI:55381,"beta-hydroxy ketone
+"
+8105,LMFA12000071,"Oxygenated hydrocarbons
+"
+8113,CHEBI:30841,"2-oxo monocarboxylic acid
+3-hydroxy monocarboxylic acid
+"
+8114,CHEBI:18300,"butenedioic acid
+"
+8116,CHEBI:30796,"malic acid
+"
+8117,CHEBI:566274,"dialdehyde
+"
+8118,CHEBI:30794,"alpha,omega-dicarboxylic acid
+"
+8118,LMFA01170041,"Dicarboxylic acids
+"
+8124,CHEBI:30842,"oxo dicarboxylic acid
+"
+8125,CHEBI:17790,"one-carbon compound
+primary alcohol
+alkyl alcohol
+"
+8125,METOH,"a short-chain alcohol
+"
+8127,CHEBI:39275,"one-carbon compound
+methyl halides
+bromomethanes
+"
+8127,C18447,"Pesticides
+"
+8127,CPD-12221,"a bromide
+"
+8130,METHYLBUT-CPD,"a small molecule
+"
+8131,CPD-7033,"a small molecule
+"
+8132,CHEBI:15837,"primary alcohol
+alkyl alcohol
+"
+8132,LMFA05000108,"Fatty alcohols
+"
+8132,CPD-7032,"a small molecule
+"
+8133,CHEBI:31725,"acetate ester
+"
+8135,CHEBI:15825,"enal
+"
+8135,PRENAL,"a small molecule
+"
+8160,CHEBI:15767,"one-carbon compound
+chloromethanes
+"
+8160,CPD-681,"a small molecule
+"
+8161,LMFA12000037,"Oxygenated hydrocarbons
+"
+8172,S-12-EPOXYPROPANE,"a 1,2-epoxypropane
+"
+8175,LMFA12000033,"Oxygenated hydrocarbons
+"
+8179,LMFA12000030,"Oxygenated hydrocarbons
+"
+8208,CHEBI:34856,"morpholines
+saturated organic heteromonocyclic parent
+"
+8217,LMFA01020242,"Branched fatty acids
+"
+8227,LMFA01020083,"Branched fatty acids
+"
+8230,CHEBI:52774,"methyl ketone
+alpha-diketone
+"
+8230,23-PENTANEDIONE,"a small molecule
+"
+8231,CHEBI:44884,"primary alcohol
+alkyl alcohol
+"
+8231,LMFA05000112,"Fatty alcohols
+"
+8231,PENTANOL,"a small molecule
+"
+8244,LMFA12000069,"Oxygenated hydrocarbons
+"
+8244,CPD-13218,"a ketone
+"
+8246,CHEBI:8075,"monocarboxylic acid
+"
+8256,CHEBI:78399,"benzylideneacetone
+"
+8259,VESTITONE,"an isoflavanone
+"
+8272,CHEBI:28631,"monocarboxylic acid
+benzenes
+"
+8273,CHEBI:30851,"2-oxo monocarboxylic acid
+"
+8275,PROPANE-1-2-DIOL,"DL-12-Propanediol
+"
+8278,CHEBI:44864,"dithiol
+"
+8281,CHEBI:28831,"propan-1-ols
+"
+8281,LMFA05000101,"Fatty alcohols
+"
+8281,PROPANOL,"a primary alcohol
+a short-chain alcohol
+"
+8282,CHEBI:8474,"alkanethiol
+"
+8283,CHEBI:17824,"secondary alcohol
+"
+8283,ISO-PROPANOL,"a small molecule
+"
+8286,CHEBI:30768,"saturated fatty acid
+short-chain fatty acid
+"
+8286,C00163,"Straight chain fatty acids
+Saturated fatty acids
+"
+8286,LMFA01010003,"Straight chain fatty acids
+"
+8291,CHEBI:33135,"pyrrolidines
+azacycloalkane
+saturated organic heteromonocyclic parent
+"
+8291,CHEBI:19092,"imine
+pyrroline
+"
+8293,CHEBI:19092,"imine
+pyrroline
+"
+8294,CHEBI:32816,"2-oxo monocarboxylic acid
+"
+8294,LMFA01060077,"Oxo fatty acids
+"
+8296,CHEBI:17158,"propanals
+2-oxo aldehyde
+"
+8296,METHYL-GLYOXAL,"a ketoaldehyde
+"
+8298,CHEBI:15343,"aldehyde
+"
+8298,ACETALD,"an <i>n</i>-alkanal
+"
+8299,CHEBI:49028,"carboximidic acid
+"
+8299,ACETAMIDE,"a small molecule
+"
+8300,CHEBI:15366,"monocarboxylic acid
+"
+8300,C00033,"Straight chain fatty acids
+Saturated fatty acids
+"
+8300,LMFA01010002,"Straight chain fatty acids
+"
+8301,CHEBI:36610,"acyclic carboxylic anhydride
+"
+8302,CHEBI:15347,"methyl ketone
+propanone
+ketone body
+"
+8302,LMFA12000057,"Oxygenated hydrocarbons
+"
+8302,ACETONE,"a methyl-ethyl-ketone
+"
+8304,CHEBI:14750,"beta-diketone
+"
+8304,LMFA12000075,"Oxygenated hydrocarbons
+"
+8304,CPD-8879,"a small molecule
+"
+8306,CHEBI:32806,"aconitic acid
+"
+8307,CHEBI:32805,"aconitic acid
+"
+8308,CHEBI:15368,"enal
+"
+8308,C01471,"Pesticides
+"
+8308,ACROLEIN,"a small molecule
+"
+8309,CHEBI:28619,"acrylamides
+"
+8309,ACRYLAMIDE,"a small molecule
+"
+8310,CHEBI:30832,"alpha,omega-dicarboxylic acid
+"
+8310,LMFA01170048,"Dicarboxylic acids
+"
+8311,CHEBI:17431,"guanidines
+primary amino compound
+"
+8311,C00179,"Amines
+"
+8313,CHEBI:16605,"propenol
+"
+8313,C02001,"Pesticides
+"
+8313,ALLYL-ALCOHOL,"a small molecule
+"
+8318,C10419,"Isoflavonoids
+isoflavanones
+"
+8327,CHEBI:27710,"ethyl sulfide
+"
+8330,C18754,"Dicarboximide fungicides
+"
+8350,LMFA06000034,"Fatty aldehydes
+"
+8369,LMPK12120154,"Chalcones and dihydrochalcones
+"
+8379,CHEBI:74957,"7-hydroxyisoflavones
+"
+8379,LMPK12050102,"Isoflavonoids
+"
+8379,CPD-6998,"a small molecule
+"
+8380,CHEBI:49019,"aliphatic sulfide
+"
+8380,CPD-7037,"an organosulfur compound
+"
+8384,CHEBI:17678,"7-hydroxyisoflavones
+methoxyisoflavone
+"
+8384,C02920,"isoflavones
+"
+8384,LMPK12050081,"Isoflavonoids
+"
+8384,2-HYDROXYFORMONONETIN,"a small molecule
+"
+8405,CHEBI:55365,"cinnamaldehydes
+"
+8426,CHEBI:18385,"thiamine
+"
+8426,C00378,"Water-soluble vitamins
+"
+8426,THIAMINE,"a vitamin
+"
+8440,CHEBI:2533,"organochlorine compound
+monocarboxylic acid amide
+"
+8440,C10928,"Anilide herbicides
+"
+8441,CHEBI:3015,"carbamate ester
+benzimidazoles
+benzimidazolamine pesticide
+"
+8441,C10896,"Carbamate fungicides
+Carbamate pesticides
+"
+8443,CHEBI:3392,"carbamate ester
+benzimidazoles
+"
+8443,C10897,"Carbamate fungicides
+"
+8444,CHEBI:34611,"carbamate ester
+1-benzofurans
+"
+8444,C14291,"Carbamate insecticides
+"
+8452,CHEBI:34703,"benzoylurea insecticide
+"
+8452,C14427,"Pesticides
+"
+8456,CHEBI:38483,"carbamate ester
+"
+8456,C18649,"Carbamate insecticides
+"
+8460,CHEBI:52896,"xanthene dye
+organic cation
+"
+8461,C18659,"Phosphoramido insecticides
+"
+8465,C10988,"Pyrethroid insecticides
+Pyrethroid pesticides
+"
+8466,C18860,"Dicarboximide fungicides
+"
+8467,C18660,"Organophosphorus insecticides
+"
+8468,C18739,"Conazole fungicides
+"
+8469,CHEBI:28909,"ureas
+organochlorine compound
+benzenes
+imidazolidine-2,4-dione
+"
+8469,C11208,"Dicarboximide fungicides
+"
+8470,C11002,"Organophosphorus insecticides
+"
+8471,CHEBI:38505,"carbamate ester
+"
+8471,C18418,"Carbamate insecticides
+"
+8474,CHEBI:38718,"carbamate ester
+organic thiophosphate
+organothiophosphate insecticide
+"
+8474,C18661,"Organophosphorus insecticides
+"
+8477,C18667,"Phosphoramido insecticides
+"
+8478,C11196,"Carbamate pesticides
+Carbamate insecticides
+"
+8480,CHEBI:38728,"monocarboxylic acid amide
+dialkyl phosphate
+organophosphate insecticide
+alkenyl phosphate
+"
+8480,C18663,"Organophosphorus insecticides
+"
+8481,C18749,"Organophosphorus insecticides
+"
+8486,CHEBI:38571,"carbamate ester
+"
+8486,C18771,"Carbamate insecticides
+"
+8501,CHEBI:62629,"C-nitro compound
+organoarsonic acid
+"
+8511,CHEBI:74357,"sulfonic acid derivative
+"
+8511,METHYLMETHANETHIOSULFONATE,"a small molecule
+"
+8542,CHEBI:49017,"aliphatic sulfide
+"
+8542,CPD-7036,"an organosulfur compound
+"
+8544,CHEBI:74456,"cyclic ketone
+furans
+enol
+"
+8549,CHEBI:4918,"phenylpropanoid
+"
+8549,CPD-6482,"a small molecule
+"
+8701,LMPK12120455,"Chalcones and dihydrochalcones
+"
+8711,CHEBI:18353,"phenols
+benzyl alcohols
+monomethoxybenzene
+"
+8711,VANILLYL-ALCOHOL,"a small molecule
+"
+8717,CHEBI:34918,"phenols
+salicylates
+benzoate ester
+"
+8725,CHEBI:28671,"benzaldehydes
+"
+8725,C06577,"Cyclic monoterpenes
+"
+8725,CPD-1003,"a small molecule
+"
+8730,CHEBI:38506,"phenols
+"
+8739,CHEBI:27810,"resorcinols
+benzenediol
+"
+8739,CPD-623,"a benzenediol
+"
+8740,CHEBI:30746,"benzoic acids
+"
+8745,CHEBI:71231,"dihydrochalcones
+"
+8745,LMPK12120464,"Chalcones and dihydrochalcones
+"
+8746,CHEBI:17987,"benzyl alcohols
+"
+8746,BENZYL-ALCOHOL,"an aromatic compound
+"
+8754,CHEBI:41308,"benzophenones
+"
+8755,CHEBI:68889,"catechols
+primary alcohol
+"
+8757,C12300,"Menthane monoterpenoids
+Cyclic monoterpenes
+"
+8765,CHEBI:32356,"2,3-dihydroxycinnamic acid
+"
+8772,CHEBI:78886,"hydroquinones
+"
+8773,CHEBI:34444,"phenols
+"
+8782,CHEBI:16731,"cinnamaldehydes
+"
+8782,C00903,"Monolignols
+"
+8785,CHEBI:35697,"cinnamic acid
+"
+8785,C00423,"Monolignols
+"
+8786,CHEBI:28054,"cresol
+"
+8786,CPD-109,"a methylphenol
+"
+8789,CHEBI:17231,"cresol
+"
+8789,CPD-112,"a methylphenol
+"
+8790,CHEBI:17847,"cresol
+"
+8790,CPD-108,"a methylphenol
+"
+8793,CHEBI:72752,"organic disulfide
+organic aromatic compound
+"
+8851,CHEBI:16130,"organochlorine insecticide
+benzenoid aromatic compound
+chlorophenylethane
+"
+8851,C04623,"Organochlorine pesticides
+Organochlorine insecticides
+"
+8851,CPD-43,"an insecticide
+"
+8857,CHEBI:33216,"bisphenol
+"
+8857,C13624,"Bisphenols
+"
+8858,CHEBI:48400,"monocarboxylic acid
+catechols
+"
+8862,CHEBI:17254,"methylcatechol
+"
+8862,4-METHYLCATECHOL,"a catechol
+"
+8865,CHEBI:17098,"benzaldehydes
+"
+8865,VERATRALDEHYDE,"a small molecule
+"
+8866,CHEBI:59114,"dimethoxybenzene
+"
+8880,CHEBI:39839,"phenols
+"
+8880,CPD-10888,"a phenol
+"
+8900,CHEBI:31980,"fluorocarbon
+"
+8938,CHEBI:16865,"monocarboxylic acid
+gamma-amino acid
+"
+8938,C00334,"Amino fatty acids
+Other amino acids
+Biogenic amines
+"
+8938,LMFA01100039,"Amino fatty acids
+"
+9017,CHEBI:50037,"amidobenzoic acid
+"
+9021,CHEBI:17750,"amino-acid betaine
+glycine derivative
+"
+9021,BETAINE,"a methylated methyl acceptor
+"
+9043,C18706,"Pesticides
+"
+9043,CPD-3627,"an amine
+"
+9168,CHEBI:28855,"polyphenol
+macrocycle
+crown compound
+organic aromatic compound
+"
+9295,CHEBI:16016,"ketotriose
+"
+9295,C00184,"Ketoses
+"
+9295,DIHYDROXYACETONE,"a small molecule
+"
+9312,CHEBI:271436,"tertiary amine
+ethanolamines
+"
+9341,CHEBI:38381,"dodecenoic acid
+"
+9341,LMFA01030043,"Unsaturated fatty acids
+"
+9357,CHEBI:48947,"beta-lactam
+"
+9357,C06662,"Clavams
+"
+9430,CHEBI:3485,"cephalosporin
+ketoxime
+"
+9446,CHEBI:16842,"one-carbon compound
+aldehyde
+"
+9446,FORMALDEHYDE,"an <i>n</i>-alkanal
+"
+9515,CHEBI:73990,"2-monoglyceride
+monooleoylglycerol
+"
+9515,LMGL01010024,"Monoacylglycerols
+"
+9573,CHEBI:17343,"leucoanthocyanidin
+pentahydroxyflavan
+"
+9573,C03648,"Flavan 3,4-diols
+"
+9574,CHEBI:5712,"primary aliphatic amine
+"
+9574,CPD-10098,"a small molecule
+"
+9575,LMFA07010456,"Wax monoesters
+"
+9600,CHEBI:16136,"hydracid
+sulfur hydride
+mononuclear parent hydride
+"
+9600,C00087,"Inorganic fungicides
+"
+9600,HS,"an inorganic compound
+"
+9601,CHEBI:38118,"butenolide
+"
+9603,CHEBI:52794,"hydroxamic acid
+"
+9787,CHEBI:30742,"glycol
+ethanediol
+"
+9787,GLYCOL,"a glycol
+"
+9806,CHEBI:34840,"enoate ester
+"
+9817,CHEBI:51603,"1,3-benzoxazoles
+"
+9823,CHEBI:563586,"coumarins
+"
+9851,CHEBI:52364,"naphthyl ketone
+"
+9869,CHEBI:63861,"aliphatic sulfide
+primary alcohol
+"
+9869,CPD-7677,"an organosulfur compound
+"
+9960,CHEBI:46708,"octene
+"
+10012,CHEBI:27909,"trioxane
+"
+10035,CHEBI:42504,"long-chain fatty acid
+straight-chain saturated fatty acid
+"
+10035,C16537,"Straight chain fatty acids
+"
+10035,LMFA01010015,"Straight chain fatty acids
+"
+10038,CHEBI:38366,"pent-2-enoic acid
+"
+10038,LMFA01030005,"Unsaturated fatty acids
+"
+10069,CHEBI:49798,"polyazaalkane
+"
+10078,CHEBI:38085,"2-benzofurans
+gamma-lactone
+"
+10093,CHEBI:18308,"alpha,beta-unsaturated monocarboxylic acid
+"
+10093,LMFA01030193,"Unsaturated fatty acids
+"
+10098,CHEBI:18153,"alkene
+"
+10098,ETHYLENE-CMPD,"a small molecule
+"
+10114,CHEBI:46916,"acetate ester
+"
+10158,CHEBI:67207,"terpene ketone
+"
+10216,CHEBI:32111,"sulfone
+lactam
+1,2-benzisothiazole
+"
+10340,CHEBI:36595,"cyclic dicarboxylic anhydride
+tetrahydrofurandione
+"
+10411,CHEBI:45919,"long-chain fatty acid
+straight-chain saturated fatty acid
+"
+10411,C17076,"Straight chain fatty acids
+"
+10411,LMFA01010013,"Straight chain fatty acids
+"
+10412,CHEBI:28621,"tertiary amino compound
+amino alcohol
+"
+10413,CHEBI:35026,"tertiary amine
+"
+10415,CHEBI:15724,"N-oxide
+"
+10415,TRIMENTHLAMINE-N-O,"a small molecule
+"
+10424,CHEBI:38880,"tertiary amine
+"
+10493,C14302,"Nitrophenol herbicides
+"
+10496,CHEBI:4640,"secondary amino compound
+aromatic amine
+"
+10496,CPD-9937,"a small molecule
+"
+10500,CHEBI:5692,"chlorobenzenes
+"
+10500,C11042,"Organochlorine fungicides
+"
+10506,CHEBI:17597,"hydroxybenzaldehyde
+"
+10506,4-HYDROXYBENZALDEHYDE,"a small molecule
+"
+10507,CHEBI:9008,"N-acyl-amino acid
+N-acylglycine
+hydroxy-amino acid
+"
+10509,CHEBI:30764,"monohydroxybenzoic acid
+"
+10510,CHEBI:30763,"monohydroxybenzoic acid
+"
+10511,CHEBI:31835,"4-hydroxybenzoate ester
+"
+10513,CHEBI:32063,"phenols
+benzoate ester
+"
+10521,CHEBI:17043,"hydroxybiphenyls
+"
+10521,C02499,"Insect repellents
+"
+10521,CPD-946,"a small molecule
+"
+10524,LMPK12120188,"Chalcones and dihydrochalcones
+"
+10529,CHEBI:68657,"phenols
+monomethoxybenzene
+ketone
+"
+10529,C17497,"Zingiber derived compounds
+"
+10536,CHEBI:18101,"monocarboxylic acid
+phenols
+"
+10542,CHEBI:1883,"phenols
+"
+10542,CPD-1075,"a small molecule
+"
+10552,CHEBI:16394,"aromatic amino acid
+"
+10555,CHEBI:8240,"benzodioxoles
+arenecarbaldehyde
+"
+10559,CHEBI:15714,"3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoic acid
+"
+10559,C00482,"Sinapate derivatives
+"
+10560,CHEBI:30745,"monocarboxylic acid
+benzenes
+"
+10564,S-1-PHENYLETHANOL,"a small molecule
+"
+10568,CHEBI:29069,"benzenedicarboxylic acid
+"
+10582,CHEBI:18397,"alkaloid
+aralkylamine
+phenylethylamine
+"
+10582,C05332,"Biogenic amines
+"
+10584,CHEBI:15793,"monohydroxybenzoic acid
+aminobenzoic acid
+"
+10589,CHEBI:40813,"methoxybenzoic acid
+"
+10614,LMFA11000345,"Hydrocarbons
+"
+10662,CHEBI:102265,"pyrimidines
+sulfonamide
+"
+10663,CHEBI:32161,"aromatic ether
+substituted aniline
+pyrimidines
+sulfonamide
+"
+10664,CHEBI:9328,"pyrimidines
+sulfonamide
+"
+10669,CHEBI:50397,"naphthyloxyacetic acid
+"
+10669,C18750,"Auxins
+"
+10670,C10415,"Isoflavonoids
+isoflavanones
+"
+10671,CHEBI:32918,"naphthylacetic acid
+"
+10671,C13014,"Auxins
+"
+10673,C18533,"Auxins
+"
+10673,ALPHA-NAPHTHALENEACETAMIDE,"a small molecule
+"
+10840,CHEBI:50717,"methylnaphthalene
+"
+10848,CHEBI:3369,"aromatic ketone
+ynone
+"
+10849,CPD-7888,"a fatty aldehyde
+"
+10855,CHEBI:59051,"acyclic carboxylic anhydride
+"
+10855,DIETHYLPYROCARBONATE,"a small molecule
+"
+10858,C10401,"Anthracenes and phenanthrenes
+Anthraquinone type
+"
+10858,LMPK13040015,"Anthracenes and phenanthrenes
+"
+10899,CHEBI:34768,"aldehyde
+furans
+"
+10899,CPD0-2357,"a small molecule
+"
+10908,CHEBI:43572,"primary alcohol
+enol
+pyranone
+"
+10916,CHEBI:35260,"1-benzofurans
+benzofuran
+"
+10917,CHEBI:45993,"benzothiazoles
+"
+10923,CHEBI:20339,"chloroindole-3-acetic acid
+"
+10925,CHEBI:72013,"enone
+chromones
+"
+10930,CHEBI:34682,"pyrimidines
+organic thiophosphate
+organothiophosphate insecticide
+"
+10930,C14324,"Organophosphorus insecticides
+"
+10930,CPD-8965,"a small molecule
+"
+10961,CHEBI:32548,"methylpyridines
+"
+10973,CHEBI:64555,"phenols
+phenylpropanoid
+4-hydroxycinnamyl alcohol
+"
+10973,C02646,"Paracoumaryl alcohol derivatives
+"
+10975,CHEBI:17890,"indolyl alcohol
+"
+10975,CPD-341,"a small molecule
+"
+10976,CHEBI:17957,"1,3-thiazole
+primary alcohol
+"
+10976,C04294,"Thiazole alkaloids
+"
+10976,THZ,"a thiazole
+"
+10980,CHEBI:17763,"acetate ester
+"
+10980,CPD-181,"a small molecule
+"
+10995,CHEBI:9171,"methylindole
+"
+10995,SKATOLE,"a small molecule
+"
+10999,CHEBI:16982,"butane-2,3-diol
+"
+11118,CHEBI:35626,"1,3-thiazole
+"
+11123,CHEBI:28786,"organic chloride salt
+"
+11124,C10688,"Quinazoline alkaloids
+"
+11130,CHEBI:59983,"methyl ketone
+aromatic ketone
+furans
+"
+11138,C11180,"Pyrimidine fungicides
+"
+11147,CHEBI:47013,"D-ribose
+ribofuranose
+"
+11147,C00121,"Aldoses
+"
+11149,C18438,"Sulfonylurea herbicides
+"
+11152,C10907,"Anilide herbicides
+"
+11155,LMPK12110908,"Flavones and Flavonols
+"
+11161,C08644,"Aurone flavonoids
+aurones
+"
+11163,CHEBI:78738,"1,3-thiazole
+"
+11170,CHEBI:46837,"pyridinedicarboxylic acid
+"
+11172,CHEBI:17310,"monohydroxypyridine
+hydroxymethylpyridine
+methylpyridines
+pyridinecarbaldehyde
+vitamin B6
+"
+11172,C00250,"Water-soluble vitamins
+"
+11172,PYRIDOXAL,"a vitamin B6
+"
+11178,LMFA07010449,"Wax monoesters
+"
+11190,CHEBI:77415,"long-chain primary fatty alcohol
+"
+11190,LMFA05000459,"Fatty alcohols
+"
+11190,CPD-7876,"a long-chain alcohol
+a primary alcohol
+a fatty alcohol
+"
+11205,CPD-8518,"a ketone
+"
+11219,CHEBI:30109,"3beta-sterol
+"
+11219,C11508,"Ergosterols and C24-methyl derivatives
+"
+11219,LMST01031020,"Ergosterols and C24-methyl derivatives
+"
+11221,CHEBI:35817,"phenols
+C-nitro compound
+organoarsonic acid
+"
+11224,CPD-12006,"a small molecule
+"
+11225,CHEBI:34761,"organic thiophosphate
+"
+11225,C14420,"Organophosphorus insecticides
+"
+11228,CHEBI:4610,"organoselenium compound
+"
+11228,CPD-12005,"a small molecule
+"
+11261,CHEBI:18125,"phenols
+2-coumaric acid
+"
+11261,C01772,"Monolignols
+"
+11264,CHEBI:34687,"diester
+phthalate ester
+"
+11264,C14214,"Phthalates
+Insect repellents
+"
+11272,CHEBI:28212,"diamino-1,3,5-triazine
+chloro-1,3,5-triazine
+"
+11272,CPD-801,"a small molecule
+"
+11290,LMPK12050441,"Isoflavonoids
+"
+11296,CPD-8927,"a lignan
+"
+11301,LMPK12113314,"Flavones and Flavonols
+"
+11333,LMPK12111477,"Flavones and Flavonols
+"
+11369,CHEBI:68721,"organic heterotetracyclic compound
+organochlorine compound
+polyphenol
+aldehyde
+depsidones
+"
+11371,CHEBI:68801,"organic heterotetracyclic compound
+phenols
+aldehyde
+depsidones
+"
+11372,CHEBI:68802,"aromatic ether
+organic heterotricyclic compound
+enone
+polyphenol
+aromatic ketone
+aldehyde
+depsidones
+"
+11373,CHEBI:68803,"aromatic ether
+organic heterotricyclic compound
+organochlorine compound
+enone
+polyphenol
+aromatic ketone
+aldehyde
+depsidones
+"
+11375,CHEBI:68722,"organic heterotricyclic compound
+polyphenol
+aldehyde
+depsidones
+"
+11380,C10654,"Quinoline alkaloids
+"
+11381,CHEBI:38119,"dithiocarbamic ester
+indole phytoalexin
+"
+11383,CPD-13599,"an indole-phytolexin
+"
+11404,C12295,"Acyclic monoterpenoids
+"
+11410,LMFA07010593,"Wax monoesters
+"
+11411,LMFA07010594,"Wax monoesters
+"
+11480,CHEBI:73237,"tertiary amino compound
+benzylisoquinoline alkaloid
+cyclic acetal
+isobenzofuranone
+"
+11480,C09592,"Isoquinoline alkaloids
+"
+11499,LMFA05000060,"Fatty alcohols
+"
+11500,CHEBI:28857,"primary alcohol
+"
+11500,LMFA05000059,"Fatty alcohols
+"
+11502,CHEBI:17902,"N-substituted putrescine
+"
+11502,C00436,"Amines
+"
+11527,CHEBI:17160,"17alpha-hydroxy steroid
+3-hydroxy steroid
+estradiol
+"
+11527,C02537,"C18 steroids (estrogens) and derivatives
+Estrane and derivatives
+"
+11527,LMST02010029,"C18 steroids (estrogens) and derivatives
+"
+11547,CHEBI:17347,"3-oxo steroid
+17beta-hydroxy steroid
+androstanoid
+"
+11547,C00535,"C19 steroids (androgens) and derivatives
+androstane
+Androstane and derivatives
+Androgens
+"
+11547,LMST02020002,"C19 steroids (androgens) and derivatives
+"
+11549,CHEBI:29107,"3beta-hydroxy steroid
+"
+11549,LMST01030100,"Ergosterols and C24-methyl derivatives
+"
+11629,CHEBI:33574,"sulfur-containing carboxylic acid
+2-oxo monocarboxylic acid
+"
+11629,C01180,"Oxo fatty acids
+"
+11629,LMFA01060170,"Oxo fatty acids
+"
+11666,CHEBI:3908,"polyphenol
+delta-lactone
+coumestans
+"
+11666,C10205,"Coumestan flavonoids
+Coumestanes
+"
+11666,LMPK12090018,"Coumestan flavonoids
+"
+11666,CPD-11779,"an isoflavone
+"
+11674,CHEBI:74475,"fatty amide
+"
+11674,LMFA08010009,"Primary amides
+"
+11674,CPD6666-3,"a small molecule
+"
+11675,CHEBI:8994,"benzodioxoles
+"
+11678,CHEBI:28716,"hexadec-9-enoic acid
+"
+11678,C08362,"Unsaturated fatty acids
+Monounsaturated fatty acids
+"
+11678,LMFA01030056,"Unsaturated fatty acids
+"
+11679,CHEBI:17924,"glucitol
+"
+11682,CHEBI:15756,"long-chain fatty acid
+straight-chain saturated fatty acid
+"
+11682,C00249,"Straight chain fatty acids
+Saturated fatty acids
+"
+11682,LMFA01010001,"Straight chain fatty acids
+"
+11741,LMPK12110112,"Flavones and Flavonols
+"
+11800,CHEBI:65899,"phenols
+dimethoxybenzene
+chalcones
+"
+11800,LMPK12120246,"Chalcones and dihydrochalcones
+"
+11802,CPD-255,"acetoin
+"
+11805,CHEBI:17596,"inosines
+"
+11812,CHEBI:16441,"beta-D-glucoside
+"
+11812,C01594,"Cyanogenic glucosides derived from valine or isoleucine
+"
+11819,LMPK12120244,"Chalcones and dihydrochalcones
+"
+11827,CHEBI:15903,"D-glucopyranose
+"
+11831,CHEBI:28088,"7-hydroxyisoflavones
+"
+11831,C06563,"Isoflavonoids
+isoflavones
+"
+11831,LMPK12050218,"Isoflavonoids
+"
+11832,CHEBI:17925,"D-glucopyranose
+"
+11834,CHEBI:17700,"methyl ketone
+dialkyl ketone
+"
+11834,C01875,"Oxygenated hydrocarbons
+"
+11834,LMFA12000002,"Oxygenated hydrocarbons
+"
+11834,2-UNDECANONE,"a small molecule
+"
+11844,CHEBI:16349,"citrulline
+"
+11844,C00327,"Other amino acids
+"
+11846,CHEBI:68656,"phenols
+methyl ketone
+"
+11846,CPD-8647,"a polyketide
+"
+11847,CHEBI:35045,"undecenoic acid
+"
+11847,LMFA01030036,"Unsaturated fatty acids
+"
+11857,CHEBI:17362,"quinolines
+mancude organic heterobicyclic parent
+azaarene
+ortho-fused heteroarene
+"
+11857,QUINOLINE,"a small molecule
+"
+11859,CHEBI:15971,"L-alpha-amino acid
+histidine
+"
+11859,C00135,"Common amino acids
+"
+11869,CHEBI:28819,"disaccharide derivative
+dihydroxyflavanone
+neohesperidoside
+"
+11869,C09789,"Flavanones
+"
+11875,CHEBI:15843,"long-chain fatty acid
+omega-6 fatty acid
+icosa-5,8,11,14-tetraenoic acid
+"
+11875,C00219,"Unsaturated fatty acids
+Polyunsaturated fatty acids
+"
+11875,LMFA01030001,"Unsaturated fatty acids
+"
+11881,CHEBI:48498,"aryl thiol
+"
+11885,CHEBI:17361,"pyrimidine ribonucleoside 5'-monophosphate
+cytidine 5'-phosphate
+"
+11885,C00055,"Ribonucleotides
+"
+11887,CHEBI:17558,"monosaccharide derivative
+tetrahydroxyflavone
+quercetin O-glycoside
+alpha-L-rhamnoside
+"
+11887,C01750,"Flavones and Flavonols
+flavonols
+"
+11888,CHEBI:28591,"phenols
+monomethoxybenzene
+"
+11888,CPD-400,"a guaiacol
+"
+11889,CHEBI:16007,"alkanethiol
+"
+11889,CPD-7671,"a thiol
+"
+11890,CHEBI:16104,"monocarboxylic acid
+phenols
+"
+11905,CHEBI:5353,"ring assembly
+biflavonoid
+hydroxyflavone
+methoxyflavone
+"
+11905,C10048,"Biflavonoids and polyflavonoids
+"
+11905,LMPK12040003,"Biflavonoids and polyflavonoids
+"
+11907,CHEBI:16243,"pentahydroxyflavone
+7-hydroxyflavonol
+"
+11907,C00389,"Flavones and Flavonols
+flavonols
+"
+11907,LMPK12110004,"Flavones and Flavonols
+"
+11933,CHEBI:16583,"alpha-diketone
+"
+11933,LMFA12000012,"Oxygenated hydrocarbons
+"
+11933,DIACETYL,"a small molecule
+"
+11937,CPD-346,"a 2,3-butanediol
+"
+11938,CHEBI:28159,"D-alpha-amino acid
+asparagine
+"
+11938,C01905,"Other amino acids
+"
+11941,CHEBI:28794,"coumarins
+"
+11941,C05851,"coumarins
+Phenylpropanoids
+"
+11941,COUMARIN,"a coumarin
+"
+11947,CHEBI:18139,"tertiary amine
+methylamines
+"
+11950,LMFA07010464,"Wax monoesters
+"
+11953,CHEBI:7635,"hydroxyanthraquinones
+"
+11953,C10379,"Anthracenes and phenanthrenes
+Anthraquinone type
+"
+11953,LMPK13040011,"Anthracenes and phenanthrenes
+"
+11963,CHEBI:15951,"butanone
+"
+11963,3-METHYL-1-246-TRIHYDROXYPHENYLBUTAN,"a secondary metabolite
+"
+11967,CHEBI:65737,"enone
+polyphenol
+beta-diketone
+diarylheptanoid
+"
+11986,CHEBI:35128,"2-isopropylmalic acid
+"
+11986,LMFA01170083,"Dicarboxylic acids
+"
+11987,LMPK12112999,"Flavones and Flavonols
+"
+11988,CHEBI:5970,"organic heterotricyclic compound
+oxacycle
+hydroxyisoflavone
+"
+11988,C10467,"Isoflavonoids
+isoflavones
+"
+11988,LMPK12050383,"Isoflavonoids
+"
+11995,CHEBI:34247,"phenols
+"
+11996,LMFA06000019,"Fatty aldehydes
+"
+12002,CHEBI:16857,"L-alpha-amino acid
+aspartate family amino acid
+threonine
+"
+12002,C00188,"Common amino acids
+"
+12006,CPD-6542,"a small molecule
+"
+12011,CHEBI:16881,"indole
+polycyclic heteroarene
+"
+12011,INDOLE,"an indole
+"
+12016,CHEBI:454991,"benzoic acids
+methoxybenzene
+"
+12030,CHEBI:30813,"medium-chain fatty acid
+straight-chain saturated fatty acid
+"
+12030,C01571,"Straight chain fatty acids
+Saturated fatty acids
+"
+12030,LMFA01010010,"Straight chain fatty acids
+"
+12033,CHEBI:38200,"monosaccharide derivative
+3'-hydroxyflavanones
+alpha-L-rhamnoside
+flavanone glycoside
+tetrahydroxyflavanone
+"
+12042,CHEBI:16610,"triamine
+polyazaalkane
+"
+12043,CHEBI:7610,"enal
+"
+12043,LMFA06000117,"Fatty aldehydes
+"
+12044,CHEBI:27957,"primary alcohol
+methyl ketone
+propanone
+"
+12044,ACETOL,"a small molecule
+"
+12047,LMPK12050137,"Isoflavonoids
+"
+12062,CHEBI:40538,"aralkylamine
+primary amine
+"
+12065,CHEBI:30772,"straight-chain saturated fatty acid
+short-chain fatty acid
+"
+12065,C00246,"Straight chain fatty acids
+Saturated fatty acids
+"
+12065,LMFA01010004,"Straight chain fatty acids
+"
+12067,CHEBI:17172,"purine 2'-deoxyribonucleoside
+"
+12067,C00330,"Deoxyribonucleosides
+"
+12086,CHEBI:17153,"alpha-CH2-containing aldehyde
+propanals
+"
+12086,CPD-665,"an <i>n</i>-alkanal
+"
+12087,LMFA07010528,"Wax monoesters
+"
+12088,CHEBI:25722,"uridines
+pyrimidinemonocarboxylic acid
+nucleoside
+"
+12093,CHEBI:16579,"monomethoxybenzene
+"
+12093,CPD-395,"a small molecule
+"
+12101,CHEBI:28374,"alkaloid
+organic heterohexacyclic compound
+steroid
+steroid alkaloid fundamental parent
+"
+12101,C06543,"Solanidines and alkaloid derivatives
+Steroidal alkaloids
+"
+12101,LMST01150007,"Solanidines and alkaloid derivatives
+"
+12109,CHEBI:27632,"methyl ketone
+acetophenones
+"
+12109,PHENYL,"an aromatic compound
+a methyl-ethyl-ketone
+"
+12122,CHEBI:50599,"methyl-L-histidine
+"
+12125,LMST01010077,"Cholesterol and derivatives
+"
+12127,C10204,"Isoflavonoids
+isoflavanones
+"
+12132,C03567,"Isoflavonoids
+isoflavanones
+"
+12132,2-HYDROXY-23-DIHYDRODAIDZEIN,"a small molecule
+"
+12134,LMST01040122,"Stigmasterols and C24-ethyl derivatives
+"
+12135,CHEBI:28928,"furanocoumarin
+"
+12135,C09060,"Furanocoumarins
+"
+12135,CPD-9815,"a small molecule
+"
+12140,C02278,"Fatty aldehydes
+"
+12140,LMFA06000071,"Fatty aldehydes
+"
+12140,CPD-7880,"a fatty aldehyde
+"
+12155,CHEBI:49000,"benzenes
+primary alcohol
+"
+12155,CPD-7035,"a small molecule
+"
+12156,CHEBI:31988,"acetate ester
+"
+12157,CPD-12217,"a small molecule
+"
+12161,CHEBI:28790,"phenols
+monoamine molecular messenger
+primary amino compound
+tryptamines
+"
+12161,C00780,"Indole alkaloids
+Biogenic amines
+"
+12163,CHEBI:17015,"flavin
+"
+12163,C00255,"Water-soluble vitamins
+"
+12166,CHEBI:18243,"catecholamine
+"
+12166,C03758,"Biogenic amines
+Tyramine derivatives
+Dopamine
+"
+12167,CHEBI:18050,"L-alpha-amino acid
+glutamine family amino acid
+glutamine
+"
+12167,C00064,"Common amino acids
+"
+12174,CHEBI:4917,"phenylpropanoid
+"
+12174,C10453,"Monolignols
+"
+12174,CPD-6481,"a monoterpenol
+a phenol
+"
+12177,CHEBI:48376,"one-carbon compound
+isourea
+"
+12177,UREA,"a small molecule
+"
+12178,CHEBI:34690,"organochlorine acaricide
+dialkyl phosphate
+organophosphate insecticide
+alkenyl phosphate
+"
+12178,C14430,"Organophosphorus insecticides
+"
+12178,CPD-10185,"a small molecule
+"
+12192,CHEBI:28568,"azacycloalkane
+saturated organic heteromonocyclic parent
+piperazines
+"
+12193,CPD-9275,"an organosulfur compound
+"
+12194,CHEBI:15355,"acetate ester
+acylcholine
+"
+12194,C01996,"Acetylcholine
+"
+12194,ACETYLCHOLINE,"a small molecule
+"
+12195,CHEBI:48131,"alpha,omega-dicarboxylic acid
+"
+12195,C08261,"Dicarboxylic acids
+"
+12195,LMFA01170054,"Dicarboxylic acids
+"
+12201,CHEBI:72775,"benzoate ester
+"
+12201,CPD-6441,"an aromatic compound
+"
+12202,CHEBI:17484,"isothiocyanate
+"
+12202,BENZYL-ISOTHIOCYANATE,"a small molecule
+"
+12203,CHEBI:18026,"dihydroxybenzoic acid
+"
+12205,CHEBI:52153,"tertiary amino compound
+ethanolamines
+"
+12207,CHEBI:75632,"polyphenol
+proanthocyanidin
+biflavonoid
+hydroxyflavan
+"
+12207,C17639,"Proanthocyanidins
+"
+12207,LMPK12030002,"Proanthocyanidins
+"
+12208,CHEBI:75630,"polyphenol
+proanthocyanidin
+biflavonoid
+hydroxyflavan
+"
+12208,LMPK12030003,"Proanthocyanidins
+"
+12213,LMFA07010505,"Wax monoesters
+"
+12218,C10207,"Isoflavonoids
+isoflavanones
+"
+12219,CHEBI:20712,"3alpha-hydroxy steroid
+brassinosteroid
+2alpha-hydroxy steroid
+22-hydroxy steroid
+23-hydroxy steroid
+"
+12219,LMST01030127,"Ergosterols and C24-methyl derivatives
+"
+12222,CHEBI:18088,"7-hydroxyisoflavones
+methoxyisoflavone
+"
+12222,C00858,"Isoflavonoids
+isoflavones
+"
+12222,LMPK12050037,"Isoflavonoids
+"
+12222,FORMONONETIN,"a 4'-methoxyisoflavone
+"
+12226,CHEBI:17574,"7-hydroxyisoflavones
+methoxyisoflavone
+"
+12226,C00814,"Isoflavonoids
+isoflavones
+"
+12226,LMPK12050229,"Isoflavonoids
+"
+12228,CHEBI:42202,"beta-D-glucoside
+monosaccharide derivative
+hydroxyisoflavone
+glycosyloxyisoflavone
+"
+12228,C10216,"Isoflavonoids
+isoflavones
+"
+12231,CHEBI:29608,"hydroxyisoflavone
+methoxyisoflavone
+"
+12231,C12125,"Isoflavonoids
+isoflavones
+"
+12231,LMPK12050039,"Isoflavonoids
+"
+12231,CPD-3343,"a small molecule
+"
+12241,CHEBI:16424,"alpha-CH2-containing aldehyde
+phenylacetaldehydes
+"
+12241,PHENYLACETALDEHYDE,"an aryl aldehyde
+"
+12242,C10037,"flavonols
+"
+12242,LMPK12111552,"Flavones and Flavonols
+"
+12244,CHEBI:39870,"alkylamines
+"
+12244,CPD-9379,"a small molecule
+"
+12245,CHEBI:32398,"glyceric acid
+"
+12253,CHEBI:16530,"2-oxo monocarboxylic acid
+"
+12253,C00141,"Branched fatty acids
+"
+12253,LMFA01020274,"Branched fatty acids
+"
+12269,CHEBI:16708,"purine nucleobase
+6-aminopurines
+"
+12269,C00147,"purines
+"
+12269,ADENINE-RING,"a ring
+"
+12271,CHEBI:34656,"alkylbenzene
+"
+12271,CPD0-2360,"an aromatic compound
+"
+12295,CHEBI:3962,"enone
+polyphenol
+beta-diketone
+diarylheptanoid
+"
+12296,LMPK12160013,"Other Flavonoids
+"
+12297,C10523,"Coumestan flavonoids
+Coumestanes
+"
+12297,LMPK12090007,"Coumestan flavonoids
+"
+12299,CHEBI:8994,"benzodioxoles
+"
+12310,CHEBI:16069,"mancude organic heteromonocyclic parent
+monocyclic heteroarene
+imidazole
+"
+12310,IMIDAZOLE-RING,"an aromatic compound
+"
+12323,CHEBI:17164,"tetrasaccharide
+raffinose family oligosaccharide
+"
+12324,CHEBI:15842,"pyrimidine ribonucleoside 5'-monophosphate
+"
+12326,CHEBI:28997,"purine 2'-deoxyribonucleoside
+"
+12328,CPD-1099,"a trisaccharide
+"
+12329,CHEBI:15820,"GDP-mannose
+"
+12330,CHEBI:16742,"pyrimidinemonocarboxylic acid
+"
+12334,CHEBI:28478,"phenols
+hydroxy monocarboxylic acid
+"
+12335,LMFA02000242,"Other Octadecanoids
+"
+12343,CHEBI:27722,"3alpha-hydroxy steroid
+brassinosteroid
+2alpha-hydroxy steroid
+22-hydroxy steroid
+23-hydroxy steroid
+"
+12343,C11049,"Brassinolides and derivatives
+ergostane
+"
+12343,LMST01140002,"Brassinolides and derivatives
+"
+12354,CHEBI:28903,"fatty alcohol
+"
+12354,C01633,"Fatty alcohols
+Pesticides
+"
+12354,LMFA05000062,"Fatty alcohols
+"
+12360,C02059,"Vitamin K
+Fat-soluble vitamins
+"
+12365,CHEBI:27693,"3beta-sterol
+phytosterols
+"
+12365,C01753,"Stigmasterols and C24-ethyl derivatives
+stigmastane
+"
+12365,LMST01040129,"Stigmasterols and C24-ethyl derivatives
+"
+12375,CHEBI:78337,"isothiocyanate
+"
+12375,C18587,"Nematicides
+"
+12376,CHEBI:50158,"phenols
+phenylpropanoid
+"
+12376,C16930,"Monolignols
+"
+12376,CPD-6483,"a phenol
+"
+12384,CHEBI:47771,"tocopherol
+"
+12384,LMPR02020059,"Vitamin E
+"
+12389,CHEBI:36002,"resveratrol
+"
+12393,CHEBI:17345,"guanosine 5'-phosphate
+purine ribonucleoside 5'-monophosphate
+"
+12393,C00144,"Ribonucleotides
+"
+12400,CHEBI:17191,"L-alpha-amino acid
+aspartate family amino acid
+isoleucine
+"
+12400,C00407,"Common amino acids
+"
+12400,LMFA01100047,"Amino fatty acids
+"
+12401,CHEBI:28620,"7-hydroxyisoflavones
+"
+12401,C10486,"Isoflavonoids
+isoflavones
+"
+12401,LMPK12050286,"Isoflavonoids
+"
+12403,CHEBI:8600,"hydroxyisoflavone
+methoxyisoflavone
+"
+12403,C10521,"Isoflavonoids
+isoflavones
+"
+12403,LMPK12050353,"Isoflavonoids
+"
+12403,CPD-3521,"a small molecule
+"
+12414,CHEBI:3374,"capsaicinoid
+"
+12414,C06866,"Capsaicinoids and derivatives
+"
+12423,C10464,"rotenones
+"
+12424,CHEBI:34900,"fatty amide
+"
+12424,C13846,"Primary amides
+N-acyl amides
+"
+12424,LMFA08010003,"Primary amides
+"
+12427,CHEBI:77928,"methyl ketone
+"
+12427,LMFA12000058,"Oxygenated hydrocarbons
+"
+12427,CPD-7901,"a ketone
+"
+12429,CHEBI:28510,"anthocyanidin chloride
+"
+12438,LMFA07010468,"Wax monoesters
+"
+12439,CHEBI:116314,"fatty amide
+"
+12439,LMFA08010004,"Primary amides
+"
+12442,CHEBI:36946,"one-carbon compound
+ureas
+thioureas
+"
+12443,CHEBI:73224,"isothiocyanate
+"
+12446,CHEBI:955,"phenols
+dimethoxybenzene
+"
+12446,CPD-12797,"a small molecule
+"
+12449,C12298,"Acyclic monoterpenoids
+"
+12457,CHEBI:17578,"toluenes
+"
+12457,TOLUENE,"an aromatic compound
+"
+12459,CHEBI:16008,"hydroxybenzaldehyde
+"
+12459,SALICYLALDEHYDE,"a small molecule
+"
+12460,CHEBI:25979,"benzenes
+nitrile
+"
+12460,PHENYLACETONITRILE,"a small molecule
+"
+12462,CHEBI:31832,"salicylates
+benzoate ester
+"
+12462,CPD-6442,"a small molecule
+"
+12464,CHEBI:73087,"imidazolyl carboxylic acid
+"
+12465,CHEBI:27432,"omega-3 fatty acid
+linolenic acid
+"
+12465,C06427,"Unsaturated fatty acids
+Polyunsaturated fatty acids
+"
+12465,LMFA01030152,"Unsaturated fatty acids
+"
+12467,CHEBI:16974,"imidazolyl carboxylic acid
+"
+12477,CHEBI:18358,"aromatic ether
+psoralens
+"
+12477,C01864,"Polyketides
+Furanocoumarins
+"
+12477,CPD-13042,"an 8-methoxyfurocoumarin
+"
+12486,CHEBI:28878,"primary alcohol
+fatty alcohol
+dodecanols
+"
+12486,C02277,"Fatty alcohols
+"
+12486,LMFA05000001,"Fatty alcohols
+"
+12486,CPD-7867,"a long-chain alcohol
+a primary alcohol
+a fatty alcohol
+"
+12488,CHEBI:17154,"pyridine alkaloid
+pyridinecarboxamide
+"
+12488,C00153,"Water-soluble vitamins
+Pyridine alkaloids
+"
+12488,NIACINAMIDE,"a vitamin
+an aliphatic amide
+"
+12498,CHEBI:15997,"alkylamines
+"
+12498,CPD-630,"a small molecule
+"
+12499,LMST01030114,"Ergosterols and C24-methyl derivatives
+"
+12519,C01590,"Isoflavonoids
+isoflavanones
+"
+12524,CHEBI:19809,"3beta-sterol
+ergostanoid
+phytosterols
+"
+12524,LMST01030096,"Ergosterols and C24-methyl derivatives
+"
+12526,CHEBI:4513,"hydroxycoumarin
+"
+12526,C00796,"coumarins
+"
+12531,CHEBI:28645,"D-fructofuranose
+"
+12533,CHEBI:4167,"glucopyranose
+D-glucose
+"
+12533,C00031,"Aldoses
+"
+12538,CHEBI:16015,"L-alpha-amino acid
+glutamine family amino acid
+glutamic acid
+"
+12538,C00025,"Common amino acids
+Amino acids
+"
+12540,CHEBI:35619,"L-alpha-amino acid
+alpha-aminobutyric acid
+"
+12540,C02356,"Amino fatty acids
+"
+12540,LMFA01100034,"Amino fatty acids
+"
+12550,CHEBI:16472,"methyl ketone
+pentanone
+"
+12550,C01949,"Oxygenated hydrocarbons
+"
+12550,LMFA12000003,"Oxygenated hydrocarbons
+"
+12550,PENTAN-2-ONE,"a small molecule
+"
+12552,CHEBI:40116,"acetate ester
+"
+12553,CHEBI:8473,"alkanethiol
+"
+12555,CHEBI:27452,"styrenes
+acyclic olefin
+vinylarene
+"
+12555,C07083,"styrenes
+"
+12555,CPD-1092,"a small molecule
+"
+12556,4-HYDROXY-BENZYL-ALCOHOL,"a phenol
+"
+12560,CHEBI:16092,"mancude organic heterobicyclic parent
+isoquinolines
+azaarene
+ortho-fused heteroarene
+"
+12560,ISOQUINOLINE,"a small molecule
+"
+12561,CHEBI:207496,"primary alcohol
+furans
+"
+12566,CHEBI:16283,"cystine
+"
+12568,CHEBI:27413,"aminopropionitrile
+"
+12570,CHEBI:17053,"L-alpha-amino acid
+aspartate family amino acid
+aspartic acid
+"
+12570,C00049,"Common amino acids
+Amino acids
+"
+12572,CHEBI:32425,"icosenoic acid
+"
+12572,C16526,"Unsaturated fatty acids
+Monounsaturated fatty acids
+"
+12572,LMFA01030085,"Unsaturated fatty acids
+"
+12577,C09312,"coumarins
+"
+12578,CHEBI:4775,"cyclic ketone
+organic heterotetracyclic compound
+catechols
+polyphenol
+lactone
+"
+12578,C10788,"Ellagitannins
+"
+12582,CHEBI:16348,"C-nitro compound
+"
+12586,CHEBI:16188,"primary alcohol
+octanol
+"
+12586,LMFA05000130,"Fatty alcohols
+"
+12586,OCTANOL,"a small molecule
+"
+12589,CHEBI:30769,"tricarboxylic acid
+"
+12591,CHEBI:48950,"2,4-diaminobutyric acid
+"
+12592,CHEBI:17170,"methylamines
+secondary aliphatic amine
+"
+12598,CHEBI:28483,"imidazoles
+acetamides
+"
+12599,CHEBI:18295,"imidazoles
+aralkylamino compound
+"
+12599,C00388,"Biogenic amines
+Histamine
+"
+12602,CHEBI:27812,"L-alpha-amino acid
+Se-methylselenocysteine
+"
+12604,C09275,"Neoflavonoids
+"
+12604,LMPK12100002,"Neoflavonoids
+"
+12606,CHEBI:5835,"carbopolycyclic compound
+"
+12606,C07606,"Anthracenes and phenanthrenes
+Anthrone type
+"
+12606,LMPK13040001,"Anthracenes and phenanthrenes
+"
+12608,CHEBI:27616,"psoralens
+"
+12608,C09305,"Furanocoumarins
+"
+12608,PHYTOALEXIN-CMPD,"a small molecule
+"
+12609,CHEBI:16017,"thiocyanates
+"
+12609,CPD-65,"a small molecule
+"
+12610,CHEBI:48430,"2-oxo monocarboxylic acid
+"
+12617,CHEBI:28885,"primary alcohol
+alkyl alcohol
+"
+12617,LMFA05000109,"Fatty alcohols
+"
+12617,BUTANOL,"a primary alcohol
+"
+12618,LMPK12111612,"Flavones and Flavonols
+"
+12624,LMFA06000078,"Fatty aldehydes
+"
+12624,CPD-7886,"a fatty aldehyde
+"
+12636,CHEBI:27781,"long-chain fatty acid
+tetradecenoic acid
+"
+12636,C08322,"Unsaturated fatty acids
+Monounsaturated fatty acids
+"
+12636,LMFA01030051,"Unsaturated fatty acids
+"
+12645,C16748,"Mycotoxins
+"
+12647,CHEBI:18049,"piperidines
+secondary amine
+azacycloalkane
+saturated organic heteromonocyclic parent
+"
+12648,CHEBI:30838,"dicarboxylic acid
+"
+12648,LMFA01170063,"Dicarboxylic acids
+"
+12649,CHEBI:30837,"ureas
+"
+12664,CHEBI:28853,"psoralens
+"
+12664,C02162,"Furanocoumarins
+"
+12672,C10404,"Polyketides
+Anthracenes and phenanthrenes
+Anthrone type
+"
+12672,LMPK13040016,"Anthracenes and phenanthrenes
+"
+12679,CHEBI:45658,"cysteine derivative
+S-alkyl-L-cysteine
+"
+12681,CHEBI:17561,"L-alpha-amino acid
+cysteine
+serine family amino acid
+"
+12681,C00097,"Common amino acids
+"
+12683,CHEBI:28797,"D-alpha-amino acid
+alpha-aminobutyric acid
+"
+12683,C02261,"Amino fatty acids
+"
+12683,LMFA01100043,"Amino fatty acids
+"
+12685,CHEBI:18040,"hydroxy-L-lysine
+5-hydroxylysine
+"
+12686,CHEBI:16643,"L-alpha-amino acid
+aspartate family amino acid
+methionine
+"
+12686,C00073,"Common amino acids
+"
+12691,C15776,"Ergosterols and C24-methyl derivatives
+"
+12691,LMST01031019,"Ergosterols and C24-methyl derivatives
+"
+12698,CHEBI:1879,"phenols
+"
+12698,CPD3O-4151,"an aromatic compound
+"
+12706,CHEBI:28061,"D-galactopyranose
+"
+12708,CHEBI:17488,"hydroxycoumarin
+"
+12708,C01752,"coumarins
+"
+12708,SCOPOLETIN,"a small molecule
+"
+12720,CHEBI:412516,"primary alcohol
+furans
+arenecarbaldehyde
+"
+12720,CPD-11572,"a small molecule
+"
+12727,CHEBI:18152,"7-hydroxyflavonol
+hexahydroxyflavone
+"
+12727,C10107,"Flavones and Flavonols
+flavonols
+"
+12727,LMPK12110001,"Flavones and Flavonols
+"
+12736,LMST01040154,"Stigmasterols and C24-ethyl derivatives
+"
+12742,CHEBI:17115,"L-alpha-amino acid
+serine family amino acid
+serine
+"
+12742,C00065,"Common amino acids
+"
+12753,CHEBI:5764,"phenethylamine alkaloid
+"
+12753,C06199,"Tyramine derivatives
+"
+12755,CHEBI:5885,"psoralens
+"
+12755,C09269,"Furanocoumarins
+"
+12760,CHEBI:17748,"pyrimidine 2'-deoxyribonucleoside
+"
+12760,C00214,"Deoxyribonucleosides
+"
+12762,CHEBI:28243,"long-chain primary fatty alcohol
+fatty alcohol 28:0
+"
+12762,LMFA05000003,"Fatty alcohols
+"
+12762,CPD-7872,"a long-chain alcohol
+a primary alcohol
+a fatty alcohol
+"
+12763,CHEBI:17351,"omega-6 fatty acid
+octadecadienoic acid
+"
+12763,C01595,"Unsaturated fatty acids
+Polyunsaturated fatty acids
+"
+12763,LMFA01030120,"Unsaturated fatty acids
+"
+12767,CHEBI:32154,"long-chain primary fatty alcohol
+fatty alcohol 18:0
+"
+12767,LMFA05000085,"Fatty alcohols
+"
+12767,CPD-7873,"a long-chain alcohol
+a primary alcohol
+a fatty alcohol
+"
+12768,CHEBI:32375,"long-chain fatty acid anion
+unsaturated fatty acid anion
+octadecenoate
+"
+12771,CHEBI:31457,"fatty aldehyde
+"
+12771,C12307,"Fatty aldehydes
+"
+12771,LMFA06000052,"Fatty aldehydes
+"
+12771,CPD-8490,"a fatty aldehyde
+"
+12774,CHEBI:151,"isocitric acid
+"
+12783,CHEBI:28834,"bile acid
+dihydroxy-5beta-cholanic acid
+"
+12783,C04483,"C24 bile acids, alcohols, and derivatives
+Cholane and derivatives
+"
+12783,LMST04010040,"C24 bile acids, alcohols, and derivatives
+"
+12784,CHEBI:27910,"3beta-sterol
+"
+12784,LMST01010121,"Cholesterol and derivatives
+"
+12801,CHEBI:17263,"17-oxo steroid
+3-hydroxy steroid
+"
+12801,C00468,"C18 steroids (estrogens) and derivatives
+estrane
+Estrane and derivatives
+Estrogens
+"
+12801,LMST02010004,"C18 steroids (estrogens) and derivatives
+"
+12805,CHEBI:17620,"ferulic acids
+hydroxycinnamic acid
+"
+12805,C01494,"Coniferyl alcohol derivatives
+"
+12807,CHEBI:30751,"monocarboxylic acid
+"
+12807,C00058,"Straight chain fatty acids
+Saturated fatty acids
+"
+12811,CHEBI:167099,"organic heterobicyclic compound
+organonitrogen heterocyclic compound
+"
+12813,CHEBI:16359,"bile acid
+trihydroxy-5beta-cholanic acid
+"
+12813,C00695,"C24 bile acids, alcohols, and derivatives
+Cholane and derivatives
+"
+12813,LMST04010001,"C24 bile acids, alcohols, and derivatives
+"
+12814,CHEBI:28934,"hydroxy seco-steroid
+seco-ergostane
+vitamin D
+"
+12814,C05441,"Vitamin D2 and derivatives
+Fat-soluble vitamins
+"
+12814,LMST03010000,"Vitamin D2 and derivatives
+"
+12831,CHEBI:40933,"3alpha-sterol
+"
+12831,LMST02020008,"C19 steroids (androgens) and derivatives
+"
+12833,CPD-13933,"benzoin
+"
+12839,CHEBI:28523,"polyphenol
+monomethoxybenzene
+dihydrochalcones
+"
+12839,C09644,"dihydrochalcones
+"
+12839,LMPK12120511,"Chalcones and dihydrochalcones
+"
+12841,CHEBI:17097,"benzenes
+biphenyls
+"
+12841,C06588,"Pesticides
+"
+12841,BIPHENYL,"an aromatic compound
+"
+12846,CHEBI:16716,"benzenes
+aromatic annulene
+"
+12846,BENZENE,"an aromatic compound
+"
+12847,CHEBI:41237,"benzoate ester
+"
+12847,CPD-6443,"a small molecule
+"
+12856,CHEBI:39258,"aromatic ether
+"
+12865,CHEBI:16887,"acetylenic compound
+2,2'-bithiophenes
+"
+12865,5-4-HYDROXYBUT-1-YNYL-22-BITHIOPHENE,"a small molecule
+"
+12866,CHEBI:17181,"2,2'-bithiophenes
+"
+12866,5-4-ACETOXYBUT-1-YNYL-2-2-BITHIOPHENE,"a small molecule
+"
+12977,CHEBI:3423,"organochlorine compound
+N-nitrosoureas
+"
+13037,CHEBI:37659,"hydroxy monocarboxylic acid
+pentacyclic triterpenoid
+"
+13037,C17148,"Oleanane triterpenoids
+Oleananes
+"
+13037,LMPR0106150004,"Oleanane triterpenoids
+"
+13044,CHEBI:66682,"dihydroxy monocarboxylic acid
+pentacyclic triterpenoid
+"
+13044,C16939,"Ursanes
+"
+13218,C11924,"Menthane monoterpenoids
+Cyclic monoterpenes
+"
+13232,CHEBI:18160,"ubiquinones
+"
+13232,C01967,"Ubiquinones
+"
+13232,LMPR02010004,"Ubiquinones
+"
+13233,CHEBI:7,"car-3-ene
+"
+13233,C11382,"Bicyclic monoterpenoids
+Cyclic monoterpenes
+"
+13233,LMPR0102120021,"Bicyclic monoterpenoids
+"
+13258,CHEBI:15864,"tetrahydroxyflavone
+3'-hydroxyflavonoid
+"
+13258,C01514,"Flavones and Flavonols
+flavones
+"
+13258,LMPK12110006,"Flavones and Flavonols
+"
+13315,LMFA12000141,"Oxygenated hydrocarbons
+"
+13350,CHEBI:30336,"phosphorus coordination entity
+"
+13383,CHEBI:26078,"phosphoric acids
+"
+13390,CHEBI:29415,"chlorine dioxide
+"
+13391,CHEBI:37382,"nitrogen halide
+"
+13394,CHEBI:48854,"sulfur oxoacid
+"
+13394,H2SO3,"a small molecule
+"
+13396,CHEBI:9330,"sulfamic acids
+"
+13397,CHEBI:15571,"hydrazines
+azane
+"
+13397,HYDRAZINE,"a small molecule
+"
+13398,CHEBI:29150,"iodine oxoacid
+"
+13402,CHEBI:18422,"sulfur oxide
+"
+13402,SULFUR-DIOXIDE,"a non-metabolic compound
+"
+13403,CHEBI:60871,"monoatomic dication
+selenium ion
+"
+13422,C10914,"Pyrimidine fungicides
+"
+13432,C18442,"Sulfonylurea herbicides
+"
+13447,CHEBI:49786,"monoatomic dication
+divalent metal cation
+nickel cation
+"
+13447,NI+2,"a cation
+"
+13483,CPD-9295,"an organosulfur compound
+"
+13514,CHEBI:18095,"4-hydroxyproline
+"
+13514,C01157,"Other amino acids
+"
+13528,CPD-12702,"mandelonitrile
+"
+13529,CHEBI:17396,"prunasin
+"
+13604,CPD-11504,"a sesquiterpenoid
+"
+13610,CPD-7129,"a prenylchalcone
+"
+13630,CHEBI:25150,"beta-D-glucoside
+monosaccharide derivative
+nitrile
+cyanogenic glycoside
+"
+13701,LMPR01070210,"C40 isoprenoids (tetraterpenes)
+"
+13705,CHEBI:16980,"enal
+monoterpenoid
+"
+13705,C01499,"Acyclic monoterpenoids
+Linear monoterpenes
+"
+13705,LMPR0102010003,"Acyclic monoterpenoids
+"
+13713,CHEBI:15385,"cadinene
+"
+13713,C06394,"Cadinane sesquiterpenoids
+Cadinanes
+"
+13713,LMPR0103330001,"Cadinane sesquiterpenoids
+"
+13719,C05433,"C40 isoprenoids (tetraterpenes)
+Carotenoids
+"
+13720,CHEBI:15389,"carveol
+"
+13720,C00964,"Menthane monoterpenoids
+Cyclic monoterpenes
+"
+13720,LMPR0102090005,"Menthane monoterpenoids
+"
+13721,CHEBI:15400,"carvone
+"
+13721,C01767,"Menthane monoterpenoids
+Cyclic monoterpenes
+"
+13721,LMPR0102090007,"Menthane monoterpenoids
+"
+13724,CHEBI:16980,"enal
+monoterpenoid
+"
+13724,C01499,"Acyclic monoterpenoids
+Linear monoterpenes
+"
+13724,LMPR0102010003,"Acyclic monoterpenoids
+"
+13725,CHEBI:10360,"citronellol
+"
+13725,C09849,"Acyclic monoterpenoids
+Linear monoterpenes
+"
+13725,LMPR0102010008,"Acyclic monoterpenoids
+"
+13762,C11938,"Bicyclic monoterpenoids
+Cyclic monoterpenes
+"
+13768,C09880,"Bicyclic monoterpenoids
+Cyclic monoterpenes
+"
+13768,CPD-8754,"an &alpha;-pinene
+"
+13795,CHEBI:17447,"primary alcohol
+monoterpenoid
+3,7-dimethylocta-2,6-dien-1-ol
+"
+13795,C01500,"Acyclic monoterpenoids
+Linear monoterpenes
+"
+13795,LMPR0102010016,"Acyclic monoterpenoids
+"
+13798,CPD-10142,"a 4S-limonene-1,2-epoxide
+"
+13803,CHEBI:15410,"menthone
+"
+13803,C00843,"Menthane monoterpenoids
+Cyclic monoterpenes
+"
+13803,LMPR0102090004,"Menthane monoterpenoids
+"
+13805,CHEBI:16521,"3beta-sterol
+tetracyclic triterpenoid
+"
+13805,C01724,"Cholesterol and derivatives
+"
+13805,LMST01010017,"Cholesterol and derivatives
+"
+13830,CHEBI:69093,"7-hydroxyisoflavones
+"
+13830,LMPK12050248,"Isoflavonoids
+"
+13831,CHEBI:17336,"retinol
+"
+13831,C00473,"Retinoids
+Fat-soluble vitamins
+"
+13831,LMPR01090000,"Retinoids
+"
+13833,LMPR01090008,"Retinoids
+"
+13834,CHEBI:17616,"retinyl palmitate
+"
+13834,C02588,"Retinoids
+"
+13834,LMPR01090013,"Retinoids
+"
+13835,LMPK12110925,"Flavones and Flavonols
+"
+13845,CHEBI:5623,"indole alkaloid
+indole alkaloid fundamental parent
+harmala alkaloid
+"
+13845,C09209,"Indole alkaloids
+"
+13858,CPD-10177,"a secondary metabolite
+"
+13863,CHEBI:10447,"cyclic ketone
+enol
+monoterpenoid
+"
+13863,C09904,"Cyclic monoterpenes
+"
+13864,CHEBI:15383,"limonene
+"
+13864,C00521,"Menthane monoterpenoids
+Cyclic monoterpenes
+"
+13864,LMPR0102090002,"Menthane monoterpenoids
+"
+13865,CHEBI:42223,"hydroxyanthraquinones
+"
+13865,C10343,"Anthracenes and phenanthrenes
+Anthraquinone type
+"
+13865,LMPK13040008,"Anthracenes and phenanthrenes
+"
+13881,CHEBI:562752,"methyl ketone
+aromatic ketone
+furans
+"
+13883,CHEBI:16513,"dicarboxylic acid
+"
+13886,CHEBI:18022,"pseudohalide anion
+sulfur molecular entity
+"
+13886,HSCN,"a perthiol
+"
+13892,CHEBI:16353,"acylcholine
+"
+13892,C00933,"Sinapate derivatives
+"
+13892,O-SINAPOYLCHOLINE,"a small molecule
+"
+13899,CHEBI:77322,"fatty acid methyl ester
+"
+13899,LMFA07010433,"Wax monoesters
+"
+13900,CHEBI:30776,"medium-chain fatty acid
+straight-chain saturated fatty acid
+"
+13900,C01585,"Straight chain fatty acids
+Saturated fatty acids
+"
+13900,LMFA01010006,"Straight chain fatty acids
+"
+13913,C11939,"Bicyclic monoterpenoids
+Cyclic monoterpenes
+"
+14087,CHEBI:16526,"one-carbon compound
+carbon oxide
+"
+14087,CARBON-DIOXIDE,"a small molecule
+"
+14118,C06078,"Menthane monoterpenoids
+Terpenoids
+"
+14118,CPD-8785,"a limonene
+"
+15972,C17518,"Menthane monoterpenoids
+"
+15973,CHEBI:9457,"p-menthadiene
+"
+15973,C06075,"Menthane monoterpenoids
+"
+15973,LMPR0102090062,"Menthane monoterpenoids
+"
+15973,CPD-4890,"a monoterpenoid
+"
+15974,CHEBI:10334,"monoterpene
+"
+15974,C09898,"Menthane monoterpenoids
+Cyclic monoterpenes
+"
+15974,LMPR0102090026,"Menthane monoterpenoids
+"
+15974,CPD-8735,"a monoterpenoid
+"
+15975,CHEBI:10577,"monoterpene
+"
+15975,C09900,"Menthane monoterpenoids
+Cyclic monoterpenes
+"
+15975,LMPR0102090027,"Menthane monoterpenoids
+"
+15975,CPD-8736,"a monoterpenoid
+"
+15977,C17517,"Menthane monoterpenoids
+"
+15978,CHEBI:59159,"monoterpene
+"
+15981,CHEBI:17304,"p-menthadien-3-one
+"
+15981,C01951,"Menthane monoterpenoids
+Cyclic monoterpenes
+"
+15981,LMPR0102090056,"Menthane monoterpenoids
+"
+15981,CPD-278,"a small molecule
+"
+16020,LMPR0106090001,"Tirucallane/euphane triterpenoids
+"
+16026,CPD-4744,"a sesquiterpenoid
+"
+16050,CPD-8748,"a sesquiterpenoid
+"
+16057,CPD-13787,"a sesquiterpenoid
+"
+16083,CHEBI:17883,"hydrogen halide
+mononuclear parent hydride
+chlorine molecular entity
+"
+16083,HCL,"a small molecule
+"
+16107,CHEBI:75544,"aromatic ether
+guanidines
+phenols
+alkaloid
+cinnamamides
+"
+16112,CHEBI:73172,"organofluorine compound
+aromatic ether
+monocarboxylic acid
+organochlorine compound
+C-nitro compound
+benzoic acids
+"
+16113,C18487,"Pesticides
+"
+16128,LMFA07010397,"Wax monoesters
+"
+16140,CHEBI:18167,"maltose
+"
+16188,CPD-3566,"a small molecule
+"
+16246,CPD-11940,"a small molecule
+"
+16250,CPD-696,"a steroid
+"
+16253,CHEBI:49482,"elemental gold
+monoatomic monocation
+"
+16254,CHEBI:18276,"elemental hydrogen
+elemental molecule
+"
+16254,HYDROGEN-MOLECULE,"a small molecule
+"
+16258,CHEBI:29033,"monoatomic dication
+divalent metal cation
+iron cation
+"
+16258,FE+2,"a cation
+"
+16261,LMPK12111616,"Flavones and Flavonols
+"
+16264,LMPK12120490,"Chalcones and dihydrochalcones
+"
+16267,LMPK12111984,"Flavones and Flavonols
+"
+16274,LMPK12110171,"Flavones and Flavonols
+"
+16289,CPD-6561,"an indole derivative
+a glucoside
+"
+16300,LMFA06000075,"Fatty aldehydes
+"
+16337,LMFA07010414,"Wax monoesters
+"
+16338,LMFA07010422,"Wax monoesters
+"
+16342,CHEBI:310312,"chalcones
+"
+16342,C08650,"Chalcones and dihydrochalcones
+chalcones
+"
+16342,LMPK12120096,"Chalcones and dihydrochalcones
+"
+16346,CPD-3361,"a small molecule
+"
+16347,LMPK12120434,"Chalcones and dihydrochalcones
+"
+16353,CHEBI:19144,"medium-chain fatty acid
+straight-chain fatty acid
+monounsaturated fatty acid
+oxo fatty acid
+"
+16353,C16309,"Oxo fatty acids
+"
+16353,LMFA01060093,"Oxo fatty acids
+"
+16359,LMPK12110104,"Flavones and Flavonols
+"
+16360,LMPK12110086,"Flavones and Flavonols
+"
+16363,C10191,"flavones
+"
+16363,LMPK12111474,"Flavones and Flavonols
+"
+16364,LMPK12111472,"Flavones and Flavonols
+"
+16368,LMPK12111045,"Flavones and Flavonols
+"
+16369,APIGENIN-7-O-BETA-D-GLUCOSIDE,"a small molecule
+"
+16380,LMPK12112730,"Flavones and Flavonols
+"
+16385,LMPK12112411,"Flavones and Flavonols
+"
+16391,LMPK12111618,"Flavones and Flavonols
+"
+16396,CHEBI:68352,"beta-D-glucoside
+monosaccharide derivative
+tetrahydroxyflavone
+quercetin O-glucoside
+"
+16396,C05623,"Flavones and Flavonols
+flavonols
+"
+16408,CHEBI:50467,"2-decenoic acid
+"
+16408,LMFA01030029,"Unsaturated fatty acids
+"
+16447,LMFA01020096,"Branched fatty acids
+"
+16471,7-O-METHYLVITEXIN-2-O-B-L-RHAMNOSIDE,"a small molecule
+"
+16479,LMPK12111994,"Flavones and Flavonols
+"
+16480,LMPK12110915,"Flavones and Flavonols
+"
+16485,CHEBI:75791,"monosaccharide derivative
+trihydroxyflavone
+flavonols
+kaempferol O-glucoside
+beta-L-glucoside
+"
+16491,CPD-8034,"a flavonol derivative
+"
+16497,CPD1F-420,"a flavonol-3-O-glucoside-7-O-rhamnoside
+"
+16501,CPD1F-462,"a small molecule
+"
+16506,CHEBI:6099,"monomethoxyflavone
+trihydroxyflavone
+7-hydroxyflavonol
+"
+16506,C10098,"Flavones and Flavonols
+flavonols
+"
+16506,LMPK12110563,"Flavones and Flavonols
+"
+16527,LMPK12111367,"Flavones and Flavonols
+"
+16566,LMPK12110891,"Flavones and Flavonols
+"
+16620,C18203,"PBDEs
+"
+16627,CPD-5521,"a flavonol-3-O-glucoside-7-O-rhamnoside
+"
+16666,LMPK12111479,"Flavones and Flavonols
+"
+16719,C14476,"Flavones and Flavonols
+"
+16719,LMPK12111447,"Flavones and Flavonols
+"
+16824,LMPK12113345,"Flavones and Flavonols
+"
+16941,C01092,"Oxo fatty acids
+"
+16949,C08285,"Hydroxy fatty acids
+"
+17084,CHEBI:69749,"7-hydroxyisoflavones
+"
+17084,LMPK12050192,"Isoflavonoids
+"
+17102,CHEBI:75839,"beta-D-glucoside
+monosaccharide derivative
+tetrahydroxyflavone
+flavonols
+quercetin O-glucoside
+"
+17121,CHEBI:70255,"polyphenol
+gallate ester
+catechin
+"
+17121,LMPK12020090,"Flavans, Flavanols and Leucoanthocyanidins
+"
+17132,CHEBI:33992,"catechin
+"
+17132,C14079,"Flavan 3-ols
+"
+17166,CHEBI:27475,"monosaccharide derivative
+anthocyanin cation
+beta-D-galactoside
+"
+17166,C08647,"Anthocyanidins
+Anthocyanidins and anthocyanins
+"
+17280,CHEBI:48294,"phenols
+tryptamines
+"
+17315,CHEBI:74793,"beta-D-glucoside
+monosaccharide derivative
+anthocyanin cation
+"
+17324,CHEBI:31985,"aromatic ether
+beta-D-glucoside
+anthocyanin cation
+"
+17324,C12139,"Anthocyanidins and anthocyanins
+"
+17365,CHEBI:28768,"toluenes
+monoterpene
+"
+17365,C06575,"Menthane monoterpenoids
+Cyclic monoterpenes
+"
+17365,LMPR0102090014,"Menthane monoterpenoids
+"
+17365,CPD-1001,"a monoterpenoid
+"
+17407,CHEBI:17221,"monoterpene
+"
+17407,C06074,"Acyclic monoterpenoids
+Linear monoterpenes
+"
+17407,LMPR0102010005,"Acyclic monoterpenoids
+"
+17407,CPD-4888,"a monoterpenoid
+"
+17437,LMFA11000629,"Hydrocarbons
+"
+17475,CHEBI:69087,"aromatic ether
+resorcinols
+coumarins
+"
+17475,LMPK12160018,"Other Flavonoids
+"
+17643,LMFA07010103,"Wax monoesters
+"
+17658,CPD-6364,"an indole derivative
+"
+17707,CHEBI:42255,"catechin
+flavan-3,3',4',5,5',7-hexol
+"
+17707,C12136,"Flavans, Flavanols and Leucoanthocyanidins
+Flavan 3-ols
+"
+17707,LMPK12020004,"Flavans, Flavanols and Leucoanthocyanidins
+"
+17709,CHEBI:4806,"polyphenol
+gallate ester
+catechin
+"
+17709,C09731,"Proanthocyanidins
+Flavan 3-ols
+"
+17709,LMPK12030005,"Proanthocyanidins
+"
+17712,CHEBI:68330,"catechin
+flavan-3,3',4',5,5',7-hexol
+"
+17712,C12127,"Flavans, Flavanols and Leucoanthocyanidins
+Flavan 3-ols
+"
+17712,LMPK12020002,"Flavans, Flavanols and Leucoanthocyanidins
+"
+17810,CHEBI:351346,"isothiocyanate
+"
+17823,CHEBI:46932,"capsaicinoid
+"
+17823,C16952,"Capsaicinoids and derivatives
+"
+17823,LMFA08020085,"N-acyl amines
+"
+17823,CPD-9185,"an alkaloid
+"
+17852,LMPK12050225,"Isoflavonoids
+"
+17897,6-METHOXYMELLEIN,"a small molecule
+"
+17999,CHEBI:68508,"maleate ester
+"
+18000,LMFA07010197,"Wax monoesters
+"
+18033,CHEBI:22990,"1,3-thiazole
+indole phytoalexin
+"
+18033,THIAZOL-YL-INDOLE,"an indole-phytolexin
+"
+18044,CHEBI:72763,"aromatic ether
+organic heteropentacyclic compound
+indole alkaloid
+"
+18294,CYCASIN,"a small molecule
+"
+18328,LMPK12110409,"Flavones and Flavonols
+"
+18370,LMPK12050288,"Isoflavonoids
+"
+18373,LMPK12050196,"Isoflavonoids
+"
+18376,LMPK12050243,"Isoflavonoids
+"
+18462,LMFA07010262,"Wax monoesters
+"
+18475,CHEBI:34440,"phenols
+"
+18585,LMPR01070211,"C40 isoprenoids (tetraterpenes)
+"
+18598,LMPR01070029,"C40 isoprenoids (tetraterpenes)
+"
+18602,CHEBI:48716,"zeta-carotene
+"
+18602,C15857,"C40 isoprenoids (tetraterpenes)
+"
+18602,LMPR01070295,"C40 isoprenoids (tetraterpenes)
+"
+18606,LMFA07010176,"Wax monoesters
+"
+18647,CHEBI:40968,"carotenol
+carotenone
+"
+18647,C08580,"C40 isoprenoids (tetraterpenes)
+Carotenoids
+"
+18647,LMPR01070263,"C40 isoprenoids (tetraterpenes)
+"
+18782,CHEBI:29022,"6-aminopurines
+"
+18782,C11263,"Cytokinins
+"
+18782,CPD-4604,"a small molecule
+"
+18978,2-ETHYLHEXAN-1-OL,"a primary alcohol
+"
+19096,C08606,"C40 isoprenoids (tetraterpenes)
+Carotenoids
+"
+19109,CHEBI:52430,"dicarboxylic acid monoamide
+"
+19154,CHEBI:77323,"aromatic ether
+quinolines
+"
+19156,LMFA01050160,"Hydroxy fatty acids
+"
+19212,LMFA01170047,"Dicarboxylic acids
+"
+19255,LMFA07010418,"Wax monoesters
+"
+19342,CPD-13732,"a small molecule
+"
+19378,LMPK12112286,"Flavones and Flavonols
+"
+19397,CHEBI:4488,"organic disulfide
+"
+19473,C18733,"Conazole fungicides
+"
+19867,CHEBI:16153,"beta-D-galactopyranosyl-(1->4)-N-acetyl-D-glucosamine
+"
+19872,CHEBI:27547,"carotenol
+"
+19872,C06098,"C40 isoprenoids (tetraterpenes)
+Carotenoids
+"
+19872,LMPR01070261,"C40 isoprenoids (tetraterpenes)
+"
+19896,CHEBI:16572,"3-ethylcatechols
+"
+19896,3-ETHYLCATECHOL,"a catechol
+"
+19914,LMFA07010447,"Wax monoesters
+"
+19928,LMFA07010434,"Wax monoesters
+"
+19928,CPD-10093,"a small molecule
+"
+19930,LMFA07010436,"Wax monoesters
+"
+19934,CHEBI:61316,"acetate ester
+"
+19934,LMFA07010181,"Wax monoesters
+"
+19942,LMFA07010574,"Wax monoesters
+"
+19950,C17384,"Acyclic monoterpenoids
+"
+19950,CPD-7986,"citronellal
+"
+19971,LMFA06000065,"Fatty aldehydes
+"
+19976,LMFA07010566,"Wax monoesters
+"
+19995,C14240,"Phthalates
+"
+20009,LMFA07010623,"Wax monoesters
+"
+20020,CHEBI:5870,"imidazolidines
+neonicotinoid insectide
+nitroguanidine insecticide
+chloropyridyl insecticide
+monochloropyridine
+"
+20020,C11110,"Neonicotinoid insecticides
+"
+20076,LMPK12113005,"Flavones and Flavonols
+"
+20078,CPD-9305,"an organosulfur compound
+"
+20091,CPD-11878,"a catechol
+"
+20131,LMFA07010677,"Wax monoesters
+"
+20188,CHEBI:100147,"monocarboxylic acid
+1,8-naphthyridine derivative
+"
+20188,C05079,"4-Quinolones
+"
+20204,CHEBI:30851,"2-oxo monocarboxylic acid
+"
+20377,CHEBI:68428,"alpha-D-glucoside
+"
+20394,C11226,"Pyrimidine fungicides
+"
+20539,C07667,"Cadinane sesquiterpenoids
+Terpenoids
+Cadinanes
+"
+20539,LMPR0103330002,"Cadinane sesquiterpenoids
+"
+20540,LMPK12111455,"Flavones and Flavonols
+"
+20550,CHEBI:8082,"acetate ester
+"
+20551,CHEBI:2181,"L-fucose
+fucopyranose
+"
+20551,C01019,"Deoxy sugars
+"
+20637,LMPK12112394,"Flavones and Flavonols
+"
+20667,LMPK12112721,"Flavones and Flavonols
+"
+20704,CHEBI:65842,"enol ether
+hydroxybenzoquinone
+"
+20783,LMPK12111615,"Flavones and Flavonols
+"
+20787,CPD0-2460,"a sugar alcohol
+"
+20820,CPD-1947,"a small molecule
+"
+20853,CHEBI:28353,"cinnamaldehydes
+"
+20853,C05608,"Paracoumaryl alcohol derivatives
+"
+20874,CHEBI:469,"acetate ester
+"
+20874,C10426,"Monolignols
+"
+20878,CHEBI:76290,"primary amino compound
+imidazopyridine
+"
+20882,CHEBI:53177,"monoterpenoid
+"
+20886,LMFA06000147,"Fatty aldehydes
+"
+20938,CPD-7094,"a small molecule
+"
+21003,LMPK12111015,"Flavones and Flavonols
+"
+21020,CPD-697,"a brassinosteroids
+"
+21027,CPD-12498,"a brassinosteroids
+"
+21067,LMPK12120493,"Chalcones and dihydrochalcones
+"
+21068,LMPK12120492,"Chalcones and dihydrochalcones
+"
+21128,MALTOTRIOSE,"a trisaccharide
+a linear malto-oligosaccharide
+a short glucan
+"
+21183,C09870,"Cyclic monoterpenes
+"
+21237,CPD-11941,"a small molecule
+"
+21251,LMPK12110909,"Flavones and Flavonols
+"
+21271,C18555,"Pyrazole herbicides
+"
+21272,C18543,"Pesticides
+"
+21330,CHEBI:6854,"organic disulfide
+"
+21350,LMFA11000657,"Hydrocarbons
+"
+21452,LMFA01030880,"Unsaturated fatty acids
+"
+21462,CHEBI:33885,"D-galactopyranuronic acid
+"
+21488,LMPK12020142,"Flavans, Flavanols and Leucoanthocyanidins
+"
+21545,CHEBI:50550,"isomethyleugenol
+"
+21916,CHEBI:44111,"mercaptopropanoic acid
+"
+21919,CHEBI:64275,"aromatic ether
+primary alcohol
+hydroxyether
+"
+21921,CHEBI:1895,"methylbenzyl alcohol
+"
+21921,4-METHYLBENZYL-ALCOHOL,"a small molecule
+"
+21939,CHEBI:17933,"diol
+hydroxycalciol
+D3 vitamins
+"
+21939,C01561,"Vitamin D3 and derivatives
+"
+21939,LMST03020246,"Vitamin D3 and derivatives
+"
+21945,CHEBI:27667,"D-galactopyranose
+"
+21947,CHEBI:36218,"lactose
+"
+21948,CHEBI:16020,"methyladenosine
+"
+21955,CHEBI:27596,"methyl-L-histidine
+"
+21957,CHEBI:42534,"3-oxo steroid
+17alpha-hydroxy steroid
+androstanoid
+"
+21957,LMST02020051,"C19 steroids (androgens) and derivatives
+"
+21958,CHEBI:15978,"sn-glycerol 3-phosphates
+glycerol 1-phosphate
+"
+21959,CHEBI:15344,"3-oxo monocarboxylic acid
+ketone body
+"
+21959,C00164,"Oxo fatty acids
+"
+21959,LMFA01060003,"Oxo fatty acids
+"
+21961,C11133,"C18 steroids (estrogens) and derivatives
+Glucuronides
+"
+21961,LMST05010011,"Glucuronides
+"
+21962,CHEBI:17474,"steroid sulfate
+"
+21962,C02538,"C18 steroids (estrogens) and derivatives
+Sulfates
+Estrogens
+"
+21962,LMST02010043,"C18 steroids (estrogens) and derivatives
+"
+21964,CHEBI:16027,"adenosine 5'-phosphate
+purine ribonucleoside 5'-monophosphate
+"
+21964,C00020,"Ribonucleotides
+"
+21965,CHEBI:16422,"3-oxo Delta(4)-steroid
+17-oxo steroid
+androstanoid
+"
+21965,C00280,"C19 steroids (androgens) and derivatives
+androstane
+Androstane and derivatives
+Androgens
+"
+21965,LMST02020007,"C19 steroids (androgens) and derivatives
+"
+21967,CHEBI:17562,"cytidines
+"
+21967,C00475,"Ribonucleosides
+"
+21968,CHEBI:18258,"iodothyronine
+iodophenol
+2-halophenol
+"
+21968,C02465,"thyroxine
+Other amino acids
+"
+21969,CHEBI:67119,"UDP-D-galactose
+"
+21971,CHEBI:15422,"adenosine 5'-phosphate
+purine ribonucleoside 5'-triphosphate
+"
+21971,C00002,"Coenzymes
+Ribonucleotides
+"
+21972,CHEBI:16737,"lactam
+imidazolidinone
+"
+21972,CREATININE,"a small molecule
+"
+21973,CHEBI:28941,"long-chain fatty acid
+straight-chain saturated fatty acid
+"
+21973,C08281,"Straight chain fatty acids
+Saturated fatty acids
+"
+21973,LMFA01010022,"Straight chain fatty acids
+"
+21974,CHEBI:17009,"GDP-fucose
+"
+21975,CHEBI:16761,"purine ribonucleoside 5'-diphosphate
+adenosine 5'-phosphate
+"
+21975,C00008,"Ribonucleotides
+"
+21976,CHEBI:4170,"D-hexopyranose 6-phosphate
+D-glucose 6-phosphate
+"
+21977,CHEBI:16410,"monohydroxypyridine
+hydroxymethylpyridine
+aminoalkylpyridine
+vitamin B6
+"
+21977,C00534,"Water-soluble vitamins
+"
+21978,CHEBI:18405,"monohydroxypyridine
+methylpyridines
+vitamin B6 phosphate
+pyridinecarbaldehyde
+"
+21979,CHEBI:18335,"monohydroxypyridine
+methylpyridines
+aminoalkylpyridine
+vitamin B6 phosphate
+"
+21980,CHEBI:17823,"triol
+hydroxycalciol
+D3 vitamins
+"
+21980,C01673,"Steroid hormones
+"
+21980,LMST03020258,"Vitamin D3 and derivatives
+"
+21981,CHEBI:28866,"very long-chain fatty acid
+straight-chain saturated fatty acid
+"
+21981,C08320,"Straight chain fatty acids
+Saturated fatty acids
+"
+21981,LMFA01010024,"Straight chain fatty acids
+"
+21982,C14131,"Isoflavans
+Isoflavanes
+"
+21983,CHEBI:16480,"reactive nitrogen species
+reactive oxygen species
+nitrogen oxide
+inorganic radical
+"
+21985,CHEBI:32798,"octadeca-9,11-dienoic acid
+"
+21985,C04056,"Polyunsaturated fatty acids
+"
+21985,LMFA01030118,"Unsaturated fatty acids
+"
+21987,CHEBI:18332,"modified amino acid
+iodophenol
+2-halophenol
+thyroxine
+"
+21987,C01829,"thyroxine
+Other amino acids
+Biogenic amines
+"
+21992,CHEBI:18451,"p-menthan-3-ol
+"
+21992,LMPR0102090057,"Menthane monoterpenoids
+"
+22023,CHEBI:16208,"2-oxo monocarboxylic acid
+"
+22032,CHEBI:17066,"ketone body
+3-hydroxybutyric acid
+"
+22032,LMFA01050243,"Hydroxy fatty acids
+"
+22033,CHEBI:16450,"pyrimidine 2'-deoxyribonucleoside
+"
+22033,C00526,"Deoxyribonucleosides
+"
+22034,CHEBI:15698,"pyrimidine 2'-deoxyribonucleoside
+"
+22034,C00881,"Deoxyribonucleosides
+"
+22036,CHEBI:16973,"3-oxo Delta(4)-steroid
+20-oxo steroid
+mineralocorticoid
+21-hydroxy steroid
+"
+22036,C03205,"C21 steroids (gluco/mineralocorticoids, progestogens) and derivatives
+Pregnane and derivatives [Fig]
+Mineralocorticoids
+"
+22036,LMST02030087,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22037,CHEBI:17405,"monohydroxypyridine
+hydroxymethylpyridine
+methylpyridines
+vitamin B6
+"
+22040,CHEBI:37373,"3-hydroxyisobutyric acid
+"
+22041,CHEBI:60361,"D-galactosyl-N-acylsphingosine
+galactosylceramide sulfate
+"
+22042,CHEBI:18261,"beta-alanine derivative
+"
+22043,TETRA-H-BIOPTERIN,"a biopterin
+"
+22045,CHEBI:17759,"cholestanoid
+3beta-sterol
+"
+22045,C01164,"Vitamin D3 and derivatives
+Cholestane and derivatives
+"
+22045,LMST01010069,"Cholesterol and derivatives
+"
+22047,BIOPTERIN,"a biopterin
+"
+22048,C03406,"Other amino acids
+"
+22049,CHEBI:16990,"dicarboxylic acid
+biladienes
+"
+22050,CHEBI:17985,"adenosine bisphosphate
+"
+22052,CHEBI:28918,"adrenaline
+"
+22052,C00788,"Adrenalines
+Biogenic amines
+"
+22053,CHEBI:15901,"pyrimidone
+"
+22053,DI-H-URACIL,"a base derivative
+a pyrimidine-related compound
+"
+22054,CHEBI:4047,"dipeptide
+"
+22055,DIHYDRO-THYMINE,"a base derivative
+a pyrimidine-related compound
+"
+22056,CHEBI:17724,"N-methylglycine
+"
+22057,CHEBI:17256,"purine 2'-deoxyribonucleoside
+"
+22057,C00559,"Deoxyribonucleosides
+"
+22059,CHEBI:15946,"D-fructose 6-phosphate
+"
+22060,CHEBI:42717,"D-glucopyranuronic acid
+"
+22061,CHEBI:16344,"glycine derivative
+N-amidino-amino acid
+"
+22062,CHEBI:44747,"hydroquinones
+dihydroxyphenylacetic acid
+"
+22064,CHEBI:17202,"purine ribonucleoside 5'-monophosphate
+inosine phosphate
+"
+22065,CHEBI:16039,"inosine phosphate
+purine ribonucleoside 5'-triphosphate
+"
+22066,CHEBI:18323,"beta-alanine derivative
+dipeptide
+"
+22068,CHEBI:30860,"C4-dicarboxylic acid
+"
+22068,LMFA01170118,"Dicarboxylic acids
+"
+22069,CHEBI:40356,"N-acetyl-D-galactosamine
+"
+22071,CHEBI:18009,"NAD(P)(+)
+NADP
+"
+22073,CHEBI:17490,"O-acyl-L-carnitine
+"
+22073,C02990,"Fatty acyl carnitines
+"
+22073,LMFA07070004,"Fatty acyl carnitines
+"
+22074,CHEBI:17553,"primary amino compound
+phosphoethanolamine
+"
+22075,CHEBI:16171,"nicotinamide mononucleotide
+"
+22076,CHEBI:16675,"pyridinedicarboxylic acid
+"
+22078,CHEBI:17359,"inorganic anion
+sulfur oxoanion
+sulfur oxide
+"
+22078,SO3,"an anion
+"
+22079,CHEBI:17381,"dicarboxylic acid
+pyrroles
+aralkylamino compound
+"
+22080,CHEBI:26911,"saturated organic heteromonocyclic parent
+cyclic ether
+oxolanes
+"
+22081,CHEBI:18361,"diphosphate ion
+"
+22084,CHEBI:16094,"inorganic anion
+sulfur oxoanion
+sulfur oxide
+"
+22085,CHEBI:17821,"pyrimidone
+pyrimidine nucleobase
+"
+22085,C00178,"pyrimidines
+"
+22085,THYMINE,"a pyrimidine-related compound
+a pyrimidine base
+"
+22087,CHEBI:16566,"2-aminooctadecane-1,3-diol
+"
+22087,C00836,"Sphinganines
+"
+22087,LMSP01020001,"Sphinganines
+"
+22088,CHEBI:15611,"N-methylglycine
+N-alkylglycine
+"
+22089,CHEBI:15811,"O-phosphoserine
+"
+22091,CHEBI:17111,"5-O-phosphono-D-ribofuranosyl diphosphate
+"
+22092,CHEBI:15713,"pyrimidine ribonucleoside 5'-triphosphate
+uridine 5'-phosphate
+"
+22092,C00075,"Ribonucleotides
+"
+22093,CHEBI:16264,"UDP-amino sugar
+"
+22095,CHEBI:10049,"xanthosine 5'-phosphate
+purine ribonucleoside 5'-triphosphate
+"
+22098,LMST04010201,"C24 bile acids, alcohols, and derivatives
+"
+22103,LMST02010046,"C18 steroids (estrogens) and derivatives
+"
+22105,CHEBI:771,"16alpha-hydroxy steroid
+3beta-hydroxy steroid
+hydroxypregnenolone
+"
+22105,LMST02030172,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22107,LMFA01050380,"Hydroxy fatty acids
+"
+22108,CHEBI:16485,"18-hydroxy steroid
+"
+22108,C01124,"C21 steroids (gluco/mineralocorticoids, progestogens) and derivatives
+Mineralocorticoids
+"
+22108,LMST02030091,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22116,LMST04010155,"C24 bile acids, alcohols, and derivatives
+"
+22120,LMST02030194,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22121,CHEBI:70818,"aromatic ether
+monocarboxylic acid
+phenols
+"
+22122,CHEBI:776,"16alpha-hydroxy steroid
+"
+22122,LMST02010041,"C18 steroids (estrogens) and derivatives
+"
+22125,CHEBI:28744,"17beta-hydroxy steroid
+2-hydroxy steroid
+"
+22125,C05301,"C18 steroids (estrogens) and derivatives
+Estrane and derivatives
+"
+22125,LMST02010027,"C18 steroids (estrogens) and derivatives
+"
+22127,LMST04010126,"C24 bile acids, alcohols, and derivatives
+"
+22133,LMST02010006,"C18 steroids (estrogens) and derivatives
+"
+22138,CHEBI:27771,"17-oxo steroid
+16alpha-hydroxy steroid
+androstanoid
+3beta-hydroxy steroid
+"
+22138,C05139,"C19 steroids (androgens) and derivatives
+"
+22138,LMST02020064,"C19 steroids (androgens) and derivatives
+"
+22145,CHEBI:28750,"17alpha-hydroxy steroid
+3beta-hydroxy steroid
+hydroxypregnenolone
+"
+22145,LMST02030089,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22146,LMST04010065,"C24 bile acids, alcohols, and derivatives
+"
+22155,CHEBI:17252,"17alpha-hydroxy steroid
+"
+22155,C01176,"Progestagens
+"
+22155,LMST02030161,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22156,CHEBI:1427,"monocarboxylic acid
+"
+22172,CHEBI:16390,"7-oxo steroid
+oxo-5beta-cholanic acid
+"
+22172,LMST04010184,"C24 bile acids, alcohols, and derivatives
+"
+22174,LMFA01170087,"Dicarboxylic acids
+"
+22178,CHEBI:37440,"oxo dicarboxylic acid
+"
+22178,LMFA01170096,"Dicarboxylic acids
+"
+22180,CHEBI:16312,"oxo-5beta-cholanic acid
+"
+22180,LMST04010176,"C24 bile acids, alcohols, and derivatives
+"
+22182,CHEBI:62462,"oxopurine
+"
+22182,CPD0-2461,"a small molecule
+"
+22184,CHEBI:28955,"17beta-hydroxy steroid
+3-hydroxy steroid
+"
+22184,C05302,"C18 steroids (estrogens) and derivatives
+Estrane and derivatives
+"
+22184,LMST02010035,"C18 steroids (estrogens) and derivatives
+"
+22185,LMST02010047,"C18 steroids (estrogens) and derivatives
+"
+22194,LMST04010067,"C24 bile acids, alcohols, and derivatives
+"
+22195,LMST05020021,"Sulfates
+"
+22196,LMST02030193,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22216,LMST02030142,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22220,CHEBI:68499,"N-acylglycine
+"
+22223,CHEBI:63931,"biopterin
+"
+22224,CHEBI:16964,"pyrimidone
+primary alcohol
+"
+22224,CPD-254,"a small molecule
+"
+22225,CHEBI:60281,"tertiary amine
+"
+22233,CHEBI:16990,"dicarboxylic acid
+biladienes
+"
+22234,CHEBI:17261,"glucosaminylamine
+N(4)-glycosyl-L-asparagine
+"
+22235,CHEBI:28195,"3alpha-hydroxy steroid
+17-oxo steroid
+androstanoid
+"
+22235,C04373,"C19 steroids (androgens) and derivatives
+Androstane and derivatives
+"
+22235,LMST02020059,"C19 steroids (androgens) and derivatives
+"
+22236,CHEBI:18329,"17beta-hydroxy steroid
+3beta-hydroxy steroid
+androstane-3,17-diol
+"
+22236,C12525,"C19 steroids (androgens) and derivatives
+"
+22236,LMST02020053,"C19 steroids (androgens) and derivatives
+"
+22239,CHEBI:23774,"uridines
+"
+22247,CHEBI:16259,"N-acetyl-L-amino acid
+N-acetylphenylalanine
+N-acyl-L-phenylalanine
+"
+22250,CHEBI:16755,"bile acid
+dihydroxy-5beta-cholanic acid
+"
+22250,C02528,"C24 bile acids, alcohols, and derivatives
+Cholane and derivatives
+"
+22250,LMST04010032,"C24 bile acids, alcohols, and derivatives
+"
+22253,CHEBI:37245,"dicarboxylic acid
+"
+22253,LMFA01170068,"Dicarboxylic acids
+"
+22257,LMST02030200,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22260,LMFA01030226,"Unsaturated fatty acids
+"
+22263,CHEBI:40410,"N-acetyl-amino acid
+N-acylglycine
+"
+22265,CHEBI:20912,"arabinonic acid
+"
+22269,CHEBI:41500,"monocarboxylic acid
+"
+22273,LMST02020099,"C19 steroids (androgens) and derivatives
+"
+22280,CHEBI:43433,"L-alpha-amino acid
+alloisoleucine
+"
+22284,CHEBI:72999,"phosphatidylcholine 32:0
+"
+22284,LMGP01010564,"Diacylglycerophosphocholines
+"
+22285,CHEBI:16534,"galactonic acid
+"
+22288,LMST01010078,"Cholesterol and derivatives
+"
+22297,CHEBI:17544,"carbon oxoanion
+"
+22297,HCO3,"an anion
+"
+22299,CHEBI:15138,"inorganic anion
+"
+22299,CPD-7046,"an anion
+"
+22300,CHEBI:18402,"3alpha-hydroxy steroid
+hydroxy monocarboxylic acid
+7alpha-hydroxy steroid
+12alpha-hydroxy steroid
+"
+22300,LMST04030001,"C27 bile acids, alcohols, and derivatives
+"
+22301,LMFA01170045,"Dicarboxylic acids
+"
+22302,CHEBI:32796,"2-hydroxyglutaric acid
+"
+22304,CHEBI:41509,"cholesteryl octadeca-9,12-dienoate
+"
+22304,C15441,"Cholesteryl esters
+"
+22304,LMST01020008,"Steryl esters
+"
+22306,CHEBI:37655,"erythronic acid
+"
+22309,CHEBI:15670,"glutaconic acid
+"
+22309,LMFA01170109,"Dicarboxylic acids
+"
+22310,CHEBI:741548,"dicarboxylic acid
+"
+22310,LMFA01170105,"Dicarboxylic acids
+"
+22311,CHEBI:4676,"alpha,omega-dicarboxylic acid
+"
+22311,C02678,"Dicarboxylic acids
+"
+22311,LMFA01170009,"Dicarboxylic acids
+"
+22311,CPD-10670,"an &alpha; &omega; dicarboxylate
+"
+22314,CHEBI:16040,"aminopyrimidine
+pyrimidone
+pyrimidine nucleobase
+"
+22314,C00380,"pyrimidines
+"
+22314,CYTOSINE,"a pyrimidine-related compound
+a pyrimidine base
+"
+22317,CHEBI:41183,"biopterin
+"
+22318,CHEBI:17626,"dicarboxylic acid
+"
+22318,LMFA01170099,"Dicarboxylic acids
+"
+22322,CHEBI:28421,"coproporphyrin
+"
+22327,CHEBI:41321,"steroid sulfate
+"
+22327,LMST05020016,"Sulfates
+"
+22332,CHEBI:16002,"glucaric acid
+"
+22332,LMFA01170108,"Dicarboxylic acids
+"
+22335,CHEBI:30662,"thyronine
+"
+22338,CHEBI:73246,"1-acyl-2-hexadecanoyl-sn-glycero-3-phosphate
+"
+22338,LMGP10010027,"Diacylglycerophosphates
+"
+22340,CHEBI:70984,"N-acylglycine
+"
+22341,CHEBI:17443,"ureas
+L-lysine derivative
+L-alpha-amino acid
+"
+22342,CHEBI:43355,"indoles
+aryl sulfate
+"
+22344,CHEBI:16946,"kynurenine
+"
+22345,CHEBI:43419,"dihydroxy-5beta-cholanic acid
+"
+22345,C17662,"C24 bile acids, alcohols, and derivatives
+"
+22345,LMST04010035,"C24 bile acids, alcohols, and derivatives
+"
+22348,CHEBI:32797,"2-hydroxyglutaric acid
+"
+22350,CHEBI:37998,"bile acid glycine conjugate
+"
+22350,LMST05030009,"Glycine conjugates
+"
+22351,CHEBI:16797,"pyridinium ion
+"
+22351,CPD-396,"a small molecule
+"
+22352,CHEBI:33404,"3-hydroxy monocarboxylic acid
+omega-hydroxy fatty acid
+"
+22353,CHEBI:64390,"N-acylglycine
+"
+22356,CHEBI:15999,"phenols
+oxo carboxylic acid
+"
+22357,LMST04010445,"C24 bile acids, alcohols, and derivatives
+"
+22359,CHEBI:30830,"4-hydroxy monocarboxylic acid
+hydroxybutyric acid
+"
+22359,LMFA01050006,"Hydroxy fatty acids
+"
+22363,CHEBI:18344,"monohydroxyquinoline
+quinolinemonocarboxylic acid
+"
+22364,LMST04010004,"C24 bile acids, alcohols, and derivatives
+"
+22371,CHEBI:70979,"N-acylglycine
+"
+22372,CHEBI:27891,"S-substituted L-cysteine
+organic thiosulfate
+"
+22375,CHEBI:28595,"monocarboxylic acid
+monocarboxylic acid amide
+"
+22384,CHEBI:16600,"dicarboxylic acid
+"
+22384,LMFA01170116,"Dicarboxylic acids
+"
+22386,CHEBI:17399,"xylulose
+"
+22387,CHEBI:68566,"alpha,omega-dicarboxylic acid
+"
+22387,LMFA01170117,"Dicarboxylic acids
+"
+22388,CHEBI:37084,"3-hydroxy monocarboxylic acid
+"
+22388,LMFA01050396,"Hydroxy fatty acids
+"
+22391,CHEBI:73514,"dipeptide
+"
+22394,CHEBI:40992,"alanine derivative
+N-acetyl-L-amino acid
+"
+22397,CHEBI:49026,"N-acetylneuraminic acid
+"
+22402,LMFA01170029,"Dicarboxylic acids
+"
+22405,CHEBI:28315,"pyrazolopyrimidine
+"
+22405,C07599,"C40 isoprenoids (tetraterpenes)
+"
+22406,CHEBI:64491,"5,6,7,8-tetrahydrobiopterin
+"
+22409,CHEBI:18102,"O-acyl-L-carnitine
+"
+22409,C02838,"Fatty acyl carnitines
+"
+22409,LMFA07070002,"Fatty acyl carnitines
+"
+22410,CHEBI:41865,"alpha,omega-dicarboxylic acid
+"
+22410,C08277,"Dicarboxylic acids
+"
+22410,LMFA01170006,"Dicarboxylic acids
+"
+22412,CHEBI:21500,"N-acetyl-O-acetylneuraminic acid
+"
+22414,CHEBI:18319,"1-(phosphoribosyl)imidazolecarboxamide
+"
+22415,C01607,"Acyclic diterpenoids
+"
+22416,CHEBI:28009,"N-acetyl-D-glucosamine
+"
+22422,CHEBI:52030,"3alpha-hydroxy steroid
+6beta-hydroxy steroid
+"
+22422,LMST04010025,"C24 bile acids, alcohols, and derivatives
+"
+22423,CHEBI:21547,"N-acetyl-L-amino acid
+N-acyl-L-aspartic acid
+"
+22426,CHEBI:17150,"carboxyalkyl phosphate
+"
+22427,CHEBI:74688,"biopterins
+"
+22429,CHEBI:27480,"monocarboxylic acid
+monocarboxylic acid amide
+N-acylglycine
+"
+22431,C03017,"Fatty acyl carnitines
+"
+22432,CHEBI:15859,"aspartic acid derivative
+N-carbamoyl-L-amino acid
+N-carbamoylaspartic acid
+"
+22436,CHEBI:74099,"N-acylglycine
+"
+22438,CHEBI:18386,"quinolinemonocarboxylic acid
+"
+22443,CHEBI:7274,"glutamic acid derivative
+N-formimino-amino acid
+"
+22446,CHEBI:30531,"alpha,omega-dicarboxylic acid
+"
+22446,C02656,"Dicarboxylic acids
+"
+22446,LMFA01170051,"Dicarboxylic acids
+"
+22448,CHEBI:70869,"carboxylic ester
+glycine derivative
+"
+22453,CHEBI:16332,"xylulose 5-phosphate
+"
+22456,CHEBI:76308,"alpha,omega-dicarboxylic acid
+"
+22456,LMFA01170018,"Dicarboxylic acids
+"
+22459,LMST05030013,"Glycine conjugates
+"
+22460,CHEBI:10072,"quinolinemonocarboxylic acid
+dihydroxyquinoline
+"
+22462,CHEBI:3663,"cholesterol ester
+"
+22462,C11251,"Cholesteryl esters
+"
+22462,LMST01020005,"Steryl esters
+"
+22463,CHEBI:73713,"alpha,omega-dicarboxylic acid
+"
+22463,LMFA01170007,"Dicarboxylic acids
+"
+22466,CHEBI:74435,"N-acylglycine
+"
+22467,CHEBI:9410,"bile acid taurine conjugate
+"
+22467,LMST05040013,"Taurine conjugates
+"
+22469,CHEBI:29009,"imidazoles
+primary amino compound
+"
+22470,CHEBI:15994,"androstane-3,17-dione
+"
+22470,LMST02020085,"C19 steroids (androgens) and derivatives
+"
+22472,CHEBI:15846,"NAD(P)(+)
+NAD
+"
+22474,CHEBI:17713,"purine 2'-deoxyribonucleoside 5'-monophosphate
+2'-deoxyadenosine 5'-phosphate
+"
+22474,C00360,"Deoxyribonucleotides
+"
+22477,CHEBI:71169,"adenosines
+aspartic acid derivative
+"
+22478,CPD-11831,"a small molecule
+"
+22479,LMST04010088,"C24 bile acids, alcohols, and derivatives
+"
+22480,CHEBI:46898,"cholesteryl octadec-9-enoate
+"
+22480,LMST01020003,"Steryl esters
+"
+22482,CHEBI:16175,"cholestanoid
+3-oxo Delta(4)-steroid
+"
+22482,LMST01010015,"Cholesterol and derivatives
+"
+22486,CHEBI:545687,"dicarboxylic acid
+"
+22486,LMFA01170002,"Dicarboxylic acids
+"
+22488,CHEBI:17200,"UDP-sugar
+"
+22489,CHEBI:27484,"uroporphyrin
+"
+22490,CHEBI:16680,"organic sulfide
+adenosines
+homocysteines
+"
+22494,CHEBI:49059,"threonic acid
+"
+22495,CHEBI:9907,"bile acid
+dihydroxy-5beta-cholanic acid
+"
+22495,C07880,"C24 bile acids, alcohols, and derivatives
+Cholane and derivatives
+"
+22495,LMST04010033,"C24 bile acids, alcohols, and derivatives
+"
+22498,CHEBI:16525,"bile acid taurine conjugate
+"
+22498,C05465,"C26 bile acids, alcohols, and derivatives
+Taurine conjugates
+"
+22498,LMST05040005,"Taurine conjugates
+"
+22500,CHEBI:73018,"N-acylglycine
+"
+22501,CHEBI:28862,"deoxyguanosine phosphate
+guanyl deoxyribonucleotide
+purine 2'-deoxyribonucleoside 5'-diphosphate
+"
+22501,C00361,"Deoxyribonucleotides
+"
+22502,C00448,"Acyclic farnesane sesquiterpenoids
+Farnesenes
+"
+22503,LIPOAMIDE,"a small molecule
+"
+22507,LMST03020123,"Vitamin D3 and derivatives
+"
+22509,CHEBI:43474,"phosphate ion
+"
+22509,Pi,"an inorganic phosphate
+"
+22510,CHEBI:16835,"monohydroxybenzoic acid
+methoxybenzoic acid
+"
+22510,LMPR02010044,"Ubiquinones
+"
+22511,CHEBI:17442,"substituted aniline
+aromatic ketone
+4-oxo monocarboxylic acid
+2-oxo monocarboxylic acid
+dioxo monocarboxylic acid
+beta-diketone
+"
+22512,CHEBI:18372,"pterin phosphate
+dihydropterin
+neopterins
+"
+22514,CHEBI:20607,"methylcytidine
+"
+22515,DIHYDROLIPOAMIDE,"a small molecule
+"
+22516,CHEBI:15625,"sulfonium compound
+adenosines
+"
+22516,C01137,"Biogenic amines
+"
+22518,CHEBI:66951,"monocarboxylic acid
+pyridines
+aromatic ketone
+"
+22520,CHEBI:18204,"enone
+3-oxo Delta(4)-steroid
+20-oxo steroid
+"
+22520,LMST02030163,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22521,CHEBI:41721,"cysteine derivative
+"
+22522,CHEBI:16311,"2'-deoxycytidine phosphate
+pyrimidine 2'-deoxyribonucleoside 5'-triphosphate
+"
+22522,C00458,"Deoxyribonucleotides
+"
+22525,CHEBI:17709,"adenosine 5'-phosphate
+acyl sulfate
+acyl monophosphate
+"
+22539,CHEBI:17813,"3beta-sterol
+"
+22539,C11455,"Cholesterol and derivatives
+"
+22539,LMST01010149,"Cholesterol and derivatives
+"
+22540,CHEBI:30933,"carboxyalkyl phosphate
+"
+22541,LMST01010212,"Cholesterol and derivatives
+"
+22544,CHEBI:16814,"steroid sulfate
+17-oxo steroid
+"
+22544,C04555,"C19 steroids (androgens) and derivatives
+Sulfates
+Androgens
+"
+22544,LMST05020010,"Sulfates
+"
+22545,CHEBI:17137,"sulfur oxoanion
+"
+22545,HSO3,"an anion
+"
+22546,CHEBI:2719,"angiotensin II
+"
+22546,C02135,"Angiotensin [KO:K09821]
+"
+22549,CHEBI:16234,"oxygen hydride
+"
+22549,OH,"an anion
+"
+22551,CHEBI:16192,"deoxyguanosine phosphate
+purine 2'-deoxyribonucleoside 5'-monophosphate
+guanyl deoxyribonucleotide
+"
+22551,C00362,"Deoxyribonucleotides
+"
+22553,CHEBI:28602,"D-fructofuranose 2,6-bisphosphate
+"
+22554,CHEBI:29222,"chlorine oxoanion
+chlorine oxide
+"
+22554,CPD-12800,"an inorganic compound
+"
+22555,L-GLYCERALDEHYDE,"DL-glyceraldehyde
+"
+22558,CHEBI:15633,"dihydrofolic acids
+"
+22563,CHEBI:29226,"iodine oxoanion
+"
+22563,CPD-13505,"a small molecule
+"
+22565,CHEBI:18081,"dihydroxybenzoic acid
+"
+22565,LMPR02010043,"Ubiquinones
+"
+22568,CHEBI:15694,"glutathione derivative
+"
+22574,CHEBI:49728,"D-mannopyranose 6-phosphate
+"
+22575,CHEBI:17769,"aminobutanal
+"
+22576,CHEBI:17725,"glucosamine oligosaccharide
+amino trisaccharide
+"
+22578,CHEBI:30912,"piperidinemonocarboxylic acid
+"
+22580,CHEBI:15437,"uroporphyrinogen
+"
+22583,CHEBI:15899,"carboxyalkyl phosphate
+"
+22583,LMFA01050416,"Hydroxy fatty acids
+"
+22586,C04146,"C40 isoprenoids (tetraterpenes)
+Polyterpenoids
+"
+22587,CHEBI:17672,"one-carbon compound
+acyl monophosphate
+"
+22588,CHEBI:15435,"porphyrinogens
+"
+22589,CHEBI:15947,"glucosaminylamine
+"
+22590,CHEBI:18090,"propanals
+"
+22595,CHEBI:15769,"cysteine derivative
+"
+22597,C00235,"C5 isoprenoids (hemiterpenes)
+"
+22599,CHEBI:7438,"formamides
+"
+22600,CHEBI:18283,"trehalose phosphate
+"
+22601,CHEBI:18426,"myo-inositol cyclic phosphate
+"
+22602,C06524,"Pyridine alkaloids
+"
+22603,CHEBI:16938,"aldonolactone phosphate
+"
+22606,CHEBI:50616,"aspartic acid derivative
+C4-dicarboxylic acid
+ketimine
+"
+22606,LMFA01170110,"Dicarboxylic acids
+"
+22608,CHEBI:17980,"acyl sulfate
+adenosine bisphosphate
+purine ribonucleoside bisphosphate
+"
+22608,C00053,"Coenzymes
+"
+22609,CHEBI:16645,"bilanes
+"
+22612,CHEBI:16048,"flavin mononucleotide
+"
+22613,CHEBI:18228,"myo-inositol trisphosphate
+"
+22614,CHEBI:17475,"amino dicarboxylic acid
+"
+22615,CHEBI:17549,"delta-amino acid
+4-oxo monocarboxylic acid
+"
+22615,LMFA01100055,"Amino fatty acids
+"
+22619,CHEBI:1941,"quaternary ammonium ion
+"
+22621,CHEBI:10702,"trans-cyclohexa-3,5-diene-1,2-diol
+"
+22625,CHEBI:17602,"aminophenol
+"
+22625,CPD-259,"a phenol
+"
+22626,CHEBI:17168,"3beta-sterol
+"
+22626,C01189,"Cholesterol and derivatives
+"
+22626,LMST01010089,"Cholesterol and derivatives
+"
+22628,CHEBI:17509,"thioadenosine
+"
+22629,CHEBI:16556,"CMP-N-acyl-beta-neuraminic acid
+"
+22632,CHEBI:18304,"nicotinic acid dinucleotide
+"
+22636,CHEBI:59789,"organic cation
+sulfonium compound
+"
+22637,CHEBI:17312,"acetamides
+acetylspermine
+"
+22641,CHEBI:17625,"pyrimidine 2'-deoxyribonucleoside 5'-triphosphate
+deoxyuridine phosphate
+"
+22641,C00460,"Deoxyribonucleotides
+"
+22644,6-PYRUVOYL-5678-TETRAHYDROPTERIN,"a small molecule
+"
+22646,CHEBI:17877,"flavin adenine dinucleotide
+"
+22647,CHEBI:16978,"leukotriene
+"
+22647,C02166,"Leukotrienes
+"
+22647,LMFA03020003,"Leukotrienes
+"
+22648,CHEBI:27574,"N2-acyl-L-ornithine
+"
+22650,CHEBI:17552,"purine ribonucleoside 5'-diphosphate
+guanosine 5'-phosphate
+"
+22650,C00035,"Ribonucleotides
+"
+22651,CHEBI:15918,"2'-deoxycytidine phosphate
+pyrimidine 2'-deoxyribonucleoside 5'-monophosphate
+"
+22651,C00239,"Deoxyribonucleotides
+"
+22654,CHEBI:15351,"acyl-CoA
+"
+22655,CHEBI:17422,"diadenosyl tetraphosphate
+"
+22657,CHEBI:16493,"xylulose phosphate
+"
+22658,CHEBI:28889,"pteridines
+"
+22658,5678-TETRAHYDROPTERIDINE,"a small molecule
+"
+22660,CHLORDECONE-ALCOHOL,"a small molecule
+"
+22661,CHEBI:15551,"prostaglandins E
+"
+22661,C00584,"Prostaglandins
+"
+22661,LMFA03010003,"Prostaglandins
+"
+22662,CHEBI:17013,"thymidine 5'-monophosphate
+"
+22662,C00364,"Deoxyribonucleotides
+"
+22663,CHEBI:17798,"gamma-glutamyl phosphate
+"
+22664,CHEBI:57924,"amino acid zwitterion
+"
+22665,CHEBI:17278,"3alpha-hydroxy steroid
+7alpha-hydroxy steroid
+12alpha-hydroxy steroid
+26-hydroxy steroid
+"
+22665,C05446,"C27 bile acids, alcohols, and derivatives
+"
+22665,LMST04030014,"C27 bile acids, alcohols, and derivatives
+"
+22666,CHEBI:16836,"mononitrophenol
+"
+22668,CHEBI:17697,"acetamides
+hydroxyindole
+"
+22668,N-ACETYL-SEROTONIN,"a small molecule
+"
+22669,CHEBI:37753,"pyridine alkaloid
+aminoacylpyridine
+"
+22670,LMFA01170082,"Dicarboxylic acids
+"
+22671,CHEBI:15479,"short-chain fatty acyl-CoA
+methyl-branched fatty acyl-CoA
+"
+22672,LMFA03010033,"Prostaglandins
+"
+22673,CHEBI:28846,"pyrimidine 2'-deoxyribonucleoside 5'-diphosphate
+2'-deoxycytidine phosphate
+"
+22673,C00705,"Deoxyribonucleotides
+"
+22674,CHEBI:16238,"flavin adenine dinucleotide
+"
+22675,CHEBI:28884,"acetamides
+"
+22675,N-ACETYLARYLAMINE,"a small molecule
+"
+22676,CHEBI:15710,"quaternary ammonium ion
+"
+22676,BETAINE_ALDEHYDE,"a small molecule
+"
+22677,CHEBI:2003,"dihydroxyindole
+"
+22678,CHEBI:15873,"2-amino-2-deoxy-D-glucopyranose 6-phosphate
+"
+22679,CHEBI:16265,"succinate semialdehyde
+"
+22679,LMFA06000118,"Fatty aldehydes
+"
+22681,CHEBI:15439,"coproporphyrinogen
+"
+22685,CHEBI:30907,"oxo dicarboxylic acid
+beta-diketone
+"
+22685,LMFA01170066,"Dicarboxylic acids
+"
+22688,CHEBI:18116,"C-nucleoside phosphate
+"
+22689,CHEBI:63860,"iminium betaine
+N-glycosylpyridine
+"
+22690,CHEBI:15996,"guanosine 5'-phosphate
+purine ribonucleoside 5'-triphosphate
+"
+22690,C00044,"Ribonucleotides
+"
+22691,CHEBI:18075,"pyrimidine 2'-deoxyribonucleoside 5'-diphosphate
+thymidine phosphate
+"
+22691,C00363,"Deoxyribonucleotides
+"
+22693,CHEBI:17927,"acetylspermidine
+"
+22694,CHEBI:15442,"triterpenyl phosphate
+triterpenoid
+"
+22696,CHEBI:63689,"diadenosyl hexaphosphate
+"
+22701,CHEBI:17720,"2,3-bisphosphoglyceric acid
+"
+22704,CHEBI:28096,"deoxyribulose phosphate
+"
+22709,CHEBI:15570,"D-alpha-amino acid
+alanine
+"
+22709,C00133,"Other amino acids
+"
+22712,CHEBI:16356,"guanyl ribonucleotide
+3',5'-cyclic purine nucleotide
+"
+22712,C00942,"3',5'-Cyclic nuclcleotides
+"
+22713,CHEBI:48928,"gluconic acid phosphate
+"
+22714,CHEBI:17998,"alpha-CH2-containing aldehyde
+"
+22714,4-METHYLPENTANAL,"a small molecule
+"
+22715,CHEBI:28803,"vitamin B6 phosphate
+"
+22716,CHEBI:15548,"prostaglandins E
+"
+22716,LMFA03010146,"Prostaglandins
+"
+22722,CHEBI:995,"2-amino-3-(3-oxoprop-1-enyl)but-2-enedioic acid
+"
+22723,CHEBI:15552,"prostaglandins I
+"
+22723,C01312,"Prostaglandins
+"
+22723,LMFA03010087,"Prostaglandins
+"
+22724,CHEBI:15651,"long-chain fatty acid
+leukotriene
+polyunsaturated fatty acid
+oxylipin
+epoxy fatty acid
+"
+22724,C00909,"Epoxy fatty acids
+Leukotrienes
+"
+22724,LMFA03020023,"Leukotrienes
+"
+22727,CHEBI:15883,"guanosine 5'-phosphate
+purine ribonucleoside 5'-tetraphosphate
+"
+22728,CHEBI:18077,"pyrimidine 2'-deoxyribonucleoside 5'-triphosphate
+thymidine phosphate
+"
+22728,C00459,"Deoxyribonucleotides
+"
+22729,CHEBI:17436,"carboxyalkyl phosphate
+"
+22729,LMFA01050415,"Hydroxy fatty acids
+"
+22730,CHEBI:18020,"butanals
+"
+22730,4-TRIMETHYLAMMONIOBUTANAL,"a small molecule
+"
+22731,CHEBI:16955,"GDP-sugar
+"
+22732,C00129,"C5 isoprenoids (hemiterpenes)
+"
+22734,CHEBI:28542,"2-deoxyribose 1-phosphate
+"
+22735,CHEBI:17028,"ketoaldonic acid
+hexonic acid
+"
+22737,CHEBI:27928,"C-nitro compound
+organic thiophosphate
+organothiophosphate insecticide
+"
+22737,C06604,"Organophosphorus insecticides
+"
+22737,PARATHION,"an aryl dialkyl phosphate
+"
+22739,CHEBI:17898,"retinal
+"
+22739,C00376,"Retinoids
+"
+22739,LMPR01090002,"Retinoids
+"
+22741,CHEBI:17245,"one-carbon compound
+carbon oxide
+"
+22741,CARBON-MONOXIDE,"a small molecule
+"
+22742,CHEBI:18334,"adenosine 5'-phosphate
+purine ribonucleoside 5'-tetraphosphate
+"
+22746,CHEBI:16026,"2,6-diaminopimelic acid
+"
+22746,LMFA01170102,"Dicarboxylic acids
+"
+22751,CHEBI:15925,"ketoaldonic acid phosphate
+"
+22752,CHEBI:15379,"diatomic oxygen
+elemental molecule
+"
+22752,OXYGEN-MOLECULE,"a non-metabolic compound
+"
+22755,CHEBI:15554,"prostaglandins H
+oxylipin
+"
+22755,C00427,"Prostaglandins
+"
+22755,LMFA03010010,"Prostaglandins
+"
+22756,CHEBI:2691,"nitrite esters
+"
+22757,CHEBI:16893,"sphingoid 1-phosphate
+"
+22757,C01120,"Sphingoid base 1-phosphates
+"
+22757,LMSP01050002,"Sphingoid base 1-phosphates
+"
+22764,CHEBI:16620,"TDP-sugar
+"
+22765,CHEBI:15555,"prostaglandins D
+"
+22765,C00696,"Prostaglandins
+"
+22765,LMFA03010004,"Prostaglandins
+"
+22767,CHEBI:17622,"deoxyuridine phosphate
+pyrimidine 2'-deoxyribonucleoside 5'-monophosphate
+"
+22767,C00365,"Deoxyribonucleotides
+"
+22770,CHEBI:4581,"pteroic acids
+"
+22771,CHEBI:16436,"phosphocholines
+nucleotide-(amino alcohol)s
+"
+22774,CHEBI:34310,"oxysterol
+24-hydroxycholesterol
+"
+22774,LMST01010019,"Cholesterol and derivatives
+"
+22776,CHEBI:57515,"alpha-amino-acid cation
+"
+22780,CHEBI:18367,"phosphate ion
+"
+22783,CPD-11496,"a guaiacol
+"
+22785,CHEBI:18381,"1-(phosphoribosyl)imidazolecarboxamide
+"
+22786,CHEBI:16497,"deoxyguanosine phosphate
+guanyl deoxyribonucleotide
+purine 2'-deoxyribonucleoside 5'-triphosphate
+"
+22786,C00286,"Deoxyribonucleotides
+"
+22788,CHEBI:15544,"prostaglandins E
+"
+22788,C04741,"Prostaglandins
+"
+22788,LMFA03010134,"Prostaglandins
+"
+22789,CHEBI:45064,"phosphite ion
+"
+22792,CHEBI:16189,"inorganic anion
+sulfur oxoanion
+sulfur oxide
+"
+22792,SULFATE,"an anion
+"
+22793,CHEBI:50169,"3-hydroxy-5alpha-pregnan-20-one
+"
+22793,LMST02030156,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22794,CHEBI:43796,"dithiolanes
+thia fatty acid
+heterocyclic fatty acid
+lipoic acid
+"
+22795,CHEBI:15627,"epoxy monocarboxylic acid
+thromboxanes A
+"
+22795,C02198,"Thromboxanes
+thromboxane
+"
+22795,LMFA03030001,"Thromboxanes
+"
+22797,CHEBI:11909,"3-hydroxy-5alpha-pregnan-20-one
+"
+22797,LMST02030173,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22798,CHEBI:16496,"3alpha-hydroxy steroid
+7alpha-hydroxy steroid
+12alpha-hydroxy steroid
+"
+22798,C05454,"C27 bile acids, alcohols, and derivatives
+"
+22798,LMST04030035,"C27 bile acids, alcohols, and derivatives
+"
+22801,CHEBI:28006,"organic thiophosphate
+"
+22803,CHEBI:17735,"N,N-dimethylaniline
+"
+22803,NN-DIMETHYLANILINE-N-OXIDE,"a small molecule
+"
+22805,CHEBI:16229,"3beta-hydroxy steroid
+3-hydroxy-5beta-pregnan-20-one
+"
+22805,LMST02030185,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22808,CHEBI:17862,"2-amino-1-hydroxyoctadecan-3-one
+"
+22808,C02934,"Sphing-4-enines (Sphingosines)
+"
+22808,LMSP01020002,"Sphinganines
+"
+22810,CHEBI:28922,"prostaglandins Fbeta
+"
+22810,C02314,"Prostaglandins
+"
+22810,LMFA03010025,"Prostaglandins
+"
+22812,CHEBI:16908,"NAD
+NAD(P)H
+"
+22813,CHEBI:16300,"D-ribose 1-phosphate
+"
+22814,CPD-11497,"a guaiacol
+"
+22816,CHEBI:15350,"acyl monophosphate
+"
+22819,CPD-2743,"a small molecule
+"
+22820,CHEBI:16595,"myo-inositol trisphosphate
+"
+22828,CHEBI:17287,"phosphoamino acid
+phosphagen
+"
+22831,CHEBI:47977,"D-glucosamine
+"
+22831,C00329,"Amino sugars
+"
+22833,C02593,"Fatty acyl CoAs
+"
+22834,S-ACETYLDIHYDROLIPOAMIDE,"a small molecule
+"
+22835,CHEBI:1438,"thia fatty acid
+"
+22835,LMFA01130006,"Thia fatty acids
+"
+22836,CHEBI:16298,"alditol 1-phosphate
+hexitol phosphate
+"
+22837,CHEBI:16284,"2'-deoxyadenosine 5'-phosphate
+purine 2'-deoxyribonucleoside 5'-triphosphate
+"
+22837,C00131,"Deoxyribonucleotides
+"
+22840,CHEBI:48431,"one-carbon compound
+carboximidic acid
+"
+22840,FORMAMIDE,"a small molecule
+"
+22845,CHEBI:49410,"monochlorobenzoic acid
+"
+22846,CHEBI:17239,"cytidine 5'-phosphate
+pyrimidine ribonucleoside 5'-diphosphate
+"
+22846,C00112,"Ribonucleotides
+"
+22847,CHEBI:16827,"3-oxo steroid
+11beta-hydroxy steroid
+glucocorticoid
+20-oxo steroid
+21-hydroxy steroid
+C21-steroid
+"
+22847,C02140,"C21 steroids (gluco/mineralocorticoids, progestogens) and derivatives
+Pregnane and derivatives [Fig]
+Mineralocorticoids
+"
+22847,LMST02030186,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22848,CHEBI:16225,"S-acylglutathione
+"
+22849,CHEBI:30882,"2-oxo monocarboxylic acid
+"
+22850,CHEBI:15652,"xanthosine 5'-phosphate
+purine ribonucleoside 5'-monophosphate
+"
+22850,C00655,"Purine alkaloids
+"
+22853,CHEBI:19062,"methylguanosine
+"
+22854,CHEBI:16732,"nucleotide-(amino alcohol)s
+phosphoethanolamine
+"
+22855,CHEBI:18132,"phosphocholines
+"
+22856,CHEBI:27564,"3-methylguanine
+"
+22856,CPD-13319,"a small molecule
+"
+22857,CHEBI:31542,"3alpha-sterol
+5alpha-cholestane
+"
+22857,LMST01010098,"Cholesterol and derivatives
+"
+22861,CHEBI:17140,"xylulose
+"
+22862,CHEBI:18347,"L-alpha-amino acid
+2-aminohexanoic acid
+"
+22862,C01933,"Amino fatty acids
+"
+22862,LMFA01100042,"Amino fatty acids
+"
+22869,CHEBI:47499,"dibenzoazepine
+"
+22869,CPD-11438,"a small molecule
+"
+22872,CHEBI:18403,"arabinitol
+"
+22873,CHEBI:15367,"retinoic acid
+"
+22873,C00777,"Retinoids
+"
+22873,LMPR01090019,"Retinoids
+"
+22874,CPD-11671,"a small molecule
+"
+22875,CHEBI:68447,"oxopurine
+"
+22876,CHEBI:46195,"phenols
+acetamides
+"
+22876,CPD-7669,"a small molecule
+"
+22877,CHEBI:25858,"dimethylxanthine
+"
+22877,C13747,"Purine alkaloids
+"
+22877,1-7-DIMETHYLXANTHINE,"a small molecule
+"
+22881,CHEBI:17308,"2-oxo monocarboxylic acid
+medium-chain fatty acid
+straight-chain fatty acid
+oxo fatty acid
+"
+22881,C00902,"Oxo fatty acids
+"
+22881,LMFA01060007,"Oxo fatty acids
+"
+22882,CPD-11879,"a catechol
+"
+22883,CHEBI:104011,"N-acylglycine
+"
+22885,CHEBI:39867,"branched-chain saturated fatty acid
+branched-chain fatty acid
+"
+22885,LMFA01020291,"Branched fatty acids
+"
+22887,CHEBI:62207,"3-methylxanthine
+"
+22887,C16357,"Purine alkaloids
+"
+22887,3-METHYLXANTHINE,"a small molecule
+"
+22888,CHEBI:42682,"aminobenzoic acid
+"
+22891,CHEBI:74168,"butan-4-olide
+ribonolactone
+"
+22892,CHEBI:16586,"omega-amino fatty acid
+epsilon-amino acid
+"
+22892,C02378,"Amino fatty acids
+"
+22892,LMFA01100035,"Amino fatty acids
+"
+22895,CHEBI:27971,"alpha-amino acid
+2,2-dialkylglycine
+"
+22895,LMFA01100053,"Amino fatty acids
+"
+22896,LMFA03010024,"Prostaglandins
+"
+22897,CHEBI:2567,"primary amino compound
+1,1-bis(phosphonic acid)
+"
+22899,CHEBI:4551,"steroid saponin
+cardenolide glycoside
+"
+22899,C06956,"Cardanolides and derivatives
+cardanolide
+Cardanolide and derivatives
+Terpenoids
+Cardiac glycosides
+"
+22900,CHEBI:4975,"guanidines
+sulfonamide
+1,3-thiazole
+"
+22902,CHEBI:6801,"guanidines
+"
+22903,CHEBI:3764,"imidazoles
+organochlorine compound
+"
+22903,CPD-8926,"a small molecule
+"
+22904,CHEBI:7476,"monocarboxylic acid
+methoxynaphthalene
+"
+22907,CHEBI:4636,"tertiary amino compound
+ether
+"
+22907,CPD-10890,"a small molecule
+"
+22909,CHEBI:63598,"ofloxacin
+"
+22910,CHEBI:8776,"tertiary amino compound
+C-nitro compound
+furans
+"
+22913,C01541,"Coumarin rodenticides
+"
+22916,CHEBI:43755,"dipeptide
+"
+22917,CHEBI:6715,"3-oxo steroid
+17alpha-hydroxy steroid
+3-oxo Delta(4)-steroid
+20-oxo steroid
+"
+22917,LMST02030176,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+22921,CHEBI:51209,"secondary alcohol
+secondary amine
+"
+22921,C02765,"Phenylalanine derived alkaloids
+"
+22936,LMFA01050387,"Hydroxy fatty acids
+"
+22937,CHEBI:65136,"docosapentaenoic acid
+"
+22937,LMFA04000064,"Docosanoids
+"
+22938,CHEBI:36203,"trioxilin
+"
+22938,C14809,"Hepoxilins
+"
+22938,LMFA03090002,"Hepoxilins
+"
+22943,CHEBI:68531,"oxopurine
+"
+22943,C16360,"Purine alkaloids
+"
+22943,CPD-12482,"a small molecule
+"
+22944,CHEBI:17319,"adenosines
+5'-deoxyribonucleoside
+"
+22945,CHEBI:5062,"aza-steroid
+3-oxo steroid
+"
+22949,CHEBI:17899,"3-oxo steroid
+cholestanoid
+7alpha-hydroxy steroid
+"
+22949,C05455,"Cholesterol and derivatives
+"
+22949,LMST04030123,"C27 bile acids, alcohols, and derivatives
+"
+22950,LMFA01170103,"Dicarboxylic acids
+"
+22951,CHEBI:2086,"tryptamine alkaloid
+"
+22951,C08309,"Indole alkaloids
+"
+22952,CPD0-1959,"a small molecule
+"
+22953,CHEBI:16303,"3-aminoalanine
+"
+22953,LMFA01100051,"Amino fatty acids
+"
+22957,CHEBI:46234,"ubiquinones
+"
+22957,CPD0-1118,"a ubiquinone
+"
+22958,C02862,"Fatty acyl carnitines
+"
+22968,LMST01010242,"Cholesterol and derivatives
+"
+22972,CHEBI:52617,"oxopurine
+"
+22972,CPD-12427,"an aromatic compound
+"
+22974,CHEBI:49709,"chlorine oxoanion
+"
+22975,CHEBI:17604,"L-lysine derivative
+"
+22980,CHEBI:47904,"oxo dicarboxylic acid
+beta-diketone
+"
+22980,LMFA01170114,"Dicarboxylic acids
+"
+22985,CHEBI:39567,"medium-chain fatty acid
+omega-hydroxy fatty acid
+"
+22985,C08317,"Hydroxy fatty acids
+"
+22985,LMFA01050039,"Hydroxy fatty acids
+"
+22989,CHEBI:78710,"very long-chain fatty acid
+straight-chain saturated fatty acid
+"
+22989,LMFA01010027,"Straight chain fatty acids
+"
+22990,CHEBI:17768,"N-substituted putrescine
+N-monoacetylalkane-alpha,omega-diamine
+"
+22990,CPD-569,"an aliphatic <i>N</i>-acetyl-diamine
+"
+22991,6-LACTOYL-5678-TETRAHYDROPTERIN,"a small molecule
+"
+22995,CHEBI:55501,"monocarboxylic acid
+monomethoxybenzene
+"
+22996,LMFA01170080,"Dicarboxylic acids
+"
+22997,CHEBI:17441,"chlorine oxoanion
+"
+22997,CHLORITE,"a small molecule
+"
+22998,CHEBI:29195,"pseudohalide anion
+organonitrogen compound
+"
+22998,CPD-69,"a small molecule
+"
+23002,CHEBI:71466,"N-(long-chain-acyl)ethanolamine
+endocannabinoid
+"
+23002,LMFA08040015,"N-acyl ethanolamines (endocannabinoids)
+"
+23008,CHEBI:28871,"methyladenine
+6-alkylaminopurine
+"
+23009,CHEBI:76591,"26-hydroxycholesterol
+"
+23009,LMST01010088,"Cholesterol and derivatives
+"
+23010,CHEBI:17232,"glutamic semialdehyde
+"
+23011,CHEBI:39745,"phosphate ion
+"
+23011,CPD0-1421,"an inorganic salt
+"
+23014,LMFA03110006,"Isoprostanes
+"
+23015,CHEBI:70973,"dicarboxylic acid monoester
+phthalate ester
+"
+23016,CHEBI:36075,"prostaglandins Falpha
+"
+23016,C06476,"Prostaglandins
+"
+23016,LMFA03010138,"Prostaglandins
+"
+23017,CHEBI:691622,"oxopurine
+"
+23017,C16361,"Purine alkaloids
+"
+23017,CPD-12480,"a small molecule
+"
+23018,LMST01010213,"Cholesterol and derivatives
+"
+23023,CHEBI:17906,"propanone
+"
+23029,CHEBI:74763,"pyrimidone
+"
+23034,CHEBI:16066,"retinal
+"
+23034,C02110,"Retinoids
+"
+23034,LMPR01090003,"Retinoids
+"
+23036,LMST04020029,"C26 bile acids, alcohols, and derivatives
+"
+23037,CHEBI:28607,"coproporphyrinogen
+"
+23041,CHEBI:33094,"beta-amino acid
+3-aminoisobutyric acid
+"
+23041,LMFA01100050,"Amino fatty acids
+"
+23043,CHEBI:18421,"reactive oxygen species
+inorganic radical anion
+diatomic oxygen
+oxygen radical
+"
+23046,CHEBI:74135,"tripeptide
+"
+23047,CHEBI:28101,"acetylspermine
+"
+23050,CHEBI:71488,"omega-3 fatty acid
+icosatetraenoic acid
+"
+23050,LMFA01030818,"Unsaturated fatty acids
+"
+23051,CHEBI:15493,"cholestanoyl-CoA
+"
+23052,CHEBI:25941,"nitrogen oxoanion
+reactive nitrogen species
+reactive oxygen species
+"
+23052,CPD0-1395,"an anion
+"
+23053,LMST04030016,"C27 bile acids, alcohols, and derivatives
+"
+23057,CHEBI:27911,"acetylspermidine
+"
+23073,CHEBI:28766,"uroporphyrinogen
+"
+23073,CPD-11444,"a porphyrin
+"
+23083,C14769,"Hydroxy/hydroperoxyeicosatrienoic acids
+"
+23089,CHEBI:28747,"pyridinemonocarboxylic acid
+"
+23089,C10164,"Piperidine alkaloids
+"
+23091,CHEBI:77086,"O-acyl-L-carnitine
+O-dodecanoylcarnitine
+"
+23095,LMST01020001,"Steryl esters
+"
+23098,C14775,"Hydroxy/hydroperoxyeicosatrienoic acids
+"
+23099,LMFA01170079,"Dicarboxylic acids
+"
+23100,CHEBI:28129,"phytofluene
+"
+23100,C05414,"C40 isoprenoids (tetraterpenes)
+Carotenoids
+"
+23100,LMPR01070299,"C40 isoprenoids (tetraterpenes)
+"
+23107,CPD-5881,"a small molecule
+"
+23118,CHEBI:16320,"3-aminoisobutyric acid
+"
+23118,LMFA01100049,"Amino fatty acids
+"
+23124,C14774,"Hydroxy/hydroperoxyeicosatrienoic acids
+"
+23126,CHEBI:73718,"alpha,omega-dicarboxylic acid
+"
+23126,LMFA01170014,"Dicarboxylic acids
+"
+23136,CHEBI:15529,"hydroxyacyl-CoA
+"
+23137,CHEBI:27036,"muconic acid
+"
+23137,LMFA01170124,"Dicarboxylic acids
+"
+23139,CHEBI:74018,"secondary alcohol
+leukotriene
+L-alpha-amino acid
+amino dicarboxylic acid
+cysteine thioether
+"
+23152,CHEBI:63959,"monocarboxylic acid
+pentacyclic triterpenoid
+"
+23153,CHEBI:30502,"monoatomic dication
+divalent metal cation
+beryllium cation
+"
+23153,CPD-1492,"a cation
+"
+23154,CHEBI:20141,"monohydroxybenzoic acid
+"
+23156,LMST01010059,"Cholesterol and derivatives
+"
+23159,CHEBI:34820,"levuglandin
+"
+23159,C13808,"Levuglandins
+"
+23159,LMFA03100002,"Levuglandins
+"
+23163,CHEBI:15702,"benzenedicarboxylic acid
+"
+23168,CHEBI:68502,"alpha,omega-dicarboxylic acid
+"
+23168,LMFA01170086,"Dicarboxylic acids
+"
+23178,CHEBI:72733,"steroid sulfate
+7alpha-hydroxy steroid
+bile acid glycine conjugate
+"
+23179,LMST05020030,"Sulfates
+"
+23180,CHEBI:15858,"halide anion
+monoatomic bromine
+"
+23180,BR-,"an anion
+"
+23184,CHEBI:17270,"glycerol monophosphate
+"
+23189,LMST05010044,"Glucuronides
+"
+23191,CHEBI:17864,"steroid sulfate
+"
+23191,C03642,"C26 bile acids, alcohols, and derivatives
+Sulfates
+Taurine conjugates
+"
+23191,LMST05020003,"Sulfates
+"
+23194,LMST05020024,"Sulfates
+"
+23203,CHEBI:15545,"prostaglandins A
+"
+23203,LMFA03010005,"Prostaglandins
+"
+23204,CHEBI:16168,"monohydroxypyridine
+"
+23204,C01020,"Pyridine alkaloids
+"
+23205,CHEBI:28031,"prostaglandins E
+"
+23205,C06439,"Prostaglandins
+"
+23205,LMFA03010135,"Prostaglandins
+"
+23206,CHEBI:37574,"thiamine phosphate
+"
+23207,CHEBI:28852,"prostaglandins Falpha
+"
+23207,C06475,"Prostaglandins
+"
+23207,LMFA03010137,"Prostaglandins
+"
+23208,LMFA03010144,"Prostaglandins
+"
+23212,CHEBI:27485,"prostaglandins J
+"
+23212,C05957,"Prostaglandins
+"
+23212,LMFA03010019,"Prostaglandins
+"
+23213,CHEBI:16070,"anhydro sugar
+"
+23216,CHEBI:19065,"inosines
+"
+23217,CHEBI:7466,"3-oxo Delta(4)-steroid
+17beta-hydroxy steroid
+anabolic androgenic steroid
+"
+23217,C07254,"Estrane and derivatives
+"
+23217,LMST02010044,"C18 steroids (estrogens) and derivatives
+"
+23225,LMST05020001,"Sulfates
+"
+23226,CHEBI:15550,"prostaglandins E
+"
+23226,LMFA03010031,"Prostaglandins
+"
+23227,CHEBI:16301,"nitrogen oxoanion
+reactive nitrogen species
+inorganic anion
+"
+23227,NITRITE,"an anion
+"
+23228,CHEBI:16962,"3-oxo steroid
+17alpha-hydroxy steroid
+glucocorticoid
+20-oxo steroid
+11-oxo steroid
+21-hydroxy steroid
+C21-steroid
+"
+23228,C00762,"C21 steroids (gluco/mineralocorticoids, progestogens) and derivatives
+Glucocorticoids
+Pregnane and derivatives [Fig]
+"
+23228,LMST02030090,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+23231,CHEBI:76451,"pyrimidone
+"
+23231,CPD-3684,"an amine
+"
+23232,CHEBI:1606,"imidazolyl carboxylic acid
+"
+23233,CHEBI:28832,"beta-D-glucosiduronic acid
+steroid glucosiduronic acid
+"
+23233,C11135,"C19 steroids (androgens) and derivatives
+Glucuronides
+"
+23233,LMST05010013,"Glucuronides
+"
+23235,LMST05020032,"Sulfates
+"
+23236,CHEBI:4315,"terminal acetylenic compound
+17beta-hydroxy steroid
+"
+23237,C05270,"Fatty acyl CoAs
+"
+23240,CHEBI:28158,"prostaglandins Falpha
+"
+23240,C05961,"Prostaglandins
+"
+23240,LMFA03010001,"Prostaglandins
+"
+23243,LMFA03030003,"Thromboxanes
+"
+23244,CHEBI:16318,"catechols
+C-nitro compound
+"
+23244,CPD-158,"a catechol
+a nitroaromatic compound
+"
+23245,CHEBI:53486,"long-chain fatty acid
+icosatrienoic acid
+"
+23245,C03242,"Polyunsaturated fatty acids
+"
+23245,LMFA01030158,"Unsaturated fatty acids
+"
+23249,CHEBI:16330,"3-oxo steroid
+17beta-hydroxy steroid
+"
+23249,C03917,"C19 steroids (androgens) and derivatives
+Androstane and derivatives
+Androgens
+"
+23249,LMST02020042,"C19 steroids (androgens) and derivatives
+"
+23250,C05849,"Vitamin K
+"
+23251,CHEBI:27624,"prostaglandins B
+"
+23251,C00959,"Prostaglandins
+"
+23251,LMFA03010131,"Prostaglandins
+"
+23252,LMST02020086,"C19 steroids (androgens) and derivatives
+"
+23254,CHEBI:17141,"thiol
+amine
+"
+23254,C01678,"Biogenic amines
+"
+23254,CPD-239,"a thiol
+"
+23257,CHEBI:17981,"acetate ester
+acetyl-L-serine
+"
+23258,CHEBI:17090,"prephytoene diphosphate
+"
+23258,C03427,"C40 isoprenoids (tetraterpenes)
+"
+23258,LMPR01070253,"C40 isoprenoids (tetraterpenes)
+"
+23260,CHEBI:34939,"prostaglandins D
+"
+23260,C13802,"Prostaglandins
+"
+23260,LMFA03010142,"Prostaglandins
+"
+23261,CHEBI:35432,"aryl sulfate
+O-sulfoamino acid
+"
+23262,CHEBI:50174,"acitretin
+"
+23264,CHEBI:18041,"lactaldehyde
+"
+23265,CHEBI:48965,"chalcone
+"
+23270,CHEBI:68441,"oxopurine
+"
+23270,C16359,"Purine alkaloids
+"
+23272,CHEBI:9249,"tertiary alcohol
+organic heteropentacyclic compound
+17beta-hydroxy steroid
+anabolic androgenic steroid
+"
+23272,C07311,"Androstane and derivatives
+"
+23274,CHEBI:27870,"azabicycloalkane
+ureas
+thiabicycloalkane
+L-lysine derivative
+monocarboxylic acid amide
+L-alpha-amino acid
+"
+23275,CHEBI:28870,"glucuronic acids
+"
+23278,CHEBI:64399,"pyridinecarboxamide
+"
+23279,CHEBI:17072,"guanidines
+dicarboxylic acid
+aspartic acid derivative
+N-amidino-amino acid
+"
+23282,CHEBI:15547,"prostaglandins E
+"
+23282,LMFA03010030,"Prostaglandins
+"
+23284,CHEBI:2030,"monocarboxylic acid amide
+aminoimidazole
+"
+23285,CHEBI:28835,"steroid glucosiduronic acid
+"
+23285,C11134,"C19 steroids (androgens) and derivatives
+Glucuronides
+"
+23285,LMST05010012,"Glucuronides
+"
+23290,CHEBI:27647,"prostaglandins G
+"
+23290,C05956,"Prostaglandins
+"
+23290,LMFA03010009,"Prostaglandins
+"
+23292,LMFA03010014,"Prostaglandins
+"
+23298,CHEBI:7563,"N-acylglycine
+"
+23308,CHEBI:40304,"guanosines
+"
+23316,CHEBI:16898,"pyrimidines
+diazine
+"
+23316,PYRIMIDINE-RING,"a ring
+"
+23322,CHEBI:18036,"phosphorus oxoanion
+triphosphate ion
+"
+23322,P3I,"a polyphosphate
+"
+23323,LMFA01050398,"Hydroxy fatty acids
+"
+23325,CHEBI:47954,"D-galactopyranuronic acid
+"
+23326,CHEBI:16855,"lysine
+D-alpha-amino acid
+"
+23326,C00739,"Other amino acids
+"
+23327,CHEBI:16523,"D-alpha-amino acid
+serine
+"
+23327,C00740,"Other amino acids
+"
+23328,CHEBI:16118,"organic heteropentacyclic compound
+berberine alkaloid
+"
+23328,C00757,"Isoquinoline alkaloids
+Alkaloids
+"
+23328,BERBERINE,"a small molecule
+"
+23329,CHEBI:16313,"D-alpha-amino acid
+proline
+"
+23329,C00763,"Other amino acids
+"
+23331,CHEBI:16375,"D-alpha-amino acid
+cysteine
+"
+23331,C00793,"Other amino acids
+"
+23334,CHEBI:17061,"D-alpha-amino acid
+glutamine
+"
+23334,C00819,"Other amino acids
+"
+23336,CHEBI:16255,"imidazoles
+amino alcohol
+"
+23339,CHEBI:17871,"alpha-CH2-containing aldehyde
+propanals
+"
+23339,HYDROXYPROPANAL,"a small molecule
+"
+23340,CHEBI:16871,"lactone
+furopyridine
+"
+23340,CPD-375,"a small molecule
+"
+23342,CHEBI:17587,"gulonolactone
+"
+23343,CHEBI:48309,"glutamic acid derivative
+N-formyl amino acid
+"
+23345,CHEBI:15961,"<element>o</element>-phosphorylhomoserine
+"
+23348,CHEBI:18148,"D-glucose 1,6-bisphosphate
+"
+23349,CHEBI:52222,"homocitric acid
+"
+23353,CHEBI:28807,"deoxyinosine phosphate
+purine 2'-deoxyribonucleoside 5'-triphosphate
+"
+23354,CHEBI:28976,"carbon oxoacid
+chalcocarbonic acid
+"
+23354,H2CO3,"a small molecule
+"
+23358,CHEBI:28616,"one-carbon compound
+organonitrogen compound
+carbon oxoacid
+"
+23360,CHEBI:16315,"morphinane alkaloid
+"
+23360,C01735,"Isoquinoline alkaloids
+"
+23361,CHEBI:15521,"medium-chain fatty acyl-CoA
+"
+23362,CHEBI:16794,"tertiary amino compound
+epoxide
+propanoate ester
+tropane alkaloid
+"
+23364,CHEBI:42280,"dethiobiotin
+"
+23365,CHEBI:17228,"guanidines
+"
+23369,CHEBI:17123,"enamine
+alpha-amino acid
+alpha,beta-unsaturated monocarboxylic acid
+alanine derivative
+dehydroamino acid
+"
+23372,CHEBI:16354,"imidazolidine-2,4-dione
+"
+23372,N-METHYLHYDANTOIN,"a small molecule
+"
+23373,CHEBI:50718,"acetaldehyde oxime
+"
+23374,CHEBI:17166,"N-substituted putrescine
+"
+23376,ALPHA-PINENE-OXIDE,"a small molecule
+"
+23377,CHEBI:17645,"monocarboxylic acid
+N-acyl-amino acid
+"
+23379,CHEBI:15890,"dimethylbenzimidazole
+"
+23379,DIMETHYLBENZIMIDAZOLE,"a small molecule
+"
+23380,CHEBI:16034,"guanidinoacetates
+phosphoramide
+"
+23381,CHEBI:57330,"monounsaturated fatty acyl-CoA(4-)
+"
+23383,CHEBI:17905,"thiol
+organosulfonic acid
+"
+23385,CHEBI:28952,"3-oxo steroid
+20-oxo steroid
+"
+23385,LMST02030170,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+23387,CHEBI:15621,"alpha-CH2-containing aldehyde
+phenylacetaldehydes
+"
+23387,HYDRPHENYLAC-CPD,"a small molecule
+"
+23388,CHEBI:16985,"androstane-3,17-dione
+"
+23388,C03772,"C19 steroids (androgens) and derivatives
+Androstane and derivatives
+"
+23388,LMST02020058,"C19 steroids (androgens) and derivatives
+"
+23390,CHEBI:27978,"catechols
+alpha-CH2-containing aldehyde
+phenylacetaldehydes
+"
+23390,34-DIHYDROXYPHENYLACETALDEHYDE,"a small molecule
+"
+23391,CHEBI:2710,"17beta-hydroxy steroid
+3beta-hydroxy steroid
+"
+23391,C04295,"C19 steroids (androgens) and derivatives
+Androstane and derivatives
+"
+23391,LMST02020005,"C19 steroids (androgens) and derivatives
+"
+23394,CHEBI:31959,"organic disulfide
+"
+23397,CHEBI:29269,"phosphoric acid derivative
+"
+23403,CHEBI:15655,"HPODE
+"
+23403,C04717,"Hydroperoxy fatty acids
+"
+23403,LMFA02000034,"Other Octadecanoids
+"
+23404,CHEBI:48043,"3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oic acid
+"
+23404,LMST04030151,"C27 bile acids, alcohols, and derivatives
+"
+23405,CHEBI:15558,"15-HETE
+"
+23405,C04742,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+23405,LMFA03060001,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+23406,CHEBI:16837,"ribose monophosphate
+1-ribosylbenzimidazole
+dimethylbenzimidazole
+"
+23408,CHEBI:1157,"alkanesulfonic acid
+"
+23410,CHEBI:27398,"alpha-CH2-containing aldehyde
+imidazolylacetaldehyde
+"
+23410,IMIDAZOLE_ACETALDEHYDE,"a small molecule
+"
+23411,C05145,"Other amino acids
+"
+23412,CHEBI:16415,"dibenzazecine alkaloid
+"
+23412,C05189,"Isoquinoline alkaloids
+"
+23412,PROTOPINE,"a small molecule
+"
+23413,CHEBI:16607,"aminoimidazole
+"
+23413,AMINO-IMIDAZOLE,"a small molecule
+"
+23415,CHEBI:59951,"alpha-amino acid
+imidazopyridine
+"
+23420,LMFA07050014,"Fatty acyl CoAs
+"
+23433,LMFA07050007,"Fatty acyl CoAs
+"
+23435,CHEBI:27576,"3-oxo steroid
+19-hydroxy steroid
+17-oxo steroid
+androstanoid
+"
+23435,C05290,"C19 steroids (androgens) and derivatives
+"
+23435,LMST02020067,"C19 steroids (androgens) and derivatives
+"
+23437,CHEBI:75308,"aldehyde
+3-oxo steroid
+17beta-hydroxy steroid
+androstanoid
+"
+23437,C05295,"C19 steroids (androgens) and derivatives
+"
+23442,CHEBI:28082,"5alpha-hydroxy steroid
+6beta-hydroxy steroid
+3beta-hydroxy steroid
+"
+23442,LMST01010052,"Cholesterol and derivatives
+"
+23444,CHEBI:28043,"3beta-hydroxy steroid
+21-hydroxy steroid
+hydroxypregnenolone
+"
+23444,LMST02030167,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+23445,LMST02030192,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+23448,CHEBI:67237,"22-hydroxy steroid
+oxysterol
+"
+23448,C05502,"Cholesterol and derivatives
+"
+23448,LMST01010086,"Cholesterol and derivatives
+"
+23450,CHEBI:28718,"allothreonine
+"
+23451,CHEBI:21891,"methyladenosine
+"
+23452,CHEBI:16894,"carboxyalkanesulfonic acid
+"
+23455,CHEBI:18157,"L-lysine derivative
+"
+23456,CHEBI:27404,"dihydroxyindole
+"
+23456,DIHYDROXYINDOLE,"a small molecule
+"
+23457,CPD-11876,"a small molecule
+"
+23458,CHEBI:28508,"dihydroxybenzaldehyde
+"
+23460,CHEBI:60872,"indoles
+hydroxy monocarboxylic acid
+"
+23462,CHEBI:50157,"hydroxyindole
+indoleacetaldehyde
+"
+23462,5-HYDROXYINDOLE_ACETALDEHYDE,"a small molecule
+"
+23463,CHEBI:28715,"hydroxykynurenamine
+"
+23466,CHEBI:2700,"N-(long-chain-acyl)ethanolamine
+endocannabinoid
+"
+23466,C11695,"N-acyl ethanolamides (endocannabinoids)
+"
+23466,LMFA08040001,"N-acyl ethanolamines (endocannabinoids)
+"
+23467,CHEBI:2198,"acetamides
+tryptamines
+"
+23467,CPD-12014,"a small molecule
+"
+23472,CHEBI:36575,"amidobenzoic acid
+"
+23474,CHEBI:2089,"aromatic ether
+tryptamines
+"
+23474,CPD-12018,"a small molecule
+"
+23476,CHEBI:15732,"monocarboxylic acid
+phosphonic acids
+"
+23477,CHEBI:2485,"adenosine 5'-phosphate
+"
+23490,CHEBI:28104,"alpha-CH2-containing aldehyde
+imidazolylacetaldehyde
+"
+23493,CHEBI:27410,"methylpyridines
+pyridone
+pyridinecarboxamide
+"
+23494,CHEBI:27838,"methylpyridines
+pyridone
+pyridinecarboxamide
+"
+23496,CHEBI:18067,"phylloquinones
+"
+23496,LMPR02030028,"Vitamin K
+"
+23497,CHEBI:73521,"dipeptide
+"
+23498,CHEBI:28814,"stilbenol
+"
+23498,C05901,"Diphenyl ethers, biphenyls, dibenzyls and stilbenes
+Stilbenes
+"
+23498,LMPK13090006,"Diphenyl ethers, biphenyls, dibenzyls and stilbenes
+"
+23501,CHEBI:28116,"2-oxo monocarboxylic acid
+"
+23502,CHEBI:7386,"monocarboxylic acid amide
+alpha-CH2-containing aldehyde
+"
+23502,CPD-30,"a small molecule
+"
+23506,CHEBI:28130,"oxo carboxylic acid
+"
+23506,C05958,"Prostaglandins
+"
+23506,LMFA03010020,"Prostaglandins
+"
+23508,CHEBI:28442,"prostaglandins Falpha
+"
+23508,C05960,"Prostaglandins
+"
+23508,LMFA03010026,"Prostaglandins
+"
+23509,CHEBI:28269,"prostaglandins E
+"
+23509,C05962,"Prostaglandins
+"
+23509,LMFA03010012,"Prostaglandins
+"
+23518,CPD-12022,"a small molecule
+"
+23519,C14771,"Hydroxy/hydroperoxyeicosatrienoic acids
+"
+23523,CHEBI:2124,"lactone
+furopyridine
+"
+23523,CPD-9028,"a small molecule
+"
+23528,CHEBI:70854,"aromatic ether
+aminopyrimidine
+"
+23529,C06180,"Pyridine alkaloids
+"
+23530,CHEBI:51023,"imidazolinone
+"
+23531,CHEBI:28136,"tryptamine alkaloid
+tryptamines
+"
+23531,C06213,"Indole alkaloids
+"
+23535,CHEBI:28123,"ethanolamines
+"
+23536,CHEBI:28179,"benzamides
+"
+23539,CHEBI:37451,"steroid glucosiduronic acid
+"
+23539,C11136,"Glucuronides
+"
+23539,LMST05010014,"Glucuronides
+"
+23540,C00353,"Acyclic diterpenoids
+Linear diterpenes
+"
+23541,CHEBI:16067,"myo-inositol tetrakisphosphate
+"
+23544,CHEBI:46961,"sphingoid
+amino alcohol
+triol
+"
+23544,C12144,"4-Hydroxysphinganines (Phytosphingosines)
+"
+23544,LMSP01030001,"4-Hydroxysphinganines (Phytosphingosines)
+"
+23545,LMST02020101,"C19 steroids (androgens) and derivatives
+"
+23546,CHEBI:40521,"N-acetyl-L-amino acid
+"
+23553,CHEBI:50091,"glutathione derivative
+"
+23555,CHEBI:33023,"1-heptyl-2-octylcyclopentane
+"
+23556,CHEBI:48926,"glutathione derivative
+"
+23558,CHEBI:34154,"HODE
+"
+23558,C14762,"Other Octadecanoids
+"
+23558,LMFA02000228,"Other Octadecanoids
+"
+23559,CHEBI:68947,"enone
+OxoODE
+"
+23559,C14765,"Other Octadecanoids
+"
+23559,LMFA02000016,"Other Octadecanoids
+"
+23563,CHEBI:34486,"HETE
+"
+23563,C14776,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+23563,LMFA03060006,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+23564,CHEBI:34162,"16-HETE
+"
+23564,C14778,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+23564,LMFA03060069,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+23565,LMFA03060061,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+23567,CHEBI:63976,"prostaglandins Falpha
+ketone
+"
+23567,LMFA03010027,"Prostaglandins
+"
+23568,LMFA03110002,"Isoprostanes
+"
+23569,CHEBI:15631,"long-chain fatty acid
+epoxy fatty acid
+trienoic fatty acid
+hydroxy fatty acid
+"
+23569,LMFA03080012,"Epoxyeicosatrienoic acids
+"
+23573,C14814,"Hydroxy/hydroperoxyeicosatrienoic acids
+"
+23575,CHEBI:34487,"HPETE
+"
+23575,C14823,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+23575,LMFA03060073,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+23578,C14828,"Hydroxy fatty acids
+"
+23580,CHEBI:34485,"HPODE
+octadecanoid
+"
+23580,C14831,"Other Octadecanoids
+"
+23580,LMFA02000113,"Other Octadecanoids
+"
+23581,CHEBI:34506,"TriHOME
+"
+23581,C14833,"Other Octadecanoids
+"
+23581,LMFA02000014,"Other Octadecanoids
+"
+23585,CHEBI:16738,"dichlorophenol
+"
+23585,24-DICHLOROPHENOL,"a chloroaromatic compound
+"
+23591,CHEBI:74092,"sulfone
+biotins
+"
+23595,CHEBI:19289,"methylguanosine
+"
+23728,LMSP0501AA09,"Simple Glc series
+"
+23730,CHEBI:32380,"decenoic acid
+"
+23730,LMFA01030199,"Unsaturated fatty acids
+"
+23732,LMFA01170078,"Dicarboxylic acids
+"
+23735,CHEBI:70966,"imidazolyl carboxylic acid
+"
+23737,CHEBI:116735,"substituted aniline
+benzoate ester
+"
+23739,CHEBI:6532,"piperidines
+organochlorine compound
+monocarboxylic acid amide
+"
+23743,CHEBI:9150,"fatty acid ester
+delta-lactone
+"
+23745,CHEBI:50275,"5-methoxy-2-\{[(4-methoxy-3,5-dimethylpyridin-2-yl)methyl]sulfinyl\}-1H-benzimidazole
+"
+23746,CHEBI:9123,"organochlorine compound
+secondary amino compound
+tetralins
+"
+23748,CHEBI:7735,"N-arylpiperazine
+N-methylpiperazine
+benzodiazepine
+"
+23749,CHEBI:41423,"organofluorine compound
+pyrazoles
+sulfonamide
+"
+23750,CHEBI:42797,"gamma-amino acid
+"
+23754,CHEBI:8871,"organofluorine compound
+pyridopyrimidine
+1,2-benzoxazoles
+heteroarylpiperidine
+"
+23755,CHEBI:8707,"N-arylpiperazine
+N-alkylpiperazine
+dibenzothiazepine
+"
+23756,CHEBI:63618,"carboxylic ester
+secondary alcohol
+hydroxy monocarboxylic acid
+3-hydroxy carboxylic acid
+carbobicyclic compound
+"
+23757,CHEBI:10125,"imidazopyridine
+"
+23759,CHEBI:36791,"1-[3-(dimethylamino)propyl]-1-(4-fluorophenyl)-1,3-dihydro-2-benzofuran-5-carbonitrile
+"
+23763,CHEBI:63634,"sulfonamide
+isoxazoles
+"
+23764,CHEBI:63631,"cyclic ketal
+sulfamate ester
+ketohexose derivative
+"
+23767,CHEBI:10650,"sulfonamide
+tryptamines
+"
+23769,CHEBI:9139,"sulfonamide
+piperazines
+pyrazolopyrimidine
+"
+23772,LMFA01030119,"Unsaturated fatty acids
+"
+23774,C13800,"Nitro fatty acids
+"
+23774,LMFA01120001,"Nitro fatty acids
+"
+23775,C14781,"Epoxyeicosatrienoic acids
+"
+23775,LMFA03080007,"Epoxyeicosatrienoic acids
+"
+23779,LMFA03020010,"Leukotrienes
+"
+23782,C14717,"Prostaglandins
+"
+23782,LMFA03010021,"Prostaglandins
+"
+23785,CHEBI:34505,"prostanoid
+"
+23785,C13809,"Isoprostanes
+"
+23785,LMFA03110001,"Isoprostanes
+"
+23792,CHEBI:58961,"fatty amide
+N-acylglycine
+"
+23792,LMFA08020003,"N-acyl amines
+"
+23795,CHEBI:28111,"alpha-CH2-containing aldehyde
+phenylacetaldehydes
+"
+23915,CPD-12609,"an isoflavone
+"
+23921,CHEBI:17537,"L-tyrosine derivative
+dipeptide
+"
+23935,CHEBI:9464,"sterol ester
+enanthate ester
+"
+23935,C08157,"C19 steroids (androgens) and derivatives
+"
+23935,LMST02020075,"C19 steroids (androgens) and derivatives
+"
+23939,LMST02020095,"C19 steroids (androgens) and derivatives
+"
+23943,LMFA03110003,"Isoprostanes
+"
+23945,CHEBI:19702,"methylguanosine
+"
+23952,CHEBI:70989,"acetamides
+cytidines
+"
+23955,LMST02020103,"C19 steroids (androgens) and derivatives
+"
+23957,LMST05030014,"Glycine conjugates
+"
+23958,CHEBI:28969,"tryptamine alkaloid
+tryptamines
+"
+23958,C08302,"Indole alkaloids
+"
+23959,CHEBI:34306,"hydroxy monocarboxylic acid
+HETE
+"
+23959,C14748,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+23959,LMFA03060009,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+23975,LMST02020107,"C19 steroids (androgens) and derivatives
+"
+23977,CHEBI:70867,"methylguanosine
+"
+23983,LMST02020017,"C19 steroids (androgens) and derivatives
+"
+23993,CHEBI:70824,"phenols
+N-acylglycine
+"
+23995,CHEBI:42989,"7beta-hydroxy steroid
+oxysterol
+"
+23995,LMST01010047,"Cholesterol and derivatives
+"
+23998,LMST05010041,"Glucuronides
+"
+24001,CHEBI:29002,"propane-1,2-diol
+"
+24003,CHEBI:16302,"retinol
+"
+24003,C00899,"Retinoids
+"
+24003,LMPR01090005,"Retinoids
+"
+24006,CHEBI:6067,"retinoic acid
+"
+24006,LMPR01090021,"Retinoids
+"
+24007,CHEBI:45487,"retinal
+"
+24007,LMPR01090018,"Retinoids
+"
+24008,LMST03010040,"Vitamin D2 and derivatives
+"
+24010,LMST03010051,"Vitamin D2 and derivatives
+"
+24012,CHEBI:30164,"myo-inositol pentakisphosphate
+"
+24018,DIHYDROXYPHENYLGLYCOLALDEHYDE,"a small molecule
+"
+24020,LMFA03060093,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+24023,CHEBI:50619,"gamma-glutamylalanine
+"
+24024,CHEBI:64136,"phenols
+monohydroxybenzoic acid
+"
+24025,C16677,"Retinoids
+"
+24027,CHEBI:34477,"3-oxo steroid
+17beta-hydroxy steroid
+6beta-hydroxy steroid
+androstanoid
+"
+24027,LMST02020054,"C19 steroids (androgens) and derivatives
+"
+24031,CHEBI:75108,"omega-6 fatty acid
+octadecadienoic acid
+"
+24031,LMFA01030123,"Unsaturated fatty acids
+"
+24032,CHEBI:18252,"3beta-sterol
+"
+24032,C05437,"Cholesterol and derivatives
+"
+24032,LMST01010066,"Cholesterol and derivatives
+"
+24033,CHEBI:49268,"delta-amino acid
+2-oxo monocarboxylic acid
+"
+24033,C01110,"Oxo fatty acids
+"
+24033,LMFA01060169,"Oxo fatty acids
+"
+24034,CHEBI:28413,"1-(phosphoribosyl)imidazole
+aminoimidazole
+imidazole-4-carboxylic acid
+"
+24035,CHEBI:37946,"aryl sulfate
+"
+24038,CHEBI:18431,"triol
+7alpha-hydroxy steroid
+26-hydroxy steroid
+oxysterol
+"
+24038,C06341,"Cholesterol and derivatives
+"
+24038,LMST04030081,"C27 bile acids, alcohols, and derivatives
+"
+24039,LMST01010211,"Cholesterol and derivatives
+"
+24040,C16678,"Retinoids
+"
+24040,LMPR01090026,"Retinoids
+"
+24045,CHEBI:55329,"omega-hydroxy fatty acid anion
+"
+24045,16-HYDROXYPALMITATE,"a &omega;-hydroxy fatty acid
+"
+24055,CHEBI:35374,"mannose phosphate
+"
+24056,CHEBI:16508,"muconic acid
+"
+24056,LMFA01170077,"Dicarboxylic acids
+"
+24067,CHEBI:16717,"tricarboxylic acid
+"
+24076,CHEBI:63799,"ureas
+benzyl alcohols
+sulfonamide
+"
+24078,CHEBI:40673,"L-alpha-amino acid
+2-amino-3-oxobutanoic acid
+"
+24078,C03508,"Oxo fatty acids
+"
+24078,LMFA01060172,"Oxo fatty acids
+"
+24080,CHEBI:16878,"glutamic acid derivative
+"
+24081,CHEBI:17167,"lactaldehyde
+"
+24082,CHEBI:64868,"saturated fatty acyl-CoA(4-)
+"
+24088,CHEBI:27491,"leukotriene
+"
+24088,C06462,"Leukotrienes
+"
+24088,LMFA03020009,"Leukotrienes
+"
+24095,CHEBI:52897,"quaternary ammonium ion
+phosphocholines
+phosphosphingolipid
+"
+24095,C03640,"Lysosphingomyelins and lysoglycosphingolipids
+"
+24098,CHEBI:15634,"dihydrofolic acids
+"
+24101,CHEBI:16319,"glutamic semialdehyde
+"
+24102,CHEBI:35422,"aryl sulfate
+"
+24104,CHEBI:74397,"long-chain fatty acyl-CoA
+"
+24108,CHEBI:15537,"acyl-CoA
+"
+24121,LMFA07050007,"Fatty acyl CoAs
+"
+24130,CHEBI:34665,"isoquinolines
+carboxamidine
+"
+24132,CHEBI:28806,"purine 2'-deoxyribonucleoside 5'-monophosphate
+deoxyinosine phosphate
+"
+24191,CHEBI:74767,"dipeptide
+"
+24199,CHEBI:46372,"ubiquinones
+"
+24199,C00399,"Ubiquinones
+"
+24204,LMST01020004,"Steryl esters
+"
+24205,CHEBI:82751,"organic molecular entity
+"
+24205,LMST01020014,"Steryl esters
+"
+24225,CHEBI:18093,"4,5-dihydrocortisone
+"
+24225,C05469,"C21 steroids (gluco/mineralocorticoids, progestogens) and derivatives
+"
+24225,LMST02030095,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+24228,CHEBI:27832,"17alpha-hydroxy steroid
+3beta-hydroxy steroid
+21-hydroxy steroid
+"
+24228,LMST02030141,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+24232,C05504,"C18 steroids (estrogens) and derivatives
+Glucuronides
+"
+24232,LMST05010008,"Glucuronides
+"
+24235,C05293,"C19 steroids (androgens) and derivatives
+"
+24235,LMST02020069,"C19 steroids (androgens) and derivatives
+"
+24236,CHEBI:27768,"3-oxo steroid
+7alpha-hydroxy steroid
+17-oxo steroid
+androstanoid
+"
+24236,C05296,"C19 steroids (androgens) and derivatives
+"
+24236,LMST02020071,"C19 steroids (androgens) and derivatives
+"
+24240,CHEBI:27406,"quinone
+indoledione
+"
+24240,CPD-12373,"an alkaloid
+"
+24246,CHEBI:27791,"uridine 5'-phosphate
+pyrimidine ribonucleoside 5'-tetraphosphate
+"
+24249,CHEBI:12350,"D-fructofuranose 2-phosphate
+"
+24250,CHEBI:27951,"2-oxo monocarboxylic acid
+3-hydroxy monocarboxylic acid
+carboxyalkyl phosphate
+oxoalkyl phosphate
+hydroxyalkyl phosphate
+"
+24251,CHEBI:18336,"threonine derivative
+O-phosphoamino acid
+"
+24253,CHEBI:33199,"terminal acetylenic compound
+monounsaturated fatty acid
+acetylenic fatty acid
+short-chain fatty acid
+"
+24257,CHEBI:27748,"pyridine nucleoside
+"
+24259,CHEBI:31116,"monohydroxybenzoic acid
+"
+24259,LMPR02010045,"Ubiquinones
+"
+24260,CHEBI:1109,"phenols
+"
+24260,LMPR02010042,"Ubiquinones
+"
+24264,CHEBI:929,"aminopyrimidine
+pyrimidone
+N-glycosyl compound
+ribose triphosphate
+"
+24270,CHEBI:16244,"amino-acid betaine
+"
+24270,GAMMA-BUTYROBETAINE,"an N-substituted amino acid
+"
+24273,CHEBI:18416,"cysteine derivative
+"
+24274,CHEBI:9493,"pentacyclic triterpenoid
+"
+24274,C06083,"Arborinane and stictane triterpenoids
+Hopanes
+"
+24274,LMPR0106210001,"Arborinane and stictane triterpenoids
+"
+24277,CHEBI:16608,"3beta-sterol
+"
+24277,LMST01010096,"Cholesterol and derivatives
+"
+24279,CHEBI:50586,"3beta-sterol
+"
+24279,C15777,"Ergosterols and C24-methyl derivatives
+"
+24281,C15783,"Stigmasterols and C24-ethyl derivatives
+"
+24283,CHEBI:18409,"2-acetyllactic acid
+"
+24288,CPD-941,"a small molecule
+"
+24303,CHEBI:28047,"3alpha-hydroxy steroid
+7alpha-hydroxy steroid
+"
+24303,C05452,"C27 bile acids, alcohols, and derivatives
+"
+24303,LMST04030109,"C27 bile acids, alcohols, and derivatives
+"
+24455,LMGL02010009,"Diacylglycerols
+"
+24459,CHEBI:75466,"1,2-diacyl-sn-glycerol
+1-palmitoyl-2-oleoylglycerol
+"
+24459,C13861,"Diacylglycerols
+"
+24459,LMGL02010006,"Diacylglycerols
+"
+24517,CHEBI:75468,"1,2-diacyl-sn-glycerol
+1-stearoyl-2-oleoylglycerol
+"
+24517,LMGL02010043,"Diacylglycerols
+"
+24518,CHEBI:77097,"1,2-diacyl-sn-glycerol
+"
+24518,LMGL02010050,"Diacylglycerols
+"
+24536,CHEBI:77129,"1,2-diacyl-sn-glycerol
+"
+24536,LMGL02010216,"Diacylglycerols
+"
+25207,CHEBI:78270,"2-acyl-sn-glycero-3-phosphate
+"
+25207,LMGP10050014,"Monoacylglycerophosphates
+"
+25208,CHEBI:74330,"2-acyl-sn-glycero-3-phosphate
+"
+25209,CHEBI:15799,"1-acyl-sn-glycerol 3-phosphate
+1-palmitoylglycerol 3-phosphate
+"
+25209,LMGP10050006,"Monoacylglycerophosphates
+"
+25210,CHEBI:74850,"1-acyl-sn-glycerol 3-phosphate
+"
+25210,LMGP10050005,"Monoacylglycerophosphates
+"
+25211,CHEBI:62837,"1-acyl-sn-glycerol 3-phosphate
+"
+25211,LMGP10050008,"Monoacylglycerophosphates
+"
+25212,CHEBI:62834,"1-acyl-sn-glycerol 3-phosphate
+"
+25212,LMGP10050017,"Monoacylglycerophosphates
+"
+25213,LMGP10010007,"Diacylglycerophosphates
+"
+25214,CHEBI:64844,"1,2-diacyl-sn-glycerol 3-phosphate
+"
+25214,LMGP10010032,"Diacylglycerophosphates
+"
+25215,CHEBI:73259,"1,2-diacyl-sn-glycerol 3-phosphate
+"
+25215,LMGP10010023,"Diacylglycerophosphates
+"
+25216,CHEBI:77248,"1-acyl-2-linoleoyl-sn-glycero-3-phosphate
+"
+25216,LMGP10010036,"Diacylglycerophosphates
+"
+25219,CHEBI:75357,"1,2-diacyl-sn-glycerol 3-phosphate
+"
+25220,LMGP10010962,"Diacylglycerophosphates
+"
+25221,CHEBI:45240,"1,2-diacyl-sn-glycero-3-phosphocholine(1+)
+"
+25221,LMGP01010477,"Diacylglycerophosphocholines
+"
+25222,LMGP01011364,"Diacylglycerophosphocholines
+"
+25223,LMGP01010479,"Diacylglycerophosphocholines
+"
+25224,CHEBI:75062,"phosphatidylcholine 30:0
+"
+25224,LMGP01010481,"Diacylglycerophosphocholines
+"
+25225,LMGP01010485,"Diacylglycerophosphocholines
+"
+25226,LMGP01010488,"Diacylglycerophosphocholines
+"
+25227,CHEBI:73793,"phosphatidylcholine 32:1
+"
+25227,LMGP01010490,"Diacylglycerophosphocholines
+"
+25228,LMGP01010492,"Diacylglycerophosphocholines
+"
+25230,LMGP01011369,"Diacylglycerophosphocholines
+"
+25231,LMGP01010497,"Diacylglycerophosphocholines
+"
+25232,LMGP01010499,"Diacylglycerophosphocholines
+"
+25233,LMGP01010505,"Diacylglycerophosphocholines
+"
+25234,LMGP01011372,"Diacylglycerophosphocholines
+"
+25235,LMGP01011373,"Diacylglycerophosphocholines
+"
+25236,LMGP01012127,"Diacylglycerophosphocholines
+"
+25237,LMGP01011374,"Diacylglycerophosphocholines
+"
+25238,LMGP01010506,"Diacylglycerophosphocholines
+"
+25239,LMGP01012128,"Diacylglycerophosphocholines
+"
+25240,LMGP01010508,"Diacylglycerophosphocholines
+"
+25241,LMGP01010511,"Diacylglycerophosphocholines
+"
+25242,LMGP01012129,"Diacylglycerophosphocholines
+"
+25243,LMGP01011377,"Diacylglycerophosphocholines
+"
+25245,LMGP01012130,"Diacylglycerophosphocholines
+"
+25247,LMGP01010512,"Diacylglycerophosphocholines
+"
+25248,LMGP01010515,"Diacylglycerophosphocholines
+"
+25249,LMGP01010516,"Diacylglycerophosphocholines
+"
+25254,LMGP01011381,"Diacylglycerophosphocholines
+"
+25255,LMGP01010523,"Diacylglycerophosphocholines
+"
+25256,LMGP01011382,"Diacylglycerophosphocholines
+"
+25257,LMGP01011384,"Diacylglycerophosphocholines
+"
+25258,LMGP01011385,"Diacylglycerophosphocholines
+"
+25259,LMGP01011389,"Diacylglycerophosphocholines
+"
+25261,LMGP01011390,"Diacylglycerophosphocholines
+"
+25262,LMGP01011391,"Diacylglycerophosphocholines
+"
+25264,LMGP01011393,"Diacylglycerophosphocholines
+"
+25266,LMGP01011397,"Diacylglycerophosphocholines
+"
+25267,LMGP01011398,"Diacylglycerophosphocholines
+"
+25268,LMGP01011399,"Diacylglycerophosphocholines
+"
+25269,LMGP01012132,"Diacylglycerophosphocholines
+"
+25270,LMGP01011400,"Diacylglycerophosphocholines
+"
+25271,LMGP01011401,"Diacylglycerophosphocholines
+"
+25273,LMGP01011402,"Diacylglycerophosphocholines
+"
+25274,LMGP01011404,"Diacylglycerophosphocholines
+"
+25275,LMGP01012133,"Diacylglycerophosphocholines
+"
+25276,LMGP01011406,"Diacylglycerophosphocholines
+"
+25277,LMGP01011407,"Diacylglycerophosphocholines
+"
+25279,LMGP01012135,"Diacylglycerophosphocholines
+"
+25287,LMGP01011410,"Diacylglycerophosphocholines
+"
+25288,LMGP01011411,"Diacylglycerophosphocholines
+"
+25289,LMGP01010530,"Diacylglycerophosphocholines
+"
+25290,LMGP01010532,"Diacylglycerophosphocholines
+"
+25291,LMGP01010535,"Diacylglycerophosphocholines
+"
+25292,LMGP01010539,"Diacylglycerophosphocholines
+"
+25293,LMGP01010541,"Diacylglycerophosphocholines
+"
+25294,LMGP01011415,"Diacylglycerophosphocholines
+"
+25295,LMGP01010543,"Diacylglycerophosphocholines
+"
+25296,LMGP01011416,"Diacylglycerophosphocholines
+"
+25297,LMGP01011417,"Diacylglycerophosphocholines
+"
+25298,LMGP01011418,"Diacylglycerophosphocholines
+"
+25299,LMGP01011420,"Diacylglycerophosphocholines
+"
+25300,LMGP01011421,"Diacylglycerophosphocholines
+"
+25301,LMGP01011422,"Diacylglycerophosphocholines
+"
+25308,LMGP01011426,"Diacylglycerophosphocholines
+"
+25309,LMGP01011428,"Diacylglycerophosphocholines
+"
+25310,LMGP01011429,"Diacylglycerophosphocholines
+"
+25320,CHEBI:75304,"phosphatidylcholine 30:0
+"
+25320,LMGP01010560,"Diacylglycerophosphocholines
+"
+25321,LMGP01011463,"Diacylglycerophosphocholines
+"
+25322,LMGP01010562,"Diacylglycerophosphocholines
+"
+25323,CHEBI:74000,"phosphatidylcholine 32:1
+"
+25323,LMGP01010566,"Diacylglycerophosphocholines
+"
+25324,CHEBI:73000,"phosphatidylcholine 34:0
+"
+25324,LMGP01010573,"Diacylglycerophosphocholines
+"
+25325,LMGP01010576,"Diacylglycerophosphocholines
+"
+25326,CHEBI:73001,"phosphatidylcholine 34:1
+"
+25326,LMGP01010005,"Diacylglycerophosphocholines
+"
+25327,CHEBI:73002,"phosphatidylcholine 34:2
+"
+25327,LMGP01010594,"Diacylglycerophosphocholines
+"
+25328,LMGP01010598,"Diacylglycerophosphocholines
+"
+25329,LMGP01010601,"Diacylglycerophosphocholines
+"
+25330,LMGP01010603,"Diacylglycerophosphocholines
+"
+25331,LMGP01010616,"Diacylglycerophosphocholines
+"
+25332,LMGP01011468,"Diacylglycerophosphocholines
+"
+25333,LMGP01011469,"Diacylglycerophosphocholines
+"
+25334,LMGP01010622,"Diacylglycerophosphocholines
+"
+25335,LMGP01010627,"Diacylglycerophosphocholines
+"
+25339,LMGP01010636,"Diacylglycerophosphocholines
+"
+25340,LMGP01010638,"Diacylglycerophosphocholines
+"
+25341,LMGP01011472,"Diacylglycerophosphocholines
+"
+25342,LMGP01010642,"Diacylglycerophosphocholines
+"
+25344,LMGP01010647,"Diacylglycerophosphocholines
+"
+25346,LMGP01010657,"Diacylglycerophosphocholines
+"
+25347,LMGP01010659,"Diacylglycerophosphocholines
+"
+25352,LMGP01011475,"Diacylglycerophosphocholines
+"
+25353,LMGP01011476,"Diacylglycerophosphocholines
+"
+25354,LMGP01011477,"Diacylglycerophosphocholines
+"
+25355,LMGP01011479,"Diacylglycerophosphocholines
+"
+25356,LMGP01010684,"Diacylglycerophosphocholines
+"
+25357,LMGP01011483,"Diacylglycerophosphocholines
+"
+25358,LMGP01010687,"Diacylglycerophosphocholines
+"
+25359,LMGP01010688,"Diacylglycerophosphocholines
+"
+25360,LMGP01010690,"Diacylglycerophosphocholines
+"
+25361,LMGP01011484,"Diacylglycerophosphocholines
+"
+25362,LMGP01011485,"Diacylglycerophosphocholines
+"
+25363,LMGP01010692,"Diacylglycerophosphocholines
+"
+25364,LMGP01011488,"Diacylglycerophosphocholines
+"
+25365,LMGP01011489,"Diacylglycerophosphocholines
+"
+25366,LMGP01011490,"Diacylglycerophosphocholines
+"
+25367,LMGP01012138,"Diacylglycerophosphocholines
+"
+25368,LMGP01011491,"Diacylglycerophosphocholines
+"
+25369,LMGP01010695,"Diacylglycerophosphocholines
+"
+25370,LMGP01012139,"Diacylglycerophosphocholines
+"
+25371,LMGP01011492,"Diacylglycerophosphocholines
+"
+25372,LMGP01011494,"Diacylglycerophosphocholines
+"
+25374,CHEBI:74479,"phosphatidylcholine 38:3
+"
+25374,LMGP01011496,"Diacylglycerophosphocholines
+"
+25375,LMGP01011497,"Diacylglycerophosphocholines
+"
+25378,LMGP01012141,"Diacylglycerophosphocholines
+"
+25380,LMGP01012142,"Diacylglycerophosphocholines
+"
+25385,LMGP01010739,"Diacylglycerophosphocholines
+"
+25386,LMGP01011582,"Diacylglycerophosphocholines
+"
+25387,LMGP01011583,"Diacylglycerophosphocholines
+"
+25388,CHEBI:75026,"phosphatidylcholine 34:0
+"
+25388,LMGP01010742,"Diacylglycerophosphocholines
+"
+25389,LMGP01010744,"Diacylglycerophosphocholines
+"
+25390,LMGP01010006,"Diacylglycerophosphocholines
+"
+25391,LMGP01010750,"Diacylglycerophosphocholines
+"
+25392,CHEBI:75034,"phosphatidylcholine 36:1
+"
+25392,LMGP01010761,"Diacylglycerophosphocholines
+"
+25393,CHEBI:77708,"1,2-diacyl-sn-glycero-3-phosphocholine
+"
+25393,LMGP01010768,"Diacylglycerophosphocholines
+"
+25394,LMGP01011588,"Diacylglycerophosphocholines
+"
+25395,CHEBI:78022,"1,2-diacyl-sn-glycero-3-phosphocholine
+"
+25395,LMGP01011589,"Diacylglycerophosphocholines
+"
+25396,LMGP01010773,"Diacylglycerophosphocholines
+"
+25397,LMGP01010781,"Diacylglycerophosphocholines
+"
+25398,LMGP01010783,"Diacylglycerophosphocholines
+"
+25399,LMGP01010788,"Diacylglycerophosphocholines
+"
+25400,LMGP01010796,"Diacylglycerophosphocholines
+"
+25401,LMGP01010799,"Diacylglycerophosphocholines
+"
+25402,CHEBI:74965,"1,2-diacyl-sn-glycero-3-phosphocholine
+phosphatidylcholine 38:4
+"
+25402,LMGP01010802,"Diacylglycerophosphocholines
+"
+25403,LMGP01012144,"Diacylglycerophosphocholines
+"
+25404,LMGP01010805,"Diacylglycerophosphocholines
+"
+25405,LMGP01010809,"Diacylglycerophosphocholines
+"
+25406,LMGP01010811,"Diacylglycerophosphocholines
+"
+25407,LMGP01011594,"Diacylglycerophosphocholines
+"
+25408,LMGP01010813,"Diacylglycerophosphocholines
+"
+25409,CHEBI:73865,"phosphatidylcholine 40:5
+"
+25409,LMGP01010816,"Diacylglycerophosphocholines
+"
+25410,LMGP01010818,"Diacylglycerophosphocholines
+"
+25411,LMGP01010821,"Diacylglycerophosphocholines
+"
+25412,LMGP01010825,"Diacylglycerophosphocholines
+"
+25413,LMGP01010826,"Diacylglycerophosphocholines
+"
+25418,LMGP01012145,"Diacylglycerophosphocholines
+"
+25421,LMGP01012146,"Diacylglycerophosphocholines
+"
+25422,LMGP01012147,"Diacylglycerophosphocholines
+"
+25423,LMGP01010840,"Diacylglycerophosphocholines
+"
+25424,LMGP01010841,"Diacylglycerophosphocholines
+"
+25425,LMGP01012148,"Diacylglycerophosphocholines
+"
+25426,LMGP01012149,"Diacylglycerophosphocholines
+"
+25427,LMGP01012150,"Diacylglycerophosphocholines
+"
+25428,LMGP01012151,"Diacylglycerophosphocholines
+"
+25429,LMGP01012152,"Diacylglycerophosphocholines
+"
+25432,LMGP01012153,"Diacylglycerophosphocholines
+"
+25433,LMGP01012154,"Diacylglycerophosphocholines
+"
+25434,LMGP01012155,"Diacylglycerophosphocholines
+"
+25435,LMGP01012156,"Diacylglycerophosphocholines
+"
+25436,LMGP01012157,"Diacylglycerophosphocholines
+"
+25437,LMGP01010844,"Diacylglycerophosphocholines
+"
+25438,LMGP01010845,"Diacylglycerophosphocholines
+"
+25439,LMGP01012158,"Diacylglycerophosphocholines
+"
+25440,LMGP01012159,"Diacylglycerophosphocholines
+"
+25441,LMGP01012160,"Diacylglycerophosphocholines
+"
+25443,CHEBI:73868,"phosphatidylcholine 40:6
+"
+25443,LMGP01010846,"Diacylglycerophosphocholines
+"
+25445,LMGP01012161,"Diacylglycerophosphocholines
+"
+25446,LMGP01012162,"Diacylglycerophosphocholines
+"
+25451,LMGP01010882,"Diacylglycerophosphocholines
+"
+25452,LMGP01011597,"Diacylglycerophosphocholines
+"
+25453,LMGP01011598,"Diacylglycerophosphocholines
+"
+25454,CHEBI:74667,"phosphatidylcholine 34:1
+"
+25454,LMGP01010884,"Diacylglycerophosphocholines
+"
+25455,LMGP01010887,"Diacylglycerophosphocholines
+"
+25456,CHEBI:76073,"phosphatidylcholine 36:1
+"
+25456,LMGP01010888,"Diacylglycerophosphocholines
+"
+25457,LMGP01012163,"Diacylglycerophosphocholines
+"
+25458,CHEBI:74670,"1,2-diacyl-sn-glycero-3-phosphocholine
+"
+25458,LMGP01010895,"Diacylglycerophosphocholines
+"
+25459,LMGP01011603,"Diacylglycerophosphocholines
+"
+25460,LMGP01010898,"Diacylglycerophosphocholines
+"
+25461,LMGP01011604,"Diacylglycerophosphocholines
+"
+25462,LMGP01010902,"Diacylglycerophosphocholines
+"
+25463,LMGP01011607,"Diacylglycerophosphocholines
+"
+25464,LMGP01011608,"Diacylglycerophosphocholines
+"
+25465,LMGP01010904,"Diacylglycerophosphocholines
+"
+25466,LMGP01011609,"Diacylglycerophosphocholines
+"
+25467,CHEBI:74671,"phosphatidylcholine 38:5
+"
+25467,LMGP01010905,"Diacylglycerophosphocholines
+"
+25468,LMGP01012165,"Diacylglycerophosphocholines
+"
+25469,LMGP01010907,"Diacylglycerophosphocholines
+"
+25470,LMGP01010909,"Diacylglycerophosphocholines
+"
+25471,LMGP01012166,"Diacylglycerophosphocholines
+"
+25472,LMGP01011612,"Diacylglycerophosphocholines
+"
+25473,LMGP01011613,"Diacylglycerophosphocholines
+"
+25477,LMGP01010915,"Diacylglycerophosphocholines
+"
+25478,LMGP01012167,"Diacylglycerophosphocholines
+"
+25484,LMGP01011617,"Diacylglycerophosphocholines
+"
+25485,LMGP01011618,"Diacylglycerophosphocholines
+"
+25486,LMGP01010932,"Diacylglycerophosphocholines
+"
+25487,LMGP01011620,"Diacylglycerophosphocholines
+"
+25488,LMGP01010935,"Diacylglycerophosphocholines
+"
+25489,LMGP01012168,"Diacylglycerophosphocholines
+"
+25490,LMGP01011624,"Diacylglycerophosphocholines
+"
+25491,LMGP01010937,"Diacylglycerophosphocholines
+"
+25492,LMGP01012170,"Diacylglycerophosphocholines
+"
+25493,LMGP01011625,"Diacylglycerophosphocholines
+"
+25494,LMGP01011626,"Diacylglycerophosphocholines
+"
+25495,LMGP01011627,"Diacylglycerophosphocholines
+"
+25496,LMGP01011630,"Diacylglycerophosphocholines
+"
+25497,LMGP01011631,"Diacylglycerophosphocholines
+"
+25498,LMGP01011632,"Diacylglycerophosphocholines
+"
+25499,LMGP01011633,"Diacylglycerophosphocholines
+"
+25502,LMGP01011634,"Diacylglycerophosphocholines
+"
+25503,LMGP01011636,"Diacylglycerophosphocholines
+"
+25504,LMGP01012172,"Diacylglycerophosphocholines
+"
+25505,LMGP01011638,"Diacylglycerophosphocholines
+"
+25506,LMGP01011639,"Diacylglycerophosphocholines
+"
+25510,LMGP01012173,"Diacylglycerophosphocholines
+"
+25516,LMGP01011642,"Diacylglycerophosphocholines
+"
+25518,LMGP01011644,"Diacylglycerophosphocholines
+"
+25519,LMGP01011646,"Diacylglycerophosphocholines
+"
+25520,LMGP01011647,"Diacylglycerophosphocholines
+"
+25521,LMGP01011651,"Diacylglycerophosphocholines
+"
+25522,LMGP01012174,"Diacylglycerophosphocholines
+"
+25523,LMGP01011652,"Diacylglycerophosphocholines
+"
+25525,LMGP01011654,"Diacylglycerophosphocholines
+"
+25527,LMGP01011656,"Diacylglycerophosphocholines
+"
+25528,LMGP01011659,"Diacylglycerophosphocholines
+"
+25529,LMGP01011660,"Diacylglycerophosphocholines
+"
+25530,LMGP01011661,"Diacylglycerophosphocholines
+"
+25532,LMGP01011662,"Diacylglycerophosphocholines
+"
+25536,LMGP01011666,"Diacylglycerophosphocholines
+"
+25537,LMGP01012176,"Diacylglycerophosphocholines
+"
+25538,LMGP01011668,"Diacylglycerophosphocholines
+"
+25539,LMGP01011669,"Diacylglycerophosphocholines
+"
+25544,LMGP01012177,"Diacylglycerophosphocholines
+"
+25549,LMGP01011673,"Diacylglycerophosphocholines
+"
+25550,LMGP01011674,"Diacylglycerophosphocholines
+"
+25551,LMGP01011675,"Diacylglycerophosphocholines
+"
+25552,LMGP01011677,"Diacylglycerophosphocholines
+"
+25553,LMGP01011678,"Diacylglycerophosphocholines
+"
+25554,LMGP01011682,"Diacylglycerophosphocholines
+"
+25555,LMGP01012178,"Diacylglycerophosphocholines
+"
+25556,LMGP01010955,"Diacylglycerophosphocholines
+"
+25557,LMGP01011683,"Diacylglycerophosphocholines
+"
+25558,LMGP01011684,"Diacylglycerophosphocholines
+"
+25559,LMGP01010956,"Diacylglycerophosphocholines
+"
+25618,CHEBI:75294,"phosphatidylcholine 36:0
+"
+25618,LMGP01011002,"Diacylglycerophosphocholines
+"
+25650,LMGP01011809,"Diacylglycerophosphocholines
+"
+26169,LMGP01011163,"Diacylglycerophosphocholines
+"
+26174,LMGP02010352,"Diacylglycerophosphoethanolamines
+"
+26252,LMGP02010463,"Diacylglycerophosphoethanolamines
+"
+26276,CHEBI:73127,"1,2-diacyl-sn-glycero-3-phosphoethanolamine
+"
+26276,LMGP02010037,"Diacylglycerophosphoethanolamines
+"
+26278,CHEBI:73126,"1,2-diacyl-sn-glycero-3-phosphoethanolamine
+"
+26278,LMGP02011225,"Diacylglycerophosphoethanolamines
+"
+26412,CHEBI:74986,"phosphatidylethanolamine 36:2
+"
+26412,LMGP02010052,"Diacylglycerophosphoethanolamines
+"
+27517,CHEBI:27595,"prostaglandins F
+"
+27517,C05959,"Prostaglandins
+"
+27517,LMFA03010036,"Prostaglandins
+"
+27528,CHEBI:15559,"oxoicosatetraenoic acid
+"
+27528,C04577,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+27528,LMFA03060051,"Hydroxy/hydroperoxyeicosatetraenoic acids
+"
+27628,CHEBI:73961,"benzoic acids
+beta-D-glucosiduronic acid
+"
+27631,CHEBI:32636,"beta-D-glucosiduronic acid
+"
+27662,CHEBI:71003,"carboxylic ester
+beta-D-glucosiduronic acid
+"
+27668,LMST05010033,"Glucuronides
+"
+27679,LMST05010031,"Glucuronides
+"
+27685,LMST01020009,"Steryl esters
+"
+27692,CHEBI:72865,"icosatrienoic acid
+"
+27692,LMFA01030381,"Unsaturated fatty acids
+"
+27696,CHEBI:72998,"lysophosphatidylcholine 16:0
+"
+27696,LMGP01050018,"Monoacylglycerophosphocholines
+"
+27698,CHEBI:73858,"1-O-acyl-sn-glycero-3-phosphocholine(1+)
+lysophosphatidylcholine 18:0
+"
+27698,LMGP01050026,"Monoacylglycerophosphocholines
+"
+27704,CHEBI:74968,"1-O-acyl-sn-glycero-3-phosphocholine
+"
+27704,LMGP01050045,"Monoacylglycerophosphocholines
+"
+27721,CHEBI:73850,"lysophosphatidylcholine P-16:0
+"
+27721,LMGP01070006,"1Z-alkenylglycerophosphocholines
+"
+27880,LMGP02010337,"Diacylglycerophosphoethanolamines
+"
+27915,LMGP04010038,"Diacylglycerophosphoglycerols
+"
+27947,CHEBI:75385,"1,2-diacyl-sn-glycero-3-phospho-(1'-sn-glycerol)
+"
+27947,LMGP04010985,"Diacylglycerophosphoglycerols
+"
+28028,CHEBI:16562,"monocarboxylic acid amide
+"
+28028,CPD-238,"a small molecule
+"
+28033,CHEBI:44680,"3-oxo monocarboxylic acid
+oxo fatty acid
+"
+28033,LMFA01060017,"Oxo fatty acids
+"
+28035,CHEBI:37157,"3-oxo monocarboxylic acid
+oxo fatty acid
+"
+28035,LMFA01060028,"Oxo fatty acids
+"
+28039,CHEBI:37162,"2-dodecenoic acid
+"
+28039,LMFA01030788,"Unsaturated fatty acids
+"
+28042,CHEBI:37271,"2-tetradecenoic acid
+"
+28042,LMFA01030047,"Unsaturated fatty acids
+"
+28044,CHEBI:38247,"3-hydroxypalmitic acid
+"
+28044,LMFA01050366,"Hydroxy fatty acids
+"
+28045,CHEBI:37252,"alpha,beta-unsaturated monocarboxylic acid
+hexadecenoic acid
+"
+28045,LMFA01030054,"Unsaturated fatty acids
+"
+28048,CHEBI:68444,"1-methylxanthine
+"
+28048,C16358,"Purine alkaloids
+"
+28048,CPD-9025,"a small molecule
+"
+28049,CHEBI:68449,"oxopurine
+"
+28049,C16356,"Purine alkaloids
+"
+28049,CPD-12483,"a small molecule
+"
+28051,CHEBI:32643,"formamidopyrimidine
+"
+28055,CHEBI:16503,"selenium hydride
+mononuclear parent hydride
+"
+28055,CPD-678,"a small molecule
+"
+28056,CHEBI:17960,"aldehydic acid
+"
+28064,CHEBI:18212,"selenium oxoanion
+"
+28070,CHEBI:76076,"lysophosphatidylcholine 18:0
+"
+28070,LMGP01050076,"Monoacylglycerophosphocholines
+"
+28073,CHEBI:75550,"1-acyl-sn-glycerol
+1-monostearoylglycerol
+"
+28080,CHEBI:78163,"1-alkylglycerone 3-phosphate
+"
+28088,CHEBI:50038,"L-lysine derivative
+"
+28116,CHEBI:16074,"3-oxo steroid
+"
+28116,LMST01010205,"Cholesterol and derivatives
+"
+28117,CHEBI:37525,"threonine derivative
+O-phosphoamino acid
+"
+28245,LMGP02030019,"1-(1Z-alkenyl),2-acylglycerophosphoethanolamines
+"
+28413,CHEBI:75456,"2-monoglyceride
+"
+28415,CHEBI:75457,"2-monoglyceride
+"
+28444,CHEBI:75561,"1-acyl-sn-glycerol
+1-monolinolein
+"
+28473,CHEBI:18083,"methyladenine
+"
+28473,1-METHYLADENINE,"a small molecule
+"
+28474,CHEBI:38635,"methyladenine
+"
+28474,3-Methyl-Adenines,"a purine base
+"
+28475,CHEBI:39992,"aminopyrimidine
+pyrimidone
+"
+28479,CHEBI:16495,"3-oxo Delta(7)-steroid
+"
+28479,C04453,"Cholesterol and derivatives
+"
+28479,LMST01010208,"Cholesterol and derivatives
+"
+28482,CHEBI:28921,"methyladenine
+"
+28482,CPD-13320,"a purine base
+"
+28486,C15492,"Retinoids
+"
+28487,CHEBI:29866,"arsenite ion
+"
+28488,CHEBI:68616,"N-acylglycine
+"
+28490,CHEBI:16223,"arsenic oxoanion
+"
+28490,DIMETHYLARSINATE,"a small molecule
+"
+28491,CHEBI:62197,"S-farnesyl-L-cysteine
+"
+28492,CHEBI:28181,"2',3'-cyclic purine nucleotide
+"
+28492,C06194,"2',3'-Cyclic nucleotides
+"
+28493,CHEBI:17380,"3-hydroxykynurenine
+"
+28494,CHEBI:18202,"iditol
+"
+28495,CHEBI:16841,"polyazaalkane
+"
+28507,CHEBI:16418,"17,20-dihydroxypregn-4-en-3-one
+"
+28507,LMST02030183,"C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+"
+28508,CHEBI:16475,"histidine derivative
+"
+28509,CHEBI:17144,"histidine derivative
+"
+28511,CHEBI:28643,"hydroxypyrimidine
+aminopyrimidine
+formamidopyrimidine
+"
+28518,CHEBI:63905,"indoles
+"
+28519,CHEBI:73845,"dipeptide
+"
+28527,CHEBI:15867,"xylonolactone
+"
+28556,LMGL03012906,"Triacylglycerols
+"
+28569,CHEBI:68455,"N-acylglycine
+"
+28570,CHEBI:68555,"phenols
+arenesulfonic acid
+benzoic acids
+"
+28571,CHEBI:40957,"bicine
+"
+28576,CHEBI:17201,"dipeptide
+"
+28577,CHEBI:16241,"D-arabinose 5-phosphate
+"
+28578,CHEBI:73705,"dipeptide
+"
+28579,CHEBI:73707,"dipeptide
+"
+28582,CHEBI:63154,"N-acetyl-D-mannosamine
+"
+28583,CHEBI:15573,"phosphonic acids
+primary amino compound
+"
+28587,CHEBI:24786,"glycine derivative
+amino dicarboxylic acid
+"
+28588,CHEBI:61058,"L-tyrosine derivative
+"
+28589,CHEBI:17786,"N-acetyl-L-amino acid
+L-leucine derivative
+"
+28592,CHEBI:67045,"dihydroceramide
+"
+28592,LMSP02020016,"N-acylsphinganines (dihydroceramides)
+"
+28593,CHEBI:67042,"dihydroceramide
+"
+28593,LMSP02020001,"N-acylsphinganines (dihydroceramides)
+"
+28594,CHEBI:67033,"organic molecular entity
+dihydroceramide
+"
+28594,LMSP02020008,"N-acylsphinganines (dihydroceramides)
+"
+28597,CHEBI:67027,"dihydroceramide
+"
+28597,LMSP02020009,"N-acylsphinganines (dihydroceramides)
+"
+28598,CHEBI:67021,"dihydroceramide
+"
+28598,LMSP02020010,"N-acylsphinganines (dihydroceramides)
+"
+28601,CHEBI:52961,"dihydroceramide
+"
+28601,LMSP02020012,"N-acylsphinganines (dihydroceramides)
+"
+28604,CHEBI:52962,"dihydroceramide
+"
+28604,LMSP02020014,"N-acylsphinganines (dihydroceramides)
+"
+28941,CHEBI:15613,"L-lysine derivative
+beta-amino acid
+diamino acid
+"
+28942,CHEBI:15616,"beta-amino acid
+diamino acid
+"
+28955,CHEBI:42724,"amphetamine
+"
+28958,CHEBI:27713,"3-oxo monocarboxylic acid
+delta-amino acid
+"
+28958,C03656,"Oxo fatty acids
+"
+28958,LMFA01060173,"Oxo fatty acids
+"
+28959,CHEBI:49252,"aliphatic sulfide
+enone
+"
+28960,CHEBI:51824,"primary aliphatic amine
+secondary aliphatic amine
+alpha-CH2-containing aldehyde
+"
+28969,CHEBI:1467,"oxo dicarboxylic acid
+"
+28970,CHEBI:28376,"acetamides
+2-oxo monocarboxylic acid
+"
+28971,CHEBI:17534,"epsilon-amino acid
+2-oxo monocarboxylic acid
+"
+28974,CHEBI:57885,"ammonium betaine
+"
+28974,3-DE-H-CARNITINE,"a small molecule
+"
+28976,CHEBI:43468,"3-isopropylmalic acid
+"
+28980,CHEBI:49260,"amino dicarboxylic acid
+"
+28992,CHEBI:2024,"acetamides
+"
+28994,CHEBI:17614,"tetrahydropteroyltri-L-glutamate
+"
+29002,C04216,"Polyterpenoids
+"
+29003,C01230,"Polyterpenoids
+"
+29004,CHEBI:64860,"triamine
+polyazaalkane
+"
+29005,CHEBI:18231,"arsenic oxoacid
+"
+29009,CHEBI:17333,"5-[(1-carboxyethenyl)oxy]-6-hydroxycyclohexa-1,3-diene-1-carboxylic acid
+"
+29013,CHEBI:16522,"zeatin
+"
+29016,CHEBI:17805,"imidazoles
+sn-glycerol 3-phosphates
+"
+29017,CHEBI:27708,"dialkyl phosphate
+"
+29023,CHEBI:23808,"methylarsinous acid
+"
+29023,DIMETHYLARSINOUS-ACID,"a small molecule
+"
+29026,CHEBI:74684,"primary amine
+benzoquinones
+"
+29033,CHEBI:4798,"catechols
+monocarboxylic acid amide
+nitrile
+"
+29035,CHEBI:42383,"monoalkyl phosphate
+"
+29036,CHEBI:48005,"gamma-glutamylputrescine
+"
+29037,C04217,"Acyclic sesterterpenoids
+Polyterpenoids
+"
+29039,CHEBI:39153,"aldehydic acid
+omega-oxo fatty acid
+oxopentanoic acid
+"
+29039,LMFA01060161,"Oxo fatty acids
+"
+29042,CHEBI:16426,"imidazoles
+oxoalkyl phosphate
+"
+29044,CHEBI:16382,"halide anion
+monoatomic iodine
+"
+29044,CPD-387,"an anion
+an iodide
+"
+29046,CHEBI:17275,"dicarboxylic acid
+"
+29049,CHEBI:72620,"N-glycosyl compound
+furans
+6-alkylaminopurine
+"
+29050,CHEBI:27407,"furans
+6-aminopurines
+"
+29050,CPD-4609,"a small molecule
+"
+29051,CHEBI:73472,"substituted aniline
+primary amino compound
+aromatic ketone
+"
+29054,CHEBI:537519,"amino-acid betaine
+"
+29056,CHEBI:64032,"N-(long-chain-acyl)ethanolamine
+"
+29056,LMFA08040004,"N-acyl ethanolamines (endocannabinoids)
+"
+29060,CHEBI:29852,"one-carbon compound
+organoarsonic acid
+arsonic acids
+"
+29060,C07294,"Arsenical herbicides
+"
+29066,CHEBI:15737,"N-methylglycine
+"
+29076,CHEBI:39949,"phosphorus oxoacid
+acyclic phosphorus acid anhydride
+"
+29077,CHEBI:16666,"oxo dicarboxylic acid
+"
+29082,CHEBI:17420,"tetrahydropteroyltri-L-glutamate
+"
+29083,CHEBI:17434,"sulfonium compound
+"
+29083,TRIMETHYLSULFONIUM,"a cation
+"
+29088,CHEBI:16085,"UDP-D-galacturonic acid
+"
+29094,CHEBI:46958,"aralkylamino compound
+"
+29110,CHEBI:59265,"long-chain fatty acid
+monounsaturated fatty acid
+"
+29110,LMFA01030057,"Unsaturated fatty acids
+"
+29112,LMGP03010028,"Diacylglycerophosphoserines
+"
+29138,CHEBI:34086,"3-sn-phosphatidyl-L-serine
+"
+29138,LMGP03010024,"Diacylglycerophosphoserines
+"
+29166,CHEBI:75106,"3-sn-phosphatidyl-L-serine
+"
+29166,LMGP03010959,"Diacylglycerophosphoserines
+"
+29167,CHEBI:75101,"3-sn-phosphatidyl-L-serine
+"
+29167,LMGP03010881,"Diacylglycerophosphoserines
+"
+29168,CHEBI:75103,"3-sn-phosphatidyl-L-serine
+"
+29168,LMGP03010034,"Diacylglycerophosphoserines
+"
+29169,CHEBI:60568,"3-sn-phosphatidyl-L-serine
+"
+29169,LMGP03010030,"Diacylglycerophosphoserines
+"
+29170,CHEBI:75096,"3-sn-phosphatidyl-L-serine
+"
+29170,LMGP03010958,"Diacylglycerophosphoserines
+"
+29263,CHEBI:62922,"myo-inositol pentakisphosphate
+"
+29278,CHEBI:63977,"12-HHTrE
+"
+29278,LMFA03050002,"Hydroxy/hydroperoxyeicosatrienoic acids
+"
+29331,CHEBI:17947,"4-oxo monocarboxylic acid
+2-hydroxy monocarboxylic acid
+5-hydroxy monocarboxylic acid
+4-hydroxy monocarboxylic acid
+"
+29347,CHEBI:17869,"medium-chain fatty acid
+straight-chain fatty acid
+omega-hydroxy fatty acid
+6-hydroxy monocarboxylic acid
+"
+29347,C06103,"Hydroxy fatty acids
+"
+29347,LMFA01050015,"Hydroxy fatty acids
+"
+29358,CHEBI:30322,"monocarboxylic acid amide
+alpha-CH2-containing aldehyde
+"
+29358,CPD-10687,"an aldehyde
+"
+29372,CHEBI:48007,"imine
+"
+29384,CHEBI:29034,"iron cation
+monoatomic trication
+"
+29384,FE+3,"a cation
+"
+29387,CHEBI:28736,"hydroxykynurenamine
+"
+29406,CHEBI:74433,"N-acylglycine
+"
+29423,LMFA08020079,"N-acyl amines
+"
+29424,CHEBI:27827,"organophosphate insecticide
+aryl dialkyl phosphate
+"
+29424,PARAOXON,"a small molecule
+"
+29444,CHEBI:64557,"sinapyl alcohol
+"
+29444,C02325,"Sinapate derivatives
+"
+29449,LMFA08040051,"N-acyl ethanolamines (endocannabinoids)
+"
+29451,CHEBI:64183,"polyprenylhydroquinone
+ubiquinol
+"
+29471,CPD-12574,"a small molecule
+"
+29473,CHEBI:73959,"methylhypoxanthine
+"
+29489,CHEBI:1784,"aminobiphenyl
+"
+29504,CHEBI:15968,"guanidines
+"
+29505,CPD0-1675,"a small molecule
+"
+29506,CHEBI:74096,"acylcholine
+"
+29517,CHEBI:47040,"lipid As
+"
+29518,CHEBI:68500,"N-acylglycine
+"
+29523,CHEBI:74430,"N-acylglycine
+"
+29524,CHEBI:74441,"N-acylglycine
+"
+29525,CHEBI:74439,"N-acylglycine
+"
+29526,CHEBI:74438,"N-acylglycine
+"
+29529,CHEBI:68552,"N-acylglycine
+"
+29536,LMFA08020077,"N-acyl amines
+"
+29538,CHEBI:49296,"2-hexenedioic acid
+"
+29538,LMFA01170070,"Dicarboxylic acids
+"
+29541,LMFA05000171,"Fatty alcohols
+"
+29542,CHEBI:74437,"N-acylglycine
+"
+29582,CHEBI:74482,"phosphatidylcholine O-38:0
+"
+29582,LMGP01020097,"1-alkyl,2-acylglycerophosphocholines
+"
+29755,CHEBI:18624,"chloroalkene
+1,3-dichloropropene
+"
+29755,C18627,"Nematicides
+"
+29756,CHEBI:42106,"1,4-dithiothreitol
+"
+29758,CHEBI:16296,"D-alpha-amino acid
+tryptophan
+"
+29758,C00525,"Other amino acids
+"
+29765,CHEBI:34488,"N-(long-chain-acyl)ethanolamine
+"
+29765,C13828,"N-acyl ethanolamides (endocannabinoids)
+"
+29765,LMFA08040011,"N-acyl ethanolamines (endocannabinoids)
+"
+29766,C13829,"N-acyl ethanolamides (endocannabinoids)
+"
+29766,LMFA08040047,"N-acyl ethanolamines (endocannabinoids)
+"
+29771,CHEBI:73723,"glycine derivative
+fatty amide
+fatty acid derivative
+"
+29771,LMFA08020082,"N-acyl amines
+"
+29777,LMST01010014,"Cholesterol and derivatives
+"
+29778,CHEBI:78759,"tertiary amino compound
+sphingoid
+aminodiol
+"
+29778,C13914,"N-methylated sphingoid bases
+"
+29778,LMSP01070001,"N-methylated sphingoid bases
+"
+29781,CHEBI:71465,"N-(long-chain-acyl)ethanolamine
+endocannabinoid
+"
+29781,LMFA08040043,"N-acyl ethanolamines (endocannabinoids)
+"
+29974,CHEBI:50399,"7-hydroxyisoflavones
+"
+29974,C14313,"isoflavones
+"
+29974,LMPK12050055,"Isoflavonoids
+"
+29977,CHEBI:69437,"7-hydroxyisoflavones
+"
+29977,C10510,"Isoflavonoids
+isoflavones
+"
+29977,LMPK12050251,"Isoflavonoids
+"
+30091,C10504,"Neoflavonoids
+"
+30091,LMPK12100004,"Neoflavonoids
+"

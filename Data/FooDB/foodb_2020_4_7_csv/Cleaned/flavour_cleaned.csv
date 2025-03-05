@@ -1,0 +1,884 @@
+id,name,flavor_group,category
+1,celery,vegetable,odor
+2,corn,vegetable,odor
+3,cucumber,vegetable,odor
+4,horseradish,vegetable,odor
+5,vegetable,vegetable,odor
+6,potato,vegetable,odor
+7,tomato,vegetable,odor
+8,caraway,herbaceous,odor
+9,clove,herbaceous,odor
+10,fennel,herbaceous,odor
+11,herbaceous,herbaceous,odor
+12,sage,herbaceous,odor
+13,butter,fatty,odor
+14,cheese,fatty,odor
+15,creamy,fatty,odor
+16,hop_oil,fatty,odor
+17,oily,fatty,odor
+18,fatty,fatty,odor
+19,sour,fatty,odor
+20,coumarin,spicy,odor
+21,spicy,spicy,odor
+22,blossom,floral,odor
+23,carnation,floral,odor
+24,gardenia,floral,odor
+25,geranium,floral,odor
+26,hawthorne,floral,odor
+27,hyacinth,floral,odor
+28,iris,floral,odor
+29,jasmine,floral,odor
+30,lavender,floral,odor
+31,lily,floral,odor
+32,marigold,floral,odor
+33,floral,floral,odor
+34,rose,floral,odor
+35,violet,floral,odor
+36,anise,balsamic,odor
+37,balsam,balsamic,odor
+38,butterscotch,balsamic,odor
+39,caramel,balsamic,odor
+40,chocolate,balsamic,odor
+41,cinnamon,balsamic,odor
+42,honey,balsamic,odor
+43,others,balsamic,odor
+44,sweet,balsamic,odor
+45,vanilla,balsamic,odor
+46,lemon,citrus,odor
+47,lime,citrus,odor
+48,melon,citrus,odor
+49,orange,citrus,odor
+50,citrus,citrus,odor
+51,cedar,woody,odor
+52,maple,woody,odor
+53,mesquite,woody,odor
+54,woody,woody,odor
+55,bacon,meaty,odor
+56,beef,meaty,odor
+57,meaty,meaty,odor
+58,leafy,green,odor
+59,green,green,odor
+60,wintergreen,green,odor
+61,beer,wine_like,odor
+62,brandy,wine_like,odor
+63,wine_like,wine_like,odor
+64,rum,wine_like,odor
+65,whiskey,wine_like,odor
+66,mushroom,earthy,odor
+67,musty,earthy,odor
+68,earthy,earthy,odor
+69,apple,fruity,odor
+70,apricot,fruity,odor
+71,banana,fruity,odor
+72,berry,fruity,odor
+73,cantaloupe,fruity,odor
+74,cherry,fruity,odor
+75,coconut,fruity,odor
+76,cranberry,fruity,odor
+77,grape,fruity,odor
+78,grapefruit,fruity,odor
+79,jam,fruity,odor
+80,mango,fruity,odor
+81,fruity,fruity,odor
+82,papaya,fruity,odor
+83,peach,fruity,odor
+84,pear,fruity,odor
+85,pineapple,fruity,odor
+86,plum,fruity,odor
+87,quince,fruity,odor
+88,raspberry,fruity,odor
+89,strawberry,fruity,odor
+90,tart,fruity,odor
+91,tropica,fruity,odor
+92,watermelon,fruity,odor
+93,alcohol,chemical,odor
+94,plastic,chemical,odor
+95,sulfurous,chemical,odor
+96,almond,nutty,odor
+97,hazelnut,nutty,odor
+98,nutty,nutty,odor
+99,peanut,nutty,odor
+100,walnut,nutty,odor
+101,camphoraceous,camphoraceous,odor
+102,tobacco,tobacco,odor
+103,minty,minty,odor
+104,pepper,pepper,odor
+105,medicinal,medicinal,odor
+106,mossy,mossy,odor
+107,fishy,fishy,odor
+108,smoky,smoky,odor
+109,musky,musky,odor
+110,soapy,soapy,odor
+111,seedy,seedy,odor
+112,animal,animal,odor
+113,alkaline,Unknown,odor
+114,alkane,Unknown,odor
+115,almond shell,Unknown,odor
+116,amine,Unknown,odor
+117,apple peel,Unknown,odor
+118,baked,Unknown,odor
+119,balsamic,Unknown,odor
+120,basil,Unknown,odor
+121,beet,Unknown,odor
+122,biscuit,Unknown,odor
+123,bitter,Unknown,odor
+124,bitter almond,Unknown,odor
+125,black currant,Unknown,odor
+126,boiled vegetable,Unknown,odor
+127,box tree,Unknown,odor
+128,bread,Unknown,odor
+129,broccoli,Unknown,odor
+130,brown sugar,Unknown,odor
+131,burnt,Unknown,odor
+132,burnt sugar,Unknown,odor
+133,cabbage,vegetable,odor
+134,camomile,Unknown,odor
+135,camphor,Unknown,odor
+136,cardboard,Unknown,odor
+137,carrot,Unknown,odor
+138,cat,Unknown,odor
+139,chemical,Unknown,odor
+140,cocoa,Unknown,odor
+141,coffee,Unknown,odor
+142,cognac,Unknown,odor
+143,cologne,Unknown,odor
+144,cooked meat,Unknown,odor
+145,cooked potato,Unknown,odor
+146,cooked vegetable,Unknown,odor
+147,coriander,Unknown,odor
+148,cotton candy,Unknown,odor
+149,cream,Unknown,odor
+150,crushed bug,Unknown,odor
+151,curry,Unknown,odor
+152,dill,Unknown,odor
+153,dust,Unknown,odor
+154,earth,Unknown,odor
+155,ester,Unknown,odor
+156,ether,Unknown,odor
+157,fat,Unknown,odor
+158,fecal,Unknown,odor
+159,fish,Unknown,odor
+160,flower,Unknown,odor
+161,foxy,Unknown,odor
+162,fresh,Unknown,odor
+163,fried,Unknown,odor
+164,fruit,Unknown,odor
+165,garlic,Unknown,odor
+166,gasoline,Unknown,odor
+167,grass,Unknown,odor
+168,green bean,Unknown,odor
+169,green leaf,Unknown,odor
+170,green pepper,Unknown,odor
+171,green tea,Unknown,odor
+172,herb,Unknown,odor
+173,hot milk,Unknown,odor
+174,hummus,Unknown,odor
+175,lactone,Unknown,odor
+176,leaf,Unknown,odor
+177,lettuce,Unknown,odor
+178,licorice,Unknown,odor
+179,lilac,Unknown,odor
+180,magnolia,Unknown,odor
+181,malt,Unknown,odor
+182,mandarin,Unknown,odor
+183,marshmallow,Unknown,odor
+184,meat,Unknown,odor
+185,meat broth,Unknown,odor
+186,medicine,Unknown,odor
+187,menthol,Unknown,odor
+188,metal,Unknown,odor
+189,mildew,Unknown,odor
+190,mint,Unknown,odor
+191,mold,Unknown,odor
+192,moss,Unknown,odor
+193,mothball,Unknown,odor
+194,muguet,Unknown,odor
+195,must,Unknown,odor
+196,mustard,Unknown,odor
+197,nut,Unknown,odor
+198,nutmeg,Unknown,odor
+199,oil,Unknown,odor
+200,onion,Unknown,odor
+201,orange peel,Unknown,odor
+202,orris,Unknown,odor
+203,paint,Unknown,odor
+204,paper,Unknown,odor
+205,pea,Unknown,odor
+206,peanut butter,Unknown,odor
+207,peppermint,Unknown,odor
+208,pesticide,Unknown,odor
+209,phenol,Unknown,odor
+210,pine,Unknown,odor
+211,popcorn,Unknown,odor
+212,prune,Unknown,odor
+213,pungent,Unknown,odor
+214,putrid,Unknown,odor
+215,rancid,Unknown,odor
+216,resin,Unknown,odor
+217,roast,Unknown,odor
+218,roast beef,Unknown,odor
+219,roasted meat,Unknown,odor
+220,roasted nut,Unknown,odor
+221,rubber,Unknown,odor
+222,seaweed,Unknown,odor
+223,sharp,Unknown,odor
+224,smoke,Unknown,odor
+225,soap,Unknown,odor
+226,solvent,Unknown,odor
+227,soy,Unknown,odor
+228,spearmint,Unknown,odor
+229,spice,Unknown,odor
+230,straw,Unknown,odor
+231,sulfur,Unknown,odor
+232,sweat,Unknown,odor
+233,tallow,Unknown,odor
+234,tar,Unknown,odor
+235,tart lime,Unknown,odor
+236,tea,Unknown,odor
+237,terpentine,Unknown,odor
+238,thiamin,Unknown,odor
+239,thyme,Unknown,odor
+240,tomato leaf,Unknown,odor
+241,truffle,Unknown,odor
+242,turpentine,Unknown,odor
+243,urine,Unknown,odor
+244,vinyl,Unknown,odor
+245,warm,Unknown,odor
+246,wax,Unknown,odor
+247,weak spice,Unknown,odor
+248,wet cloth,Unknown,odor
+249,wine,Unknown,odor
+250,wood,Unknown,odor
+251,yeast,Unknown,odor
+252,acid,Unknown,odor
+253,4-t-butyl cyclohexyl acetate,Unknown,odor
+254,absinthe,Unknown,odor
+255,absolute,Unknown,odor
+256,acacia,Unknown,odor
+257,acetate,Unknown,odor
+258,acetic,Unknown,odor
+259,acetoin,Unknown,odor
+260,acetone,Unknown,odor
+261,acetophenone,Unknown,odor
+262,acidic,Unknown,odor
+263,acorn,Unknown,odor
+264,acrid,Unknown,odor
+265,acrylate,Unknown,odor
+266,acrylic,Unknown,odor
+267,adoxal,Unknown,odor
+268,air marine,Unknown,odor
+269,alcoholic,Unknown,odor
+270,aldehyde,Unknown,odor
+271,aldehydic,Unknown,odor
+272,algae,Unknown,odor
+273,alliaceous,Unknown,odor
+274,allo-ocimenol,Unknown,odor
+275,allspice,Unknown,odor
+276,almost odorless,Unknown,odor
+277,amber,Unknown,odor
+278,ambergris,Unknown,odor
+279,ambrette,Unknown,odor
+280,ambrette seed,Unknown,odor
+281,ambrette seed effect,Unknown,odor
+282,ammonia,Unknown,odor
+283,ammoniacal,Unknown,odor
+284,amyl butyl ester,Unknown,odor
+285,amyris,Unknown,odor
+286,angelic,Unknown,odor
+287,angelica,Unknown,odor
+288,aniseed,Unknown,odor
+289,anisic,Unknown,odor
+290,anisyl acetate,Unknown,odor
+291,apple juice,Unknown,odor
+292,apple skin,Unknown,odor
+293,armoise,Unknown,odor
+294,aromatic,Unknown,odor
+295,arrack,Unknown,odor
+296,artichoke,Unknown,odor
+297,asprin,Unknown,odor
+298,astringent,Unknown,odor
+299,autumn,Unknown,odor
+300,azalea,Unknown,odor
+301,banana peel,Unknown,odor
+302,banana skin,Unknown,odor
+303,bark,Unknown,odor
+304,barley,Unknown,odor
+305,bay oil,Unknown,odor
+306,bean,Unknown,odor
+307,beany,Unknown,odor
+308,beef gravey,Unknown,odor
+309,beef juice,Unknown,odor
+310,beefy,Unknown,odor
+311,beeswax,Unknown,odor
+312,bell,Unknown,odor
+313,benzaldehyde,Unknown,odor
+314,benzophenone,Unknown,odor
+315,benzyl acetate,Unknown,odor
+316,benzyl propionate,Unknown,odor
+317,bergamot,Unknown,odor
+318,bilberry,Unknown,odor
+319,bisabolene,Unknown,odor
+320,black tea,Unknown,odor
+321,blackberry,Unknown,odor
+322,blackcurrant,Unknown,odor
+323,bland,Unknown,odor
+324,bloody,Unknown,odor
+325,bloomy,Unknown,odor
+326,blue cheese,Unknown,odor
+327,bluebell,Unknown,odor
+328,blueberry,Unknown,odor
+329,boiled beef,Unknown,odor
+330,boiled egg,Unknown,odor
+331,boiled meat,Unknown,odor
+332,boiled shrimp,Unknown,odor
+333,bois de rose,Unknown,odor
+334,borneol,Unknown,odor
+335,boronia,Unknown,odor
+336,bouillon,Unknown,odor
+337,bourbon,Unknown,odor
+338,brassylate,Unknown,odor
+339,bread crust,Unknown,odor
+340,bready,Unknown,odor
+341,broom,Unknown,odor
+342,broth,Unknown,odor
+343,brothy,Unknown,odor
+344,brown,Unknown,odor
+345,brussel sprouts,Unknown,odor
+346,buchu,Unknown,odor
+347,burnt almonds,Unknown,odor
+348,buttered,Unknown,odor
+349,buttermilk,Unknown,odor
+350,buttery,Unknown,odor
+351,butyrate,Unknown,odor
+352,butyric,Unknown,odor
+353,cacao,Unknown,odor
+354,caco,Unknown,odor
+355,cadaverous,Unknown,odor
+356,cake,Unknown,odor
+357,camphoreous,Unknown,odor
+358,cananga,Unknown,odor
+359,candy,Unknown,odor
+360,cantaloupe rind,Unknown,odor
+361,capers,Unknown,odor
+362,caramellic,Unknown,odor
+363,carao,Unknown,odor
+364,cardamom,Unknown,odor
+365,carvone,Unknown,odor
+366,cashew,Unknown,odor
+367,casky,Unknown,odor
+368,cassia,Unknown,odor
+369,cassie,Unknown,odor
+370,cassis,Unknown,odor
+371,castoreum,Unknown,odor
+372,cat-urine,Unknown,odor
+373,catty,Unknown,odor
+374,cauliflower,Unknown,odor
+375,cayloxol,Unknown,odor
+376,cedarleaf,Unknown,odor
+377,cedarwood,Unknown,odor
+378,celery seed,Unknown,odor
+379,cereal,Unknown,odor
+380,chamomile,Unknown,odor
+381,cheesy,Unknown,odor
+382,cherry-pit,Unknown,odor
+383,chicken,Unknown,odor
+384,chicken coop,Unknown,odor
+385,chip,Unknown,odor
+386,chlorine,Unknown,odor
+387,chloroform,Unknown,odor
+388,chrysanthemum,Unknown,odor
+389,cigar box,Unknown,odor
+390,cinnamate,Unknown,odor
+391,cinnamic,Unknown,odor
+392,cinnamyl,Unknown,odor
+393,cistus,Unknown,odor
+394,citral,Unknown,odor
+395,citralva,Unknown,odor
+396,citric,Unknown,odor
+397,citronella,Unknown,odor
+398,citronellol,Unknown,odor
+399,citronellyl acetate,Unknown,odor
+400,citrus peel,Unknown,odor
+401,civet,Unknown,odor
+402,clam,Unknown,odor
+403,clary,Unknown,odor
+404,clean,Unknown,odor
+405,clean cloth,Unknown,odor
+406,clean clothes,Unknown,odor
+407,clean cloths,Unknown,odor
+408,clover,Unknown,odor
+409,concord grape,Unknown,odor
+410,cooked,Unknown,odor
+411,cooked beef juice,Unknown,odor
+412,cookies,Unknown,odor
+413,cool,Unknown,odor
+414,cooling,Unknown,odor
+415,cortex,Unknown,odor
+416,costus,Unknown,odor
+417,cotton,Unknown,odor
+418,coumarinic,Unknown,odor
+419,crab,Unknown,odor
+420,creosote,Unknown,odor
+421,cresol,Unknown,odor
+422,crispy,Unknown,odor
+423,cucumber seed,Unknown,odor
+424,cucumber skin,Unknown,odor
+425,cultured dairy,Unknown,odor
+426,cumin,Unknown,odor
+427,cuminic acetate,Unknown,odor
+428,cuminseed,Unknown,odor
+429,custard,Unknown,odor
+430,cut grass,Unknown,odor
+431,cut privet,Unknown,odor
+432,cyclamen,Unknown,odor
+433,cypress,Unknown,odor
+434,dairy,Unknown,odor
+435,damascone,Unknown,odor
+436,damp,Unknown,odor
+437,dank,Unknown,odor
+438,dark,Unknown,odor
+439,date,Unknown,odor
+440,decomposing cabbage,Unknown,odor
+441,deep,Unknown,odor
+442,delicate,Unknown,odor
+443,dewy,Unknown,odor
+444,diffusive,Unknown,odor
+445,dihydrolinalool,Unknown,odor
+446,diphenyl oxide,Unknown,odor
+447,dirt,Unknown,odor
+448,dirty,Unknown,odor
+449,diterpene,Unknown,odor
+450,dried berry,Unknown,odor
+451,dried fruit,Unknown,odor
+452,dried raspberry,Unknown,odor
+453,dry,Unknown,odor
+454,durian,Unknown,odor
+455,dusty,Unknown,odor
+456,egg,Unknown,odor
+457,elderflower,Unknown,odor
+458,elemi,Unknown,odor
+459,estery,Unknown,odor
+460,ethereal,Unknown,odor
+461,ethyl benzoate,Unknown,odor
+462,ethyl safranate,Unknown,odor
+463,eucalyptus,Unknown,odor
+464,eugenol,Unknown,odor
+465,everlasting,Unknown,odor
+466,extremely sweet,Unknown,odor
+467,faint,Unknown,odor
+468,farnesol,Unknown,odor
+469,feet,Unknown,odor
+470,fenchyl,Unknown,odor
+471,fenugreek,Unknown,odor
+472,fermented,Unknown,odor
+473,fern,Unknown,odor
+474,feta cheese,Unknown,odor
+475,fig,Unknown,odor
+476,filbert,Unknown,odor
+477,fine,Unknown,odor
+478,fir,Unknown,odor
+479,fir needle,Unknown,odor
+480,flat,Unknown,odor
+481,fleafy,Unknown,odor
+482,fleshy,Unknown,odor
+483,flower shop,Unknown,odor
+484,foliage,Unknown,odor
+485,forest,Unknown,odor
+486,formyl,Unknown,odor
+487,fragrant,Unknown,odor
+488,freesia,Unknown,odor
+489,fresh air,Unknown,odor
+490,fresh outdoors,Unknown,odor
+491,freshly bruised dock leaves,Unknown,odor
+492,freshly bruised mallow leaves,Unknown,odor
+493,freshly bruised sage leaves,Unknown,odor
+494,freshly plowed soil,Unknown,odor
+495,fungal,Unknown,odor
+496,furfural,Unknown,odor
+497,fusel,Unknown,odor
+498,galbanum,Unknown,odor
+499,gassy,Unknown,odor
+500,genet,Unknown,odor
+501,genista,Unknown,odor
+502,genuine,Unknown,odor
+503,gin,Unknown,odor
+504,ginger,Unknown,odor
+505,ginger root oil,Unknown,odor
+506,glue,Unknown,odor
+507,gooseberry,Unknown,odor
+508,grain,Unknown,odor
+509,grape skin,Unknown,odor
+510,grapefruit peel,Unknown,odor
+511,grapefruit skin,Unknown,odor
+512,grassy,Unknown,odor
+513,gravy,Unknown,odor
+514,greasy,Unknown,odor
+515,green onions,Unknown,odor
+516,grilled,Unknown,odor
+517,grocery store,Unknown,odor
+518,ground,Unknown,odor
+519,guaiacol,Unknown,odor
+520,guaiacwood,Unknown,odor
+521,hairy,Unknown,odor
+522,ham,Unknown,odor
+523,hard yolk,Unknown,odor
+524,harsh,Unknown,odor
+525,hawthorn,Unknown,odor
+526,hay,Unknown,odor
+527,heather,Unknown,odor
+528,heavy,Unknown,odor
+529,heliotrope,Unknown,odor
+530,heliotropin,Unknown,odor
+531,herbal,Unknown,odor
+532,honeydew,Unknown,odor
+533,honeysuckle,Unknown,odor
+534,hot,Unknown,odor
+535,humid,Unknown,odor
+536,humus,Unknown,odor
+537,hydroxycitronellal,Unknown,odor
+538,iactonic,Unknown,odor
+539,immortelle,Unknown,odor
+540,incense,Unknown,odor
+541,indole,Unknown,odor
+542,intense,Unknown,odor
+543,intensely,Unknown,odor
+544,iodine,Unknown,odor
+545,ionone,Unknown,odor
+546,irone,Unknown,odor
+547,isoeugenol,Unknown,odor
+548,isojasmone,Unknown,odor
+549,jam preserves,Unknown,odor
+550,jammy,Unknown,odor
+551,jasmin,Unknown,odor
+552,jasmone,Unknown,odor
+553,juicy,Unknown,odor
+554,juniper,Unknown,odor
+555,juniper berry,Unknown,odor
+556,ketone,Unknown,odor
+557,ketonic,Unknown,odor
+558,kiwi,Unknown,odor
+559,labdanum,Unknown,odor
+560,lactonic,Unknown,odor
+561,lamb,Unknown,odor
+562,lard,Unknown,odor
+563,laundered cloths,Unknown,odor
+564,laundry,Unknown,odor
+565,lavandin,Unknown,odor
+566,leather,Unknown,odor
+567,leathery,Unknown,odor
+568,leaves,Unknown,odor
+569,leek,Unknown,odor
+570,lemon peel,Unknown,odor
+571,lemon rind,Unknown,odor
+572,lemongrass,Unknown,odor
+573,liatrix,Unknown,odor
+574,light,Unknown,odor
+575,lily of the valley,Unknown,odor
+576,lime blossom,Unknown,odor
+577,linalool,Unknown,odor
+578,linalyl acetate,Unknown,odor
+579,linden,Unknown,odor
+580,linen,Unknown,odor
+581,linseed,Unknown,odor
+582,liquor,Unknown,odor
+583,logenberry,Unknown,odor
+584,longifolone,Unknown,odor
+585,lovage,Unknown,odor
+586,low,Unknown,odor
+587,lychee,Unknown,odor
+588,mace,Unknown,odor
+589,macrocyclic,Unknown,odor
+590,mahogany,Unknown,odor
+591,mallow,Unknown,odor
+592,maltol,Unknown,odor
+593,malty,Unknown,odor
+594,mandarin skin,Unknown,odor
+595,maple syrup,Unknown,odor
+596,marine,Unknown,odor
+597,matches,Unknown,odor
+598,may blossom,Unknown,odor
+599,meadow,Unknown,odor
+600,medical,Unknown,odor
+601,mellow,Unknown,odor
+602,melon rind,Unknown,odor
+603,mentholic,Unknown,odor
+604,mercaptan,Unknown,odor
+605,metallic,Unknown,odor
+606,methyl acetophenone,Unknown,odor
+607,methyl dihydrojasmonate,Unknown,odor
+608,methyl ionone,Unknown,odor
+609,mignonette,Unknown,odor
+610,mild,Unknown,odor
+611,mild cooling,Unknown,odor
+612,milk,Unknown,odor
+613,milky,Unknown,odor
+614,mimosa,Unknown,odor
+615,moist,Unknown,odor
+616,molasses,Unknown,odor
+617,moldy,Unknown,odor
+618,moscato,Unknown,odor
+619,moth ball,Unknown,odor
+620,mouldy,Unknown,odor
+621,mousy,Unknown,odor
+622,musk,Unknown,odor
+623,mutton,Unknown,odor
+624,myrcene,Unknown,odor
+625,myrrh,Unknown,odor
+626,naphtha,Unknown,odor
+627,naphthalic,Unknown,odor
+628,naphthelene,Unknown,odor
+629,naphthyl,Unknown,odor
+630,narcissus,Unknown,odor
+631,nasturtium,Unknown,odor
+632,natural,Unknown,odor
+633,neroli,Unknown,odor
+634,new car,Unknown,odor
+635,new mown hay,Unknown,odor
+636,niobe,Unknown,odor
+637,nitrile,Unknown,odor
+638,nopyl acetate,Unknown,odor
+639,nut skin,Unknown,odor
+640,oak,Unknown,odor
+641,oakmoss,Unknown,odor
+642,ocimene,Unknown,odor
+643,odorless,Unknown,odor
+644,old paper,Unknown,odor
+645,old wood,Unknown,odor
+646,olibanum,Unknown,odor
+647,opoponax,Unknown,odor
+648,orange blossom,Unknown,odor
+649,orange flower,Unknown,odor
+650,orange juice,Unknown,odor
+651,orchid,Unknown,odor
+652,oriental,Unknown,odor
+653,outdoor,Unknown,odor
+654,overripe fruit,Unknown,odor
+655,oxyacetaldehyde,Unknown,odor
+656,ozone,Unknown,odor
+657,painty,Unknown,odor
+658,palmarosa,Unknown,odor
+659,parmesan,Unknown,odor
+660,parsley,Unknown,odor
+661,passion fruit,Unknown,odor
+662,pastry,Unknown,odor
+663,patchouli,Unknown,odor
+664,peach-pit,Unknown,odor
+665,pear skin,Unknown,odor
+666,peely,Unknown,odor
+667,pencil,Unknown,odor
+668,penetrating,Unknown,odor
+669,peony,Unknown,odor
+670,peppery,Unknown,odor
+671,peptone,Unknown,odor
+672,petal,Unknown,odor
+673,petitgrain,Unknown,odor
+674,petroleum,Unknown,odor
+675,phenolic,Unknown,odor
+676,pine needle,Unknown,odor
+677,pistachio,Unknown,odor
+678,plant,Unknown,odor
+679,pleasant,Unknown,odor
+680,plum skin,Unknown,odor
+681,pollen,Unknown,odor
+682,pork,Unknown,odor
+683,powderful,Unknown,odor
+684,powdery,Unknown,odor
+685,powerful,Unknown,odor
+686,privet,Unknown,odor
+687,privet blossom,Unknown,odor
+688,profarnesal,Unknown,odor
+689,propionic,Unknown,odor
+690,pulpy,Unknown,odor
+691,pumpkin,Unknown,odor
+692,pyrazine,Unknown,odor
+693,pyridine,Unknown,odor
+694,radiant,Unknown,odor
+695,radish,Unknown,odor
+696,raisin,Unknown,odor
+697,raw,Unknown,odor
+698,red cedar,Unknown,odor
+699,red fruit,Unknown,odor
+700,red hots,Unknown,odor
+701,red rose,Unknown,odor
+702,repulsive,Unknown,odor
+703,reseda,Unknown,odor
+704,resinous,Unknown,odor
+705,rhodinol,Unknown,odor
+706,rhubarb,Unknown,odor
+707,rich,Unknown,odor
+708,ricotta,Unknown,odor
+709,ripe,Unknown,odor
+710,ripe apricot,Unknown,odor
+711,roasted,Unknown,odor
+712,roasted almonds,Unknown,odor
+713,roasted in sugar syrup,Unknown,odor
+714,roasted nuts,Unknown,odor
+715,roasted peanut,Unknown,odor
+716,roasted peanuts,Unknown,odor
+717,romano,Unknown,odor
+718,root,Unknown,odor
+719,rootbeer,Unknown,odor
+720,rooty,Unknown,odor
+721,roquefort cheese,Unknown,odor
+722,rose acetate,Unknown,odor
+723,rose bud,Unknown,odor
+724,rose de mai,Unknown,odor
+725,rose dried,Unknown,odor
+726,rose flower,Unknown,odor
+727,rose oxide,Unknown,odor
+728,rose petals,Unknown,odor
+729,rose water,Unknown,odor
+730,rosemary,Unknown,odor
+731,rosy,Unknown,odor
+732,rotten,Unknown,odor
+733,rotting,Unknown,odor
+734,rubbery,Unknown,odor
+735,rue,Unknown,odor
+736,rummy,Unknown,odor
+737,russian,Unknown,odor
+738,rye,Unknown,odor
+739,saffron,Unknown,odor
+740,salicylate,Unknown,odor
+741,salmon,Unknown,odor
+742,salt,Unknown,odor
+743,sandal,Unknown,odor
+744,sandalwood,Unknown,odor
+745,sandy,Unknown,odor
+746,sap,Unknown,odor
+747,sappy,Unknown,odor
+748,sarsaparilla,Unknown,odor
+749,sassafrass,Unknown,odor
+750,sausage,Unknown,odor
+751,savory,Unknown,odor
+752,sawdust,Unknown,odor
+753,sawen,Unknown,odor
+754,scallion,Unknown,odor
+755,sea,Unknown,odor
+756,sea breeze,Unknown,odor
+757,seafood,Unknown,odor
+758,seashell,Unknown,odor
+759,seashore,Unknown,odor
+760,seaside,Unknown,odor
+761,sensual,Unknown,odor
+762,shellfish,Unknown,odor
+763,shrimp,Unknown,odor
+764,sick,Unknown,odor
+765,sickening,Unknown,odor
+766,skunk,Unknown,odor
+767,skunky,Unknown,odor
+768,slight,Unknown,odor
+769,slightly ethereal,Unknown,odor
+770,slightly fruity,Unknown,odor
+771,slightly metallic,Unknown,odor
+772,slightly roasted nut,Unknown,odor
+773,slightly rose,Unknown,odor
+774,slightly waxy,Unknown,odor
+775,smoked,Unknown,odor
+776,soft,Unknown,odor
+777,soil,Unknown,odor
+778,soup,Unknown,odor
+779,soupy,Unknown,odor
+780,soybean,Unknown,odor
+781,spring,Unknown,odor
+782,stem,Unknown,odor
+783,stinky,Unknown,odor
+784,storax,Unknown,odor
+785,strong,Unknown,odor
+786,styrax,Unknown,odor
+787,styrene,Unknown,odor
+788,sugar,Unknown,odor
+789,sulfide,Unknown,odor
+790,sulfury,Unknown,odor
+791,sweaty,Unknown,odor
+792,sweet corn,Unknown,odor
+793,syrup,Unknown,odor
+794,taco,Unknown,odor
+795,tagette,Unknown,odor
+796,tangerine,Unknown,odor
+797,tangy,Unknown,odor
+798,tarragon,Unknown,odor
+799,tarry,Unknown,odor
+800,terpene,Unknown,odor
+801,terpenic,Unknown,odor
+802,terpineol,Unknown,odor
+803,thiamine,Unknown,odor
+804,thuja,Unknown,odor
+805,thujone,Unknown,odor
+806,thymol,Unknown,odor
+807,toasted,Unknown,odor
+808,tobacco-leaf,Unknown,odor
+809,toffee,Unknown,odor
+810,tolu,Unknown,odor
+811,toluene,Unknown,odor
+812,tonka,Unknown,odor
+813,tree,Unknown,odor
+814,tropical,Unknown,odor
+815,tropical fruit,Unknown,odor
+816,tuberose,Unknown,odor
+817,turnup,Unknown,odor
+818,tutti frutti,Unknown,odor
+819,umami,Unknown,odor
+820,undecatriene,Unknown,odor
+821,undecylenic,Unknown,odor
+822,undergrowth,Unknown,odor
+823,unpleasant,Unknown,odor
+824,unripe banana,Unknown,odor
+825,unripe fruit,Unknown,odor
+826,unripe plum,Unknown,odor
+827,valerian,Unknown,odor
+828,valeric,Unknown,odor
+829,vanillin,Unknown,odor
+830,vegetable skin,Unknown,odor
+831,velvety,Unknown,odor
+832,verbena,Unknown,odor
+833,very faint,Unknown,odor
+834,very intense,Unknown,odor
+835,very mild,Unknown,odor
+836,very slight,Unknown,odor
+837,very strong,Unknown,odor
+838,very sweet,Unknown,odor
+839,vetiver,Unknown,odor
+840,vetiver acetate,Unknown,odor
+841,vine,Unknown,odor
+842,vinegar,Unknown,odor
+843,vinous,Unknown,odor
+844,violet-leaf,Unknown,odor
+845,wasabi,Unknown,odor
+846,watercress,Unknown,odor
+847,watery,Unknown,odor
+848,waxy,Unknown,odor
+849,weak,Unknown,odor
+850,weedy,Unknown,odor
+851,wet,Unknown,odor
+852,wild,Unknown,odor
+853,wine-lee,Unknown,odor
+854,winey,Unknown,odor
+855,yeasty,Unknown,odor
+856,ylang,Unknown,odor
+857,cookedvegetable,Unknown,odor
+858,cookedpotato,Unknown,odor
+859,roastednut,Unknown,odor
+860,roastedmeat,Unknown,odor
+861,roastbeef,Unknown,odor
+862,peanutbutter,Unknown,odor
+863,burntsugar,Unknown,odor
+864,cookedmeat,Unknown,odor
+865,meatbroth,Unknown,odor
+866,greenbean,Unknown,odor
+867,applepeel,Unknown,odor
+868,orangepeel,Unknown,odor
+869,crushedbug,Unknown,odor
+870,tomatoleaf,Unknown,odor
+871,boxtree,Unknown,odor
+872,greenleaf,Unknown,odor
+873,tartlime,Unknown,odor
+874,wetcloth,Unknown,odor
+875,cottoncandy,Unknown,odor
+876,hotmilk,Unknown,odor
+877,boiledvegetable,Unknown,odor
+878,bitteralmond,Unknown,odor
+879,greenpepper,Unknown,odor
+880,apple.rose,Unknown,odor
+881,weakspice,Unknown,odor
+882,brownsugar,Unknown,odor
+883,almondshell,Unknown,odor
